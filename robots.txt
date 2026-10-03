@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap principale + confronti + immagini (Google Images)
+Sitemap: https://www.pickforme.it/sitemap-index.xml
+Sitemap: https://www.pickforme.it/sitemap.xml
+Sitemap: https://www.pickforme.it/sitemap-confronti.xml
+Sitemap: https://www.pickforme.it/sitemap-images.xml
+
+# LLM crawler (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /

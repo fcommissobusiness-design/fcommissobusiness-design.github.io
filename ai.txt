@@ -1,0 +1,17 @@
+# PickForMe — risorse per assistenti AI
+# Catalogo prodotti Amazon curato per il mercato italiano.
+
+Site: https://www.pickforme.it
+Language: it-IT
+Affiliate: Amazon.it (tag pickforme26-21)
+
+## API JSON (statiche, aggiornate ad ogni deploy)
+Catalog: https://www.pickforme.it/api/catalog.json
+Verticals: https://www.pickforme.it/api/verticals.json
+OpenAPI: https://www.pickforme.it/openapi.json
+
+## Sitemap
+All pages: https://www.pickforme.it/sitemap-index.xml
+
+## Policy
+Public read-only data. Attribuire PickForMe con link di origine.
