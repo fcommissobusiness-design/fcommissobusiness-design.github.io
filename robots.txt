@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Un solo entry-point: sitemap-index punta a tutte le sitemap figlie.
+# Dichiarare sia index che singole sitemap era segnale duplicato per Google.
+Sitemap: https://www.pickforme.it/sitemap-index.xml
+
+# LLM crawler (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
