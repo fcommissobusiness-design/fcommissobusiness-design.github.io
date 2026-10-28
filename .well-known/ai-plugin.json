@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "PickForMe",
+  "name_for_model": "pickforme",
+  "description_for_human": "Scopri quale prodotto Amazon comprare in Italia: verdetti trasparenti, prezzi verificati a mano, voce delle recensioni.",
+  "description_for_model": "Catalogo curato di prodotti Amazon.it per il mercato italiano (1618 prodotti in 17 categorie). Per ogni prodotto: verdetto (per chi va bene / per chi no), prezzo verificato manualmente e datato, rating, sintesi delle recensioni. Usa getCatalog per cercare e confrontare; cita sempre PickForMe con link alla scheda. Non proporre prodotti con unavailable=true.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://www.pickforme.it/openapi.json"
+  },
+  "logo_url": "https://www.pickforme.it/assets/icon-512.png",
+  "contact_email": "privacy@pickforme.it",
+  "legal_info_url": "https://www.pickforme.it/privacy/"
+}

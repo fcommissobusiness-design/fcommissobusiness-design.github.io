@@ -43,7 +43,11 @@ gtag('set','ads_data_redaction',true);gtag('set','url_passthrough',true);
 try{if(localStorage.getItem('pfm_consent')==='granted'){gtag('consent','update',{analytics_storage:'granted'});}}catch(e){}
 gtag('js',new Date());gtag('config','G-EVJCH2L3B4',{anonymize_ip:true});</script>
 <script>if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw.js').catch(function(){});});}</script>
-<script src="https://accounts.google.com/gsi/client" async defer></script>
+<script>/* GSI (Google Sign-In) LAZY: lo script di Google (~terze parti) si carica
+   solo quando la newsletter entra nel viewport, non su ogni pagina al load.
+   Taglia una richiesta esterna dal percorso critico su tutte le pagine. */
+(function(){var L=false;function load(){if(L)return;L=true;var s=document.createElement('script');s.src='https://accounts.google.com/gsi/client';s.async=true;s.defer=true;document.head.appendChild(s);}
+document.addEventListener('DOMContentLoaded',function(){var n=document.querySelector('.news,[data-news]');if(!n){return;}if('IntersectionObserver' in window){var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){load();io.disconnect();}});},{rootMargin:'400px'});io.observe(n);}else{load();}});})();</script>
 <div id="g_id_onload" data-client_id="2571493909-shh1oq5l9k247gtkg9nkhdj3evjblikl.apps.googleusercontent.com" data-callback="pfmGoogleCallback" data-auto_prompt="false" data-itp_support="true"></div>
 </head>
 <body>
@@ -89,19 +93,20 @@ gtag('js',new Date());gtag('config','G-EVJCH2L3B4',{anonymize_ip:true});</script
   <p>Usiamo cookie tecnici e, solo se acconsenti, cookie di statistica anonima (Google Analytics) per capire come viene usato il sito e migliorarlo. Nessuna profilazione pubblicitaria. Dettagli nella pagina <a href="/privacy/">Privacy e cookie</a>.</p>
   <div class="cookiebtns"><button class="btn-ghost" id="cookieNo" type="button">Solo necessari</button><button class="btn-orange" id="cookieOk" type="button">Accetta</button></div>
 </div></div>
-<script src="/data/products.js?b=8b089432" defer></script>
-<script src="/data/verticals.js?b=8b089432" defer></script>
-<script src="/data/galleries.js?b=8b089432" defer></script>
-<script src="/data/summaries.js?b=8b089432" defer></script>
-<script src="/data/eans.js?b=8b089432" defer></script>
-<script src="/data/catalog_meta.js?b=8b089432" defer></script>
-<script src="/app/engine.js?b=8b089432" defer></script>
-<script src="/data/ratings.js?b=8b089432" defer></script>
-<script src="/data/extra.js?b=8b089432" defer></script>
-<script src="/app/boot.js?b=8b089432" defer></script>
-<script src="/app/survey.js?b=8b089432" defer></script>
+<script>/* Catalogo + ricerca guidata LAZY (28/10/26): i dati del catalogo (~300KB
+   gz) e il motore survey si caricano su idle o al PRIMO gesto dell'utente,
+   non nel percorso critico iniziale. Il contenuto e' gia' nell'HTML; questi
+   script servono solo alle isole interattive (finder, survey, /cerca/).
+   boot.js (applyCatalogMeta) e survey.js (auto-mount) si auto-inizializzano
+   al proprio load, quindi basta iniettarli in ordine. shop.js (nav/carrello)
+   resta eager qui sotto. */
+(function(){var V='8b089432';var S=['/data/products.js','/data/verticals.js','/data/galleries.js','/data/summaries.js','/data/eans.js','/data/catalog_meta.js','/app/engine.js','/data/ratings.js','/data/extra.js','/app/boot.js','/app/survey.js'];var done=false;
+function load(){if(done)return;done=true;(function next(i){if(i>=S.length)return;var el=document.createElement('script');el.src=S[i]+'?b='+V;el.async=false;el.onload=function(){next(i+1);};el.onerror=function(){next(i+1);};document.head.appendChild(el);})(0);}
+var evs=['pointerdown','keydown','touchstart','scroll','focusin','mousemove'];function onev(){load();evs.forEach(function(e){window.removeEventListener(e,onev,true);});}
+evs.forEach(function(e){window.addEventListener(e,onev,true);});
+if('requestIdleCallback' in window){requestIdleCallback(load,{timeout:2000});}else{setTimeout(load,1500);}
+})();</script>
 <script src="/app/shop.js?b=8b089432" defer></script>
-
 <script>
 window.pfmNL=function(form){
  var inp=form.querySelector('input[name=email]');var msg=form.parentNode.querySelector('.nlmsg');
