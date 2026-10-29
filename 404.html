@@ -32,7 +32,9 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="PickForMe">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"></noscript>
 <link rel="preconnect" href="https://m.media-amazon.com">
 <link rel="stylesheet" href="/assets/rightpick.css?b=8b089432">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Pagina non trovata","url":"https://www.pickforme.it/404.html"},{"@type":"Organization","@id":"https://www.pickforme.it/#organizzazione","name":"PickForMe","url":"https://www.pickforme.it/","slogan":"You need it. We pick it.","logo":"https://www.pickforme.it/assets/logo-full-1200.png","description":"Motore di decisione d'acquisto: quale prodotto comprare, non dove. Catalogo curato a mano, regole di scelta esplicite, scelte sempre spiegate.","knowsAbout":["Robot aspirapolvere","Sedie ergonomiche","Materassi","Trapani e avvitatori","Macchine da caffè","Scrivanie regolabili","Deumidificatori","Obiettivi fotografici","Friggitrici ad aria","Monitor da scrivania","Aspirapolvere senza filo","Purificatori d'aria","Spazzolini elettrici","Cuffie e auricolari bluetooth","Casse bluetooth","Sicurezza casa smart","Ufficio e piccola attività"],"areaServed":{"@type":"Country","name":"Italia"},"publishingPrinciples":"https://www.pickforme.it/come-funziona/"}]}</script>
@@ -65,7 +67,17 @@ document.addEventListener('DOMContentLoaded',function(){var n=document.querySele
 <div class="rowhead"><h2>Oppure inizia da qui</h2></div>
 <div class="tree"><a href="/categoria/robot-aspirapolvere/">Robot aspirapolvere<span>95 modelli confrontati</span></a><a href="/categoria/sedie-ergonomiche/">Sedie ergonomiche<span>98 modelli confrontati</span></a><a href="/categoria/materassi/">Materassi<span>99 modelli confrontati</span></a><a href="/categoria/utensili-elettrici/">Trapani e avvitatori<span>130 modelli confrontati</span></a><a href="/categoria/macchine-caffe/">Macchine da caffè<span>96 modelli confrontati</span></a><a href="/categoria/scrivanie-regolabili/">Scrivanie regolabili<span>98 modelli confrontati</span></a></div>
 <div class="news" data-news><div><h2>Iscriviti alla nostra newsletter</h2><div class="gsi-wrap" style="margin:10px 0 6px"><div class="g_id_signin" data-client_id="2571493909-shh1oq5l9k247gtkg9nkhdj3evjblikl.apps.googleusercontent.com" data-callback="pfmGoogleCallback" data-type="standard" data-theme="outline" data-size="large" data-text="signup_with" data-shape="pill" data-locale="it" data-logo_alignment="left"></div><div style="color:rgba(255,255,255,.75);font-size:12px;margin-top:4px;text-align:center">oppure usa la tua email</div></div><form class="nlform" data-nl action="https://buttondown.com/api/emails/embed-subscribe/pickforme" method="post" target="_blank" onsubmit="return pfmNL(this)"><input type="email" name="email" placeholder="La tua email" required autocomplete="email"><button class="btn-light" type="submit">Iscriviti</button></form><div class="sub nlmsg" style="color:rgba(255,255,255,.85);margin-top:8px;min-height:16px" role="status" aria-live="polite"></div></div>
-<div class="txt">Ricevi aggiornamenti sulle nuove selezioni giornaliere, sui nuovi sconti e sulle occasioni da non lasciarti sfuggire, sui prodotti in evidenza e su qualche scelta che vale la pena guardare.</div></div></main>
+<div class="txt">Ricevi aggiornamenti sulle nuove selezioni giornaliere, sui nuovi sconti e sulle occasioni da non lasciarti sfuggire, sui prodotti in evidenza e su qualche scelta che vale la pena guardare.</div></div>
+<script>/* Smart-redirect per URL morti noti: news effimere /novita/*-DATA/ e
+   confronti A-vs-B rimossi dal consolidation 24/10. Riduce il peso delle 404
+   nel Coverage GSC senza inquinare robots.txt. GitHub Pages non ha 301 lato
+   server; il meta-redirect via JS e' il miglior equivalente lato client. */
+(function(){try{var p=location.pathname;
+var mNov=p.match(/^\/novita\/([a-z0-9-]+)-\d{4}-\d{2}-\d{2}\/?$/);
+if(mNov){location.replace('/novita/');return;}
+var mConf=p.match(/^\/confronto\/([a-z0-9-]+)\/[a-z0-9-]+-vs-[a-z0-9-]+\/?$/);
+if(mConf){location.replace('/confronto/'+mConf[1]+'/');return;}
+}catch(e){}})();</script></main>
 <footer><div class="wrap">
   <div class="fgrid">
     <div class="fbrand"><a class="logo brand" href="/" aria-label="PickForMe"><img src="/assets/logo-mark-96.png?v=7" alt="" width="34" height="34"><span class="w"><b>Pick<em>ForMe</em></b><small>You need it. We pick it.</small></span></a><p class="fnote">Ti facciamo qualche domanda, scartiamo quello che non ti serve e ti diciamo quale comprare, con il perché. Poi ti portiamo alla scheda giusta su Amazon.</p></div>
