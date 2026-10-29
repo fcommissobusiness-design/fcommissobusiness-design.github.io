@@ -1,5 +1,5 @@
-/* PickForMe SW 2026-10-28 */
-const V='2026-10-28';
+/* PickForMe SW 2026-10-29 */
+const V='2026-10-29';
 const SHELL='pfm-shell-'+V, ASSETS='pfm-assets-'+V;
 const PRECACHE=['/','/offline/','/assets/rightpick.css','/assets/logo-mark-240.png','/assets/favicon-32.png','/manifest.webmanifest'];
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(SHELL).then(c=>c.addAll(PRECACHE).catch(()=>null)));});
