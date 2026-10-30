@@ -76,18 +76,22 @@ document.addEventListener('DOMContentLoaded',function(){var n=document.querySele
     return '<a class="pcard" href="/prodotto/'+p.id+'/" style="display:flex;gap:12px;align-items:center;padding:12px;border:1px solid var(--line);border-radius:14px;text-decoration:none;color:inherit">'+
       (p.img?'<img src="'+p.img+'" alt="" width="64" height="64" loading="lazy" style="object-fit:contain;border-radius:8px;background:#fff;flex-shrink:0">':'')+
       '<span style="min-width:0"><b style="display:block">'+p.brand+' '+p.name+'</b><span class="sub">'+(catName||'')+(price?(' · '+price):'')+(p.rating?(' · '+String(p.rating).replace('.',',')+'★'):'')+'</span></span></a>';}
+  function allProds(){return (window.PRODUCTS||[]).concat(window.EXTRA||[]);}
   function run(){
     var q=norm((inp.value||'').trim());
     if(q.length<2){out.innerHTML='';msg.textContent='Scrivi almeno 2 lettere.';return;}
-    if(!window.PRODUCTS){msg.textContent='Carico il catalogo…';return;}
+    var pool=allProds();
+    if(!pool.length){msg.textContent='Carico il catalogo…';return;}
     var cat=window.VERTICALS?Object.fromEntries(window.VERTICALS.map(function(v){return [v.id,v.name];})):{};
     var toks=q.split(/\s+/);
-    var hits=window.PRODUCTS.filter(function(p){if(p.unavailable)return false;var t=norm((p.brand||'')+' '+(p.name||''));return toks.every(function(tk){return t.indexOf(tk)>=0;});}).slice(0,30);
+    /* Match su brand+name E su nome categoria: "robot" trova anche i prodotti
+       della vertical "robot-aspirapolvere" anche se non hanno "robot" nel nome. */
+    var hits=pool.filter(function(p){if(p.unavailable)return false;var t=norm((p.brand||'')+' '+(p.name||'')+' '+(cat[p.v]||''));return toks.every(function(tk){return t.indexOf(tk)>=0;});}).slice(0,40);
     out.innerHTML=hits.map(function(p){return card(p,cat[p.v]);}).join('');
     msg.textContent=hits.length?(hits.length+' risultat'+(hits.length===1?'o':'i')):'Nessun prodotto con questo nome. Prova con la marca, un termine piu\' generico, o la ricerca guidata in home.';
     try{var u=new URL(location.href);if(inp.value.trim())u.searchParams.set('q',inp.value.trim());else u.searchParams.delete('q');history.replaceState(null,'',u);}catch(e){}
   }
-  function waitData(n){ if(window.PRODUCTS){run();return;} if(n<=0)return; setTimeout(function(){waitData(n-1);},150); }
+  function waitData(n){ if(allProds().length){run();return;} if(n<=0)return; setTimeout(function(){waitData(n-1);},150); }
   var q0=qparam(); if(q0){inp.value=q0;} inp.addEventListener('input',run); inp.focus();
   if(q0){msg.textContent='Carico il catalogo…';waitData(40);} else {msg.textContent='Scrivi marca o modello qui sopra.';}
 })();</script></main>
