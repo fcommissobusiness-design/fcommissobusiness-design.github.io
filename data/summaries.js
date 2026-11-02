@@ -146,7 +146,53 @@ window.SUMMARIES = {
     "Due oggetti in uno: dispenser automatico di crocchette per gatti e telecamera 360° della stanza. Serbatoio da 4 litri che tiene due o tre settimane per un gatto medio, programmazione delle porzioni dall'app Imou. La vista a 360° ti mostra tutto l'ambiente, non solo la ciotola, quindi mentre sei fuori vedi il gatto giocare, dormire, usare la lettiera. Solo per crocchette (niente cibo umido). Perfetto per chi lavora fuori e vuole essere sicuro che il gatto stia mangiando regolarmente.",
 
   'imou-cruiser-dual-kit':
-    "Due Cruiser Dual nella stessa confezione: la versione a doppia lente della Cruiser, in kit da due. Ciascuna copre un angolo largo (sensor principale 5MP + secondario 3MP) grazie ai due obiettivi, e il kit da due ti permette di sorvegliare due punti della casa (davanti e retro, o cancello e cortile) con un'unica spesa più contenuta rispetto a comprarle separate. Vanno alimentate a corrente, quindi serve una presa a ciascuna postazione. Niente 4G: devi avere Wi-Fi che arrivi dove le monti."
+    "Due Cruiser Dual nella stessa confezione: la versione a doppia lente della Cruiser, in kit da due. Ciascuna copre un angolo largo (sensor principale 5MP + secondario 3MP) grazie ai due obiettivi, e il kit da due ti permette di sorvegliare due punti della casa (davanti e retro, o cancello e cortile) con un'unica spesa più contenuta rispetto a comprarle separate. Vanno alimentate a corrente, quindi serve una presa a ciascuna postazione. Niente 4G: devi avere Wi-Fi che arrivi dove le monti.",
+
+  /* --- UFFICIO PICCOLA ATTIVITA' (B2B) --- */
+  'brother-mfc-l2800dw':
+    "La multifunzione laser bianco e nero che compri una volta e dimentichi. Il toner incluso stampa fino a 3000 pagine, quindi la prima ricarica arriva dopo mesi di lavoro vero, e il costo per pagina resta basso sul lungo. Alimentatore automatico per scansioni e copie multipagina, Wi-Fi che si vede senza combattere, driver stabili su Mac e Windows. Serve a chi stampa contratti, fatture e documenti ogni giorno; se ti serve il colore o stampi venti pagine al mese, prendi un inkjet piccolo e risparmi.",
+
+  'hp-officejet-pro-9120e':
+    "Multifunzione a getto d'inchiostro che stampa a colori senza farti passare al laser. Giusta per studi dove ogni tanto serve una brochure, una locandina o un documento con il grafico colorato, non per chi macina 500 pagine al mese. L'opzione Instant Ink ti fa arrivare le cartucce a casa quando stanno finendo, utile se ti sei stancato di ricordartelo tu. Scanner fronte-retro, Wi-Fi e stampa duplex: niente di speciale, ma tutto funziona.",
+
+  'canon-maxify-gx4050':
+    "Multifunzione a serbatoio di inchiostro: l'investimento iniziale è alto, ma il costo per pagina diventa ridicolo. Riempi i serbatoi e stampi migliaia di pagine prima di ripensarci, cosa impossibile con le cartucce classiche. Scelta sensata per un ufficio piccolo che stampa quotidianamente a colori e vuole smettere di aprire scatolette ogni due settimane. Ingombra un po' più di una multifunzione normale, e se stampi raramente non ammortizzi mai la spesa iniziale.",
+
+  'apc-back-ups-pro-br900gi':
+    "Il gruppo di continuità giusto per una postazione singola o un NAS piccolo. 540W reali bastano per tenere acceso un desktop e un modem durante un blackout il tempo di salvare il lavoro, o per lasciare che il NAS si spenga da solo senza perdere file. APC è il marchio di riferimento mondiale per gli UPS, con software di shutdown automatico incluso. La batteria va cambiata ogni tre o cinque anni, costo a parte, ma è l'unica manutenzione che chiede.",
+
+  'apc-smart-ups-smt1500ic':
+    "UPS line-interactive da rack o fianco scrivania per piccoli server room: 1500VA/1000W, con AVR che regola la tensione senza passare in batteria a ogni oscillazione. Pensato per chi ha server, switch e NAS in un piccolo armadio e vuole che tutto si spenga ordinatamente quando salta la corrente, invece di rimanere con file corrotti. Compatibile con VMware e Hyper-V e con scheda di rete opzionale per il monitoraggio remoto. Ventola rumorosa sotto carico: non lo metti in sala riunioni.",
+
+  'synology-ds224plus':
+    "Il NAS 2 bay che installi in un pomeriggio e serve bene a un ufficio da 5-15 persone. DSM è il sistema operativo NAS più maturo che esista: app ufficiali per backup di Mac e PC, archivio documenti condiviso, VPN, Docker, calendario interno. CPU Intel Celeron: regge il lavoro d'ufficio quotidiano senza fatica, non pensarci se devi editare video 4K in parallelo. I dischi non sono inclusi, comprane due di uguale capienza e metti RAID 1 (una copia sull'altro) per non perdere nulla al primo guasto.",
+
+  'qnap-ts-464':
+    "NAS 4 bay con due porte 2.5GbE pensate per uffici che devono crescere senza cambiare storage ogni due anni. Quattro dischi in RAID ti danno margine di capacità e sicurezza, e la banda 2.5GbE si sente davvero quando dieci persone leggono o salvano file in parallelo. Slot NVMe per cache SSD utile quando il NAS lavora sotto carico, supporto a container e VM se vuoi togliere qualche sfizio in più. QTS è meno immediato di DSM Synology: metti in conto qualche ora di studio all'inizio.",
+
+  'brother-ads-1800w':
+    "Scanner da documenti compatto, Wi-Fi, con alimentatore da 20 fogli e fronte-retro automatico. Pensato per digitalizzare contratti, fatture e documenti cliente senza occupare lo scanner della multifunzione (che quando ti serve è sempre impegnato in altro). Scansione diretta a cartella di rete, cloud o email senza passare per il PC, OCR per avere PDF ricercabili dal primo giorno. Non è per libri rilegati o foto fragili: fogli sciolti e via, con pulizia rulli ogni mille pagine.",
+
+  'epson-workforce-ds-c330':
+    "Scanner A4 compatto che fa 35 pagine al minuto in fronte-retro: più veloce del Brother equivalente e più adatto quando la pila di fogli è grossa davvero. Rileva automaticamente quando preleva due pagine attaccate, cosa che su documenti con fascicolazione irregolare salva ore di ri-scansione. Software Document Capture Pro incluso, utile per profili già pronti tipo fattura, contratto o documento d'identità. Occupa un po' più di spazio di una scrivania ordinata perché l'alimentatore sta fuori.",
+
+  'fellowes-powershred-99ci':
+    "Distruggidocumenti micro-cut livello P-4, uno dei pochi che resta davvero compliant GDPR per dati sensibili: lo pretendi se tratti cartelle cliniche, documenti d'identità, scartoffie legali o buste paga. Diciotto fogli per passata, cestino da 34 litri, modalità SilentShred che permette di tenerlo in una stanza condivisa senza coprire le voci. La contropartita del taglio fine è che il cestino si riempie in fretta: aspettati di svuotarlo spesso. L'investimento ha senso solo con uso quotidiano.",
+
+  'bonsaii-c237-c':
+    "Distruggidocumenti cross-cut per home office e piccoli uffici che non trattano dati sensibili ogni giorno. P-4 cross-cut, 14 fogli per passata, cestino da 23 litri, 60 minuti di runtime continuo senza spegnersi: tempi onesti per questa fascia di prezzo. Taglia anche graffette e carte di credito, pratico per non doverle togliere a mano prima di infilare la busta. Meccanica meno robusta nel lungo periodo rispetto ai Fellowes professionali, e piuttosto rumoroso in funzione.",
+
+  'ubiquiti-dream-router':
+    "Router aziendale di ingresso con la logica UniFi: oggi tiene l'ufficio piccolo, quando crescerai gli aggiungi access point e switch della stessa linea senza buttare quello che hai. VPN WireGuard e Teleport integrate: lo smart working passa da qui con un paio di clic, non con ore di configurazione. Statistiche di rete serie, non il grafichetto giocattolo dei router consumer. Prima configurazione da leggere con calma, un'oretta se è la prima volta che tocchi UniFi.",
+
+  'tplink-er605':
+    "Router cablato aziendale sotto i settanta euro, con due porte WAN per gestire due connessioni Internet. Puoi tenere la fibra come primaria e un modem 4G come backup: se cade la fibra, il traffico passa in automatico sull'altra senza che te ne accorgi (o almeno il cliente in call non se ne accorge). VPN OpenVPN, IPsec e PPTP integrate, bastano per uno smart worker lontano o un paio di sedi collegate. Non ha Wi-Fi: ti serve un access point separato, e la gestione Omada è meno pulita di UniFi.",
+
+  'logitech-brio-500':
+    "Webcam 1080p per chi fa videochiamate di lavoro quotidiane e vuole apparire bene senza studiare illuminazione o telecamere professionali. L'autofocus è veloce, l'inquadratura automatica tiene il viso al centro quando ti muovi, e i microfoni doppi con riduzione rumore evitano che il cliente dall'altra parte senta la lavatrice in sottofondo. Montaggio stabile anche su monitor sottili. A questo prezzo esistono alternative 4K: se streami su YouTube o Twitch, punta più in alto.",
+
+  'jabra-evolve2-65':
+    "Cuffie wireless professionali costruite per chi fa call tre o più ore al giorno. Il microfono a asta pieghevole porta la voce dall'altra parte pulita come al telefono fisso, molto meglio di qualsiasi auricolare consumer. Autonomia dichiarata di 37 ore reali: una ricarica a settimana e stai apposto. Certificate per Microsoft Teams, Zoom e Google Meet, quindi il pulsante del mute funziona davvero sulle piattaforme che usi. Niente noise cancelling attivo (è sulla Evolve2 75, più cara) e il suono è bilanciato per la voce, non per la musica."
 };
 
 window.applySummaries = function () {
