@@ -5,12 +5,23 @@ Allow: /
 # Dichiarare sia index che singole sitemap era segnale duplicato per Google.
 Sitemap: https://www.pickforme.it/sitemap-index.xml
 
-# LLM crawler (GEO)
+# LLM crawler (GEO). Il blocco wildcard sopra li ammette gia' tutti;
+# questi entry espliciti dichiarano l'intento per i crawler che leggono
+# il proprio user-agent: GPTBot/ClaudeBot (training), OAI-SearchBot e
+# PerplexityBot (citazioni live in ChatGPT/Perplexity), Google-Extended
+# (grounding AI Overviews/Gemini), Amazonbot (Rufus, l'AI shopping di
+# Amazon, rilevante qui), Applebot-Extended (Apple Intelligence/Siri).
 User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
 Allow: /
 User-agent: ClaudeBot
 Allow: /
 User-agent: PerplexityBot
 Allow: /
 User-agent: Google-Extended
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: Applebot-Extended
 Allow: /
