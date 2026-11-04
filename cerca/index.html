@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded',function(){var n=document.querySele
 </div>
 <div id="cercaResults" class="pgrid" style="max-width:980px;margin:18px auto 0"></div>
 <div id="cercaMsg" class="sub" style="text-align:center;margin:18px auto 40px;max-width:640px"></div>
-<div class="news" data-news><div><h2>Iscriviti alla nostra newsletter</h2><div class="gsi-wrap" style="margin:10px 0 6px"><div class="g_id_signin" data-client_id="2571493909-shh1oq5l9k247gtkg9nkhdj3evjblikl.apps.googleusercontent.com" data-callback="pfmGoogleCallback" data-type="standard" data-theme="outline" data-size="large" data-text="signup_with" data-shape="pill" data-locale="it" data-logo_alignment="left"></div><div style="color:rgba(255,255,255,.75);font-size:12px;margin-top:4px;text-align:center">oppure usa la tua email</div></div><form class="nlform" data-nl action="https://buttondown.com/api/emails/embed-subscribe/pickforme" method="post" target="_blank" onsubmit="return pfmNL(this)"><input type="email" name="email" placeholder="La tua email" required autocomplete="email"><button class="btn-light" type="submit">Iscriviti</button></form><div class="sub nlmsg" style="color:rgba(255,255,255,.85);margin-top:8px;min-height:16px" role="status" aria-live="polite"></div></div>
+<div class="news" data-news><div><h2>Iscriviti alla nostra newsletter</h2><div class="gsi-wrap" style="margin:10px 0 6px"><div class="g_id_signin" data-client_id="2571493909-shh1oq5l9k247gtkg9nkhdj3evjblikl.apps.googleusercontent.com" data-callback="pfmGoogleCallback" data-type="standard" data-theme="outline" data-size="large" data-text="signup_with" data-shape="pill" data-locale="it" data-logo_alignment="left"></div><div style="color:rgba(255,255,255,.75);font-size:12px;margin-top:4px;text-align:center">oppure usa la tua email</div></div><form class="nlform" data-nl action="https://buttondown.com/api/emails/embed-subscribe/pickforme" method="post" target="_blank" onsubmit="return pfmNL(this)"><input type="email" name="email" placeholder="La tua email" required autocomplete="email" aria-label="Il tuo indirizzo email"><button class="btn-light" type="submit">Iscriviti</button></form><div class="sub nlmsg" style="color:rgba(255,255,255,.85);margin-top:8px;min-height:16px" role="status" aria-live="polite"></div></div>
 <div class="txt">Ricevi aggiornamenti sulle nuove selezioni giornaliere, sui nuovi sconti e sulle occasioni da non lasciarti sfuggire, sui prodotti in evidenza e su qualche scelta che vale la pena guardare.</div></div>
 <script>(function(){
   var inp=document.getElementById('cercaInput'),out=document.getElementById('cercaResults'),msg=document.getElementById('cercaMsg');
@@ -76,7 +76,12 @@ document.addEventListener('DOMContentLoaded',function(){var n=document.querySele
     return '<a class="pcard" href="/prodotto/'+p.id+'/" style="display:flex;gap:12px;align-items:center;padding:12px;border:1px solid var(--line);border-radius:14px;text-decoration:none;color:inherit">'+
       (p.img?'<img src="'+p.img+'" alt="" width="64" height="64" loading="lazy" style="object-fit:contain;border-radius:8px;background:#fff;flex-shrink:0">':'')+
       '<span style="min-width:0"><b style="display:block">'+p.brand+' '+p.name+'</b><span class="sub">'+(catName||'')+(price?(' · '+price):'')+(p.rating?(' · '+String(p.rating).replace('.',',')+'★'):'')+'</span></span></a>';}
-  function allProds(){return (window.PRODUCTS||[]).concat(window.EXTRA||[]);}
+  /* Fix 04/11/26: EXTRA duplica integralmente PRODUCTS (stessi id) e le sue
+     copie NON portano il flag unavailable. Concatenando si ottenevano risultati
+     doppi (28 card per 15 prodotti) e prodotti esauriti dentro la ricerca, che
+     vanificava il fix "mai consigliare non disponibili". Dedup per id tenendo
+     la voce di PRODUCTS, che e' quella con lo stato di disponibilita'. */
+  function allProds(){var seen={},out=[];(window.PRODUCTS||[]).concat(window.EXTRA||[]).forEach(function(p){if(!p||!p.id||seen[p.id])return;seen[p.id]=1;out.push(p);});return out;}
   function run(){
     var q=norm((inp.value||'').trim());
     if(q.length<2){out.innerHTML='';msg.textContent='Scrivi almeno 2 lettere.';return;}
@@ -86,14 +91,25 @@ document.addEventListener('DOMContentLoaded',function(){var n=document.querySele
     var toks=q.split(/\s+/);
     /* Match su brand+name E su nome categoria: "robot" trova anche i prodotti
        della vertical "robot-aspirapolvere" anche se non hanno "robot" nel nome. */
-    var hits=pool.filter(function(p){if(p.unavailable)return false;var t=norm((p.brand||'')+' '+(p.name||'')+' '+(cat[p.v]||''));return toks.every(function(tk){return t.indexOf(tk)>=0;});}).slice(0,40);
+    var all=pool.filter(function(p){if(p.unavailable)return false;var t=norm((p.brand||'')+' '+(p.name||'')+' '+(cat[p.v]||''));return toks.every(function(tk){return t.indexOf(tk)>=0;});});
+    /* Fix 04/11/26: il conteggio veniva calcolato DOPO il taglio a 40,
+       quindi "robot aspirapolvere" (95 match reali) dichiarava "40 risultati".
+       Ora contiamo tutto e diciamo chiaramente quando mostriamo solo i primi. */
+    var hits=all.slice(0,40);
     out.innerHTML=hits.map(function(p){return card(p,cat[p.v]);}).join('');
-    msg.textContent=hits.length?(hits.length+' risultat'+(hits.length===1?'o':'i')):'Nessun prodotto con questo nome. Prova con la marca, un termine piu\' generico, o la ricerca guidata in home.';
+    msg.textContent=all.length?(all.length>hits.length?('Primi '+hits.length+' di '+all.length+' risultati'):(all.length+' risultat'+(all.length===1?'o':'i'))):'Nessun prodotto con questo nome. Prova con la marca, un termine piu\' generico, o la ricerca guidata in home.';
     try{var u=new URL(location.href);if(inp.value.trim())u.searchParams.set('q',inp.value.trim());else u.searchParams.delete('q');history.replaceState(null,'',u);}catch(e){}
   }
-  function waitData(n){ if(allProds().length){run();return;} if(n<=0)return; setTimeout(function(){waitData(n-1);},150); }
+  /* Fix 04/11/26: prima lanciava run() al PRIMO segnale di dati e non lo
+     ripeteva piu'. Ma il catalogo arriva in piu' file (products.js, extra.js):
+     chi atterrava su /cerca/?q=... vedeva un elenco parziale con un conteggio
+     sbagliato ("3 risultati" invece di 15). Ora ri-eseguiamo a ogni crescita
+     del pool, finche' i dati smettono di arrivare. */
+  var lastPool=-1;
+  function waitData(n){ var size=allProds().length; if(size&&size!==lastPool){lastPool=size; if((inp.value||'').trim().length>=2) run();} if(n>0) setTimeout(function(){waitData(n-1);},150); }
   var q0=qparam(); if(q0){inp.value=q0;} inp.addEventListener('input',run); inp.focus();
-  if(q0){msg.textContent='Carico il catalogo…';waitData(40);} else {msg.textContent='Scrivi marca o modello qui sopra.';}
+  if(q0){msg.textContent='Carico il catalogo…';} else {msg.textContent='Scrivi marca o modello qui sopra.';}
+  waitData(40);
 })();</script></main>
 
 <footer><div class="wrap">
