@@ -1,5 +1,5 @@
 # PickForMe — guida estesa per assistenti AI
-https://www.pickforme.it · Amazon.it (tag pickforme26-21) · lingua it-IT · aggiornato il 2026-11-04 (rigenerato ogni giorno)
+https://www.pickforme.it · Amazon.it (tag pickforme26-21) · lingua it-IT · aggiornato il 2026-11-05 (rigenerato ogni giorno)
 
 PickForMe e' un motore di decisione d'acquisto: per ogni categoria diciamo QUALE prodotto comprare e PERCHE', con il verdetto "per chi va bene / per chi non va bene", prezzo verificato a mano e datato, e la voce sintetica delle recensioni Amazon. Nessun ranking a pagamento.
 
@@ -46,7 +46,7 @@ Il trapano giusto dipende da cosa devi forare e da quali batterie hai già, non 
 Categoria: https://www.pickforme.it/categoria/utensili-elettrici/
 Scelta principale: Bosch Professional GBH 2-28 F — €231,50, 4.7/5 su 5246 recensioni. Il tassellatore Bosch Professional che fora il cemento e diventa anche trapano
 Scheda: https://www.pickforme.it/prodotto/bosch-professional-gbh-2-28-f-sds-plus-880w/
-Alternativa economica: Bosch Professional GSB 18V-45 — €97,61, 4.8/5 su 96 recensioni. Il brushless Professional da 55 Nm, solo corpo, e il più acquistato del gruppo.
+Alternativa economica: Bosch Professional GSB 18V-45 — €98,04, 4.8/5 su 96 recensioni. Il brushless Professional da 55 Nm, solo corpo, e il più acquistato del gruppo.
 Scheda: https://www.pickforme.it/prodotto/bosch-pro-gsb-18v-45/
 Scelta premium: DeWalt DCH273P2T-QW (18V XR brushless, 2x5,0 Ah, TSTAK) — €439,00, 4.6/5 su 458 recensioni. Tassellatore a batteria DeWalt XR 18V, pronto all'uso con due batterie 5,0 Ah e valigetta
 Scheda: https://www.pickforme.it/prodotto/dewalt-dch273p2t-qw/
@@ -66,8 +66,8 @@ Spazio, cosa ci metti sopra e quanto sei alto decidono la scrivania. Il motore v
 Categoria: https://www.pickforme.it/categoria/scrivanie-regolabili/
 Scelta principale: FLEXISPOT E6 telaio doppio motore 160 kg con 3 stadi — €299,99, 4.8/5 su 42 recensioni. Doppio motore, 160 kg di portata e altezze da 58 a 123 cm
 Scheda: https://www.pickforme.it/prodotto/flexispot-e6-telaio-doppio-motore-160kg/
-Alternativa economica: SONGMICS BALOK LSD015 120x60 marrone vintage e nero con USB-C — €99,99, 4.5/5 su 4727 recensioni. La BALOK 120x60 sotto i 100 euro, con USB-C e anti-collisione.
-Scheda: https://www.pickforme.it/prodotto/songmics-balok-lsd015-120x60-vintage-nero/
+Alternativa economica: Raplink HTK-4540 120x60 elettrica — €84,99, 4.6/5 su 152 recensioni. Scrivania elettrica già completa, 120x60 e sotto i 90 euro, per le stanze strette.
+Scheda: https://www.pickforme.it/prodotto/raplink-htk4540-120x60/
 Scelta premium: MAIDeSITe EL2 Pro Art con gambe ovali, 160 kg, anti-collisione e <45 dB — €299,99, 4.8/5 su 251 recensioni. Il telaio MAIDeSITe con gambe ovali: doppio motore, 160 kg di portata e meno di 45 dB.
 Scheda: https://www.pickforme.it/prodotto/maidesite-el2-pro-art-gambe-ovali-160kg-anticollisione/
 
@@ -98,8 +98,8 @@ Scelta principale: Cosori Dual Zone 8,5 L CAF-R903 — €129,99, 4.7/5 su 2416 
 Scheda: https://www.pickforme.it/prodotto/cosori-dual-8-5l-caf-r903/
 Alternativa economica: Ardes Friggisana Infinity 8L — €48,11, 4.7/5 su 462 recensioni. Monocestello capiente da 8 litri, con parti lavabili in lavastoviglie.
 Scheda: https://www.pickforme.it/prodotto/ardes-friggisana-infinity-arfrya05l-8l/
-Scelta premium: Instant Pot VersaZone 9QT 8,5 L — €759,34, 4.2/5 su 796 recensioni. VersaZone da 8,5 litri: un unico grande cassetto oppure due zone separate, come preferisci.
-Scheda: https://www.pickforme.it/prodotto/instant-pot-vortex-versazone-9qt-8-5l/
+Scelta premium: Philips Airfryer Combi 7000 Series XXL HD9876/20 — €318,68, 4.6/5 su 3591 recensioni. Philips XXL da 8,3 litri a cestello unico, con vapore e app HomeID
+Scheda: https://www.pickforme.it/prodotto/philips-airfryer-combi-7000-xxl-hd9876/
 
 ## Monitor da scrivania
 Un monitor per lavorare e uno per giocare sono due prodotti diversi. Dicci cosa ci fai e quanto grande lo vuoi.
@@ -114,12 +114,12 @@ Scheda: https://www.pickforme.it/prodotto/msi-mag-321upx-qd-oled/
 ## Aspirapolvere senza filo
 Quanta casa devi fare con una carica e quanto pesa in mano: sono queste due cose a decidere, non i numeri di potenza sulla scatola.
 Categoria: https://www.pickforme.it/categoria/aspirapolvere-senza-filo/
-Scelta principale: AEG Ultimate 7000 GEN2 — €418,89, 4.7/5 su 7 recensioni. Scopa senza filo con stazione autosvuotante e un peso di soli 1,35 kg
+Scelta principale: AEG Ultimate 7000 GEN2 — €417,39, 4.7/5 su 7 recensioni. Scopa senza filo con stazione autosvuotante e un peso di soli 1,35 kg
 Scheda: https://www.pickforme.it/prodotto/aeg-ultimate-7000-gen2/
 Alternativa economica: Dreame R20 — €199,00, 4.3/5 su 1449 recensioni. Una scopa elettrica leggera che dura a lungo e sa gestire i peli degli animali.
 Scheda: https://www.pickforme.it/prodotto/dreame-r20/
-Scelta premium: Dyson V15 Detect — €799,00, 4.3/5 su 2659 recensioni. Dyson V15 Detect: il laser che ti mostra la polvere invisibile e un display che la conta
-Scheda: https://www.pickforme.it/prodotto/dyson-v15-detect/
+Scelta premium: Dyson V15 Detect Absolute — €669,00, 4.4/5 su 67 recensioni. Il riferimento premium delle scope senza filo: laser sulla polvere e display che conta le particelle.
+Scheda: https://www.pickforme.it/prodotto/dyson-v15-detect-absolute/
 
 ## Purificatori d'aria
 Un purificatore funziona solo se è dimensionato per la stanza. Dicci quanto è grande e cosa ti dà fastidio nell'aria.
@@ -128,7 +128,7 @@ Scelta principale: Philips serie 4200 (AC4221) — €414,99, 4.4/5 su 406 recen
 Scheda: https://www.pickforme.it/prodotto/philips-4200-ac4221/
 Alternativa economica: Winix ZERO — €137,25, 4.5/5 su 949 recensioni. Purificatore con HEPA H13 dichiarato per stanze grandi, a meno di 150 euro
 Scheda: https://www.pickforme.it/prodotto/winix-zero/
-Scelta premium: Coway Airmega 200M — €399,44, 4.6/5 su 350 recensioni. Coway Airmega 200M con sensore dell'aria, True HEPA e modalità Smart, a 400€
+Scelta premium: Coway Airmega 200M — €404,13, 4.6/5 su 350 recensioni. Coway Airmega 200M con sensore dell'aria, True HEPA e modalità Smart, a 400€
 Scheda: https://www.pickforme.it/prodotto/coway-airmega-200m/
 
 ## Spazzolini elettrici
@@ -148,13 +148,13 @@ Scelta principale: Sony WH-1000XM6 — €349,00, 4.1/5 su 5549 recensioni. Sony
 Scheda: https://www.pickforme.it/prodotto/sony-wh1000xm6/
 Alternativa economica: Sennheiser ACCENTUM Plus — €122,49, 4.2/5 su 2333 recensioni. Over-ear Sennheiser con cancellazione del rumore adattiva e 50 ore di autonomia a 115 €
 Scheda: https://www.pickforme.it/prodotto/sennheiser-accentum-plus/
-Scelta premium: Bose QuietComfort Ultra Headphones — €362,72, 4.3/5 su 9862 recensioni. Le cuffie che zittiscono il mondo, con chiamate nitide e audio spaziale.
+Scelta premium: Bose QuietComfort Ultra Headphones — €370,49, 4.3/5 su 9862 recensioni. Le cuffie che zittiscono il mondo, con chiamate nitide e audio spaziale.
 Scheda: https://www.pickforme.it/prodotto/bose-quietcomfort-ultra-headphones/
 
 ## Casse bluetooth
 Da tasca o da festa, in casa o in spiaggia, una o due in stereo: dicci dove la userai e ti diciamo quale prendere.
 Categoria: https://www.pickforme.it/categoria/casse-bluetooth/
-Scelta principale: JBL PartyBox 310 — €485,58, 4.6/5 su 385 recensioni. La PartyBox JBL pensata per le vere feste, ancora oggi il punto di riferimento.
+Scelta principale: JBL PartyBox 310 — €479,33, 4.6/5 su 385 recensioni. La PartyBox JBL pensata per le vere feste, ancora oggi il punto di riferimento.
 Scheda: https://www.pickforme.it/prodotto/jbl-partybox-310/
 Alternativa economica: Soundcore Motion 300 — €62,99, 4.6/5 su 3539 recensioni. La cassa compatta che punta tutto sulla qualità del suono
 Scheda: https://www.pickforme.it/prodotto/soundcore-motion-300/
