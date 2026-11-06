@@ -3,7 +3,7 @@
   <channel>
     <title>PickForMe · You need it. We pick it.</title>
     <link>https://www.pickforme.it/</link>
-    <description>Feed prodotti selezionati del catalogo PickForMe (1440 prodotti · aggiornato 2026-11-06).</description>
+    <description>Feed prodotti selezionati del catalogo PickForMe (1467 prodotti · aggiornato 2026-11-06).</description>
     <item>
       <g:id>B0DCVYS9FQ</g:id>
       <g:title>Dreame L10s Ultra</g:title>
@@ -24609,6 +24609,467 @@
       <g:mpn>B0CTKSN97F</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DTTTWYQT</g:id>
+      <g:title>Cosori Twinfry 10L</g:title>
+      <g:description>La Twinfry ha due cestelli separati da 5 litri che puoi gestire in modo indipendente o sincronizzato, cosi il contorno e il secondo sono pronti nello stesso momento. Arriva a 240 gradi, si controlla anche da app via WiFi e i cestelli vanno in lavastoviglie.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/cosori-twinfry-10l-doppio-cestello/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/511U1S3dabL._AC_SL1024_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81RS+A067eL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/711pNzbw24L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81jpgNiTWaL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>209.99 EUR</g:price>
+      <g:brand>Cosori</g:brand>
+      <g:mpn>B0DTTTWYQT</g:mpn>
+      <g:gtin>0810123676613</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0FQP7SYTZ</g:id>
+      <g:title>Moulinex Easy Fry Silence 7L</g:title>
+      <g:description>La Easy Fry Silence punta sulla rumorosita contenuta, utile se cucini in cucina aperta sul soggiorno. Il cestello da 7 litri basta per quattro o cinque porzioni, ci sono dieci modalita preimpostate e le parti a contatto col cibo si lavano in lavastoviglie.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/moulinex-easy-fry-silence-7l-ez8421/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71VUiWUVDPL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61mC4RXWNnL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ppi759F0L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81V2ZeiQg4L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>79.99 EUR</g:price>
+      <g:brand>Moulinex</g:brand>
+      <g:mpn>B0FQP7SYTZ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F4KHWH9M</g:id>
+      <g:title>Ninja Dual Zone MAX 9,5L</g:title>
+      <g:description>La Dual Zone MAX divide i 9,5 litri in due cestelli separati, cosi puoi impostare temperature e tempi diversi e far finire le due cotture insieme. Sei funzioni di cottura, arriva a 240 gradi e i cestelli vanno in lavastoviglie. Marchio con buon seguito tra chi usa spesso la friggitrice.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ninja-dual-zone-max-9-5l-dz400eu/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71D3Ahc7aaL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81g9+E4e3JL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81VpWJ5RBCL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81zWqxZ31wL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.99 EUR</g:price>
+      <g:brand>Ninja</g:brand>
+      <g:mpn>B0F4KHWH9M</g:mpn>
+      <g:gtin>0622356322676</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GXV5RSV5</g:id>
+      <g:title>Emphsism Friggitrice 12L doppio cestello con oblo</g:title>
+      <g:description>Questa air fryer da 12 litri si usa come due zone separate o come un unico vano piu grande, utile quando cambi il numero di porzioni. Ha un oblo con luce interna per seguire la doratura senza aprire, schermo touch e tredici programmi. Tutte le parti a contatto vanno in lavastoviglie.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/emphsism-airfryer-12l-oblo-doppio-cestello/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71Fm15zJyEL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71elYtmdb2L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81EhAurwgRL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/712XLCLzgbL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.99 EUR</g:price>
+      <g:brand>Emphsism</g:brand>
+      <g:mpn>B0GXV5RSV5</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GL8SFVCS</g:id>
+      <g:title>Emphsism Forno friggitrice ad aria 23L</g:title>
+      <g:description>Con 23 litri e il formato a sportello frontale questo modello lavora come un piccolo forno ventilato: ci stanno teglie, un pollo intero o piu vassoi insieme. Puoi usarlo a zona singola o doppia e le parti interne si lavano in lavastoviglie. E piu una via di mezzo forno-friggitrice che un cestello classico.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/emphsism-forno-friggitrice-23l-afto/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/81DIFDYY9ZL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81qov9zrr2L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81FTgC71gXL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71K6Bq4l7GL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.99 EUR</g:price>
+      <g:brand>Emphsism</g:brand>
+      <g:mpn>B0GL8SFVCS</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CV15NV77</g:id>
+      <g:title>LEHMANN XXL 8L con divisorio</g:title>
+      <g:description>La LEHMANN da 8 litri ha un solo cestello con un divisorio che puoi togliere: con il separatore cuoci due cibi insieme, senza hai tutto lo spazio per una porzione grande. Pannello digitale con dodici modalita, temperatura da 76 a 200 gradi e cestello lavabile in lavastoviglie. Prezzo tra i piu bassi della selezione.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/lehmann-airfryer-8l-divisorio-rimovibile/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/715VCp0vtGL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/717yGDqDrrL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71YM84StTKL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71+LKYNYt6L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>59.99 EUR</g:price>
+      <g:brand>LEHMANN</g:brand>
+      <g:mpn>B0CV15NV77</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0FWKR2KGV</g:id>
+      <g:title>Philips Airfryer 5000 7,2L Vapore</g:title>
+      <g:description>La Airfryer 5000 unisce la frittura ad aria a una funzione vapore, utile per mantenere morbidi dentro pane, verdure e secondi mentre fuori dorano. Cestello da 7,2 litri adatto a una famiglia, controllo da app e parti lavabili in lavastoviglie. Marchio consolidato, prezzo di fascia alta.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/philips-airfryer-5000-7-2l-vapore-na540/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61oUSpvOoRL._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61rSDEpRutL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61Xv08s4yfL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/7181QTCbkoL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>226.32 EUR</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>B0FWKR2KGV</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H7K2NZJ5</g:id>
+      <g:title>Bosch MAFD490B0 10L</g:title>
+      <g:description>La Bosch MAFD490B0 ha un ampio cestello da 10 litri con un divisore interno, cosi puoi tenere separati due alimenti o usare tutto lo spazio per una porzione grande. Arriva a 230 gradi ed e firmata Bosch, con la qualita costruttiva che il marchio porta di solito. Ha ancora poche recensioni perche e un modello recente.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/bosch-mafd490b0-airfryer-10l/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/616hjwMB7AL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71YskZckfOL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81CabF2faCL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81Ik16kw1eL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>164.48 EUR</g:price>
+      <g:brand>Bosch</g:brand>
+      <g:mpn>B0H7K2NZJ5</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B07F9NGRKF</g:id>
+      <g:title>EWA A106</g:title>
+      <g:description>È minuscola e pesa 176 grammi, quindi la infili in tasca o nello zaino senza accorgertene. La certificazione IP67 la rende buona per doccia e campeggio, e la batteria regge circa 6 ore. Per la musica, non per le chiamate.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ewa-a106/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61FbWdgk2kL._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61U42WA8QDL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/7174d+JQqSL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71lAoR+kNrL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24.99 EUR</g:price>
+      <g:brand>EWA</g:brand>
+      <g:mpn>B07F9NGRKF</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B08FDPW8KR</g:id>
+      <g:title>Ortizan X10</g:title>
+      <g:description>Con 24 W di potenza dichiarata se la cava anche all&apos;aperto, e la batteria arriva a 30 ore, così non la ricarichi di continuo. È impermeabile IPX7 e ha il microfono per rispondere alle chiamate. Le luci RGB sono un extra che puoi spegnere.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ortizan-x10/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/812GU9ueo-L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71oxI-+nfYL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71580ypcDZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81tMygagBRL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>35.99 EUR</g:price>
+      <g:brand>Ortizan</g:brand>
+      <g:mpn>B08FDPW8KR</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0BN7VCKNK</g:id>
+      <g:title>BOGASING M5</g:title>
+      <g:description>Dichiara 40 W con doppi driver e radiatori passivi, quindi tiene bene il volume e i bassi anche all&apos;aperto. È impermeabile IPX7 e può restare immersa per circa mezz&apos;ora. La batteria arriva fino a 30 ore e ha tre modalità di equalizzazione.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/bogasing-m5/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61WD68+yurL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71fq4cUXK2L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71xZIGFFEPL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71DoUK3i49L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>59.99 EUR</g:price>
+      <g:brand>BOGASING</g:brand>
+      <g:mpn>B0BN7VCKNK</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CZRMRQ3Y</g:id>
+      <g:title>Xiaomi Sound Outdoor</g:title>
+      <g:description>Monta un tweeter da 10 W e un woofer da 20 W per 30 W complessivi, con alti chiari e bassi presenti. È impermeabile IP67, pesa 597 grammi e dichiara oltre 12 ore di autonomia. Puoi abbinarne due in stereo con la funzione TWS.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/xiaomi-sound-outdoor/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61dauWyqjeL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/710qZRkwuUL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71xc0y9MoGL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71PFQV1PU2L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>45.00 EUR</g:price>
+      <g:brand>Xiaomi</g:brand>
+      <g:mpn>B0CZRMRQ3Y</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GXFCCRZH</g:id>
+      <g:title>Nevoke N06W spazzolino rotante con 8 testine</g:title>
+      <g:description>Uno spazzolino con testina tonda rotante, l&apos;approccio classico alla pulizia dente per dente. Nella scatola trovi 8 testine, abbastanza per un paio d&apos;anni, più la custodia da viaggio. Ha 5 modalità e il timer da 2 minuti. Un marchio meno noto ma con una dotazione completa a un prezzo contenuto.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/nevoke-n06w-spazzolino-rotante/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71rJzrJm-bL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ieQ9IUHxL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71qCHZOrYtL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/7138VCi0dpL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>29.99 EUR</g:price>
+      <g:brand>Nevoke</g:brand>
+      <g:mpn>B0GXFCCRZH</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0D9BDV6JT</g:id>
+      <g:title>7MAGIC D36 spazzolino sonico con 6 testine</g:title>
+      <g:description>Uno spazzolino sonico da 40.000 vibrazioni al minuto, con 5 modalità e un&apos;autonomia dichiarata di 180 giorni, così lo ricarichi di rado. Ha il timer da 2 minuti e viene con 6 testine. Non è un marchio famoso, ma ha accumulato parecchie migliaia di recensioni con un giudizio nel complesso buono.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/7magic-d36-spazzolino-sonico/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71i4bam1czL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/7172PPYG5vL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61Y4rNgxlsL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71XFv-zTXiL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>25.72 EUR</g:price>
+      <g:brand>7MAGIC</g:brand>
+      <g:mpn>B0D9BDV6JT</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H265MJWF</g:id>
+      <g:title>Novalun N07W spazzolino rotante con 8 testine</g:title>
+      <g:description>Spazzolino con testina rotonda rotante, 5 modalità e funzione memoria che ricorda l&apos;ultima impostazione. Include 8 testine e un supporto da parete con ricarica a induzione, comodo per tenere il bagno in ordine. L&apos;autonomia dichiarata è di circa 60 giorni e il voto medio di chi lo usa è alto.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/novalun-n07w-spazzolino-rotante/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71jvG2Z36cL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/710V66J2YWL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71puttCf-ML._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71o6rLnikxL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>29.99 EUR</g:price>
+      <g:brand>Novalun</g:brand>
+      <g:mpn>B0H265MJWF</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F1TQRVJK</g:id>
+      <g:title>HYCHIKA spazzolino sonico 240 giorni con 8 testine</g:title>
+      <g:description>Uno spazzolino sonico semplice e diretto: 3 modalità, 31.000 vibrazioni al minuto e un&apos;autonomia dichiarata fino a 240 giorni, il punto forte del prodotto. Arriva con 8 testine confezionate singolarmente e il timer da 2 minuti. Ricarica USB-C. Prezzo basso per chi vuole il sonico senza fronzoli.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/hychika-spazzolino-sonico-240-giorni/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61K6TkmFiYL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61aiAqM8zgL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71+YBpAP+HL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61059wKaKEL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19.91 EUR</g:price>
+      <g:brand>HYCHIKA</g:brand>
+      <g:mpn>B0F1TQRVJK</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CKR3SKWT</g:id>
+      <g:title>Coulax Pro spazzolino sonico con 8 testine</g:title>
+      <g:description>Un sonico economico da 40.000 vibrazioni al minuto, con 5 modalità e timer da 2 minuti. Include 8 testine DuPont e dichiara fino a 120 giorni di autonomia, ricaricabile anche da power bank o laptop. È tra i sonici low cost più venduti e recensiti, con un giudizio medio buono anche se non altissimo.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/coulax-pro-spazzolino-sonico-8-testine/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71IaokUFcgL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61uAcDCStdL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71dO12nsjtL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71DuAjvSnGL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19.99 EUR</g:price>
+      <g:brand>Coulax Pro</g:brand>
+      <g:mpn>B0CKR3SKWT</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0FCMNPN7H</g:id>
+      <g:title>Beurer SC 50 spazzolino sonico</g:title>
+      <g:description>Lo spazzolino sonico di Beurer, marchio tedesco noto nella cura della persona. Lavora con 80.000 vibrazioni al minuto dichiarate e ha il sensore di pressione, utile per chi tende a premere troppo sulle gengive. C&apos;è il timer di spazzolatura. La scheda su Amazon è però avara di dettagli su modalità e autonomia.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/beurer-sc-50-spazzolino-sonico/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/81bZQKxlrrL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/713o-8BzckL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/713jQmAnhqL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71j1KKnZg-L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>49.99 EUR</g:price>
+      <g:brand>Beurer</g:brand>
+      <g:mpn>B0FCMNPN7H</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GJT12LBL</g:id>
+      <g:title>BarberBoss QR-7306 spazzolino sonico con 6 testine</g:title>
+      <g:description>Uno spazzolino sonico venduto come kit da viaggio: include 6 testine, 4 standard con setole DuPont e 2 mini per le zone più difficili, più una custodia rigida. La valutazione dei primi acquirenti è buona, ma le recensioni sono ancora poche e la scheda non dichiara modalità e autonomia nel dettaglio.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/barberboss-qr7306-spazzolino-sonico/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71xmJUNim1L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81vrJeYxgRL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71EHnukgD8L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71aCohXqpvL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>30.01 EUR</g:price>
+      <g:brand>BARBERBOSS</g:brand>
+      <g:mpn>B0GJT12LBL</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DLC5GSTQ</g:id>
+      <g:title>Samsung S30GD (S24D302) 24&quot;</g:title>
+      <g:description>Un 24 pollici con pannello IPS, quindi colori e angoli di visione buoni anche se lo guardi di lato. I 100Hz rendono il movimento del mouse e lo scorrimento piu&apos; fluidi rispetto ai soliti 60Hz, senza chiedere una scheda video potente. La risoluzione Full HD su 24 pollici resta nitida da distanza di scrivania.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/samsung-s30gd-s24d302-24-fhd/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71HB90SqNHL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71mDK7yQ+nL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81ljes33kxL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71aaoRAtsYL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>82.90 EUR</g:price>
+      <g:brand>Samsung</g:brand>
+      <g:mpn>B0DLC5GSTQ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F5HRV2TN</g:id>
+      <g:title>MSI MAG 242F 24&quot; 200Hz</g:title>
+      <g:description>Qui il pezzo forte sono i 200Hz su pannello Rapid IPS: vuol dire immagine molto fluida nei giochi veloci e colori migliori dei vecchi monitor TN economici. Il Full HD su 24 pollici spinge bene anche con schede video di fascia media, senza chiederti un PC costoso per sfruttarlo.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/msi-mag-242f-24-fhd-200hz/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/715384udzgL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/717aythi0ZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71yhCwExxvL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71LveOwx9tL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>94.90 EUR</g:price>
+      <g:brand>MSI</g:brand>
+      <g:mpn>B0F5HRV2TN</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CV3TM2WH</g:id>
+      <g:title>AOC 24B3HA2 24&quot; con altoparlanti</g:title>
+      <g:description>Un 24 pollici Full HD pensato per la scrivania di tutti i giorni, con il vantaggio degli altoparlanti integrati: niente cavi o casse esterne per avere l&apos;audio di base da video e chiamate. I 100Hz danno uno scorrimento piu&apos; morbido del solito e ci sono sia VGA che HDMI, comodo se colleghi anche un PC vecchio.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/aoc-24b3ha2-24-fhd-speaker/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/715T1cmji+L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71fUQP7zNyL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61HEVoOi17L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71Irfj4dp3L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>74.99 EUR</g:price>
+      <g:brand>AOC</g:brand>
+      <g:mpn>B0CV3TM2WH</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CX9DVZDP</g:id>
+      <g:title>AOC 27B3HA2 27&quot; IPS</g:title>
+      <g:description>Un 27 pollici con pannello IPS e altoparlanti integrati, a un prezzo da ingresso gamma. I 120Hz rendono tutto piu&apos; fluido e il formato grande da&apos; respiro quando tieni aperte piu&apos; finestre. Da tenere presente che la risoluzione resta Full HD su 27 pollici, quindi i dettagli sono meno fitti rispetto a uno schermo piu&apos; piccolo con gli stessi pixel.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/aoc-27b3ha2-27-fhd-ips/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71e1awHiDtL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71SYuYzLGZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/611GPcdvpjL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51u8pZFEjhL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>97.99 EUR</g:price>
+      <g:brand>AOC</g:brand>
+      <g:mpn>B0CX9DVZDP</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F9YSJJG2</g:id>
+      <g:title>Philips 27E2N1500L 27&quot; QHD</g:title>
+      <g:description>Qui la differenza la fa la risoluzione QHD: su 27 pollici i 2560x1440 pixel danno molto piu&apos; dettaglio del Full HD, il testo e&apos; piu&apos; definito e hai piu&apos; spazio reale per lavorare. Pannello IPS per colori e angoli di visione buoni, con HDMI e DisplayPort per collegare quello che ti serve.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/philips-27e2n1500l-27-qhd/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71LEo2ShJvL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71D-l+jH2rL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/610ZIJIqVTL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61tLR20BGEL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>119.49 EUR</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>B0F9YSJJG2</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F29RH4RY</g:id>
+      <g:title>Dell S2725QS 27&quot; 4K 120Hz</g:title>
+      <g:description>Un 27 pollici che mette insieme due cose che di solito non vanno a braccetto: la risoluzione 4K, che su questa diagonale rende tutto molto definito, e i 120Hz, che danno una fluidita&apos; insolita per un monitor 4K di questo prezzo. Pannello IPS per colori fedeli, adatto sia al lavoro di precisione sia a film e qualche gioco.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/dell-s2725qs-27-4k-120hz/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71Ja+uEiW8L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71hgGazVC3L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71OOm2RO-WL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71VTXB8NdcL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>269.83 EUR</g:price>
+      <g:brand>Dell</g:brand>
+      <g:mpn>B0F29RH4RY</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DFB26FD8</g:id>
+      <g:title>BenQ MA270U 27&quot; 4K USB-C per Mac</g:title>
+      <g:description>Questo BenQ nasce attorno al MacBook: una sola USB-C porta immagine, dati e fino a 90W di ricarica al portatile, cosi&apos; colleghi tutto con un cavo solo. Risoluzione 4K su 27 pollici per un&apos;immagine molto nitida, gamma colore P3 e taratura pensata per avvicinarsi ai colori di macOS, con comandi di volume e luminosita&apos; gestibili dal Mac.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/benq-ma270u-27-4k-usbc/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71mK7l-vUyL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/619Bi1lbUSL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71Cplm7MTRL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ruF1j37yL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>489.50 EUR</g:price>
+      <g:brand>BenQ</g:brand>
+      <g:mpn>B0DFB26FD8</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DCCBXQXJ</g:id>
+      <g:title>Samsung S36GD (S24D362) 24&quot; curvo</g:title>
+      <g:description>Un 24 pollici curvo (raggio 1800R) con pannello VA, che rispetto all&apos;IPS da&apos; neri piu&apos; profondi e contrasto piu&apos; marcato: comodo per film e per stare davanti allo schermo a lungo. La curvatura avvolge un po&apos; di piu&apos; il campo visivo, i 100Hz tengono il movimento fluido e le funzioni Eye Saver e Flicker Free aiutano gli occhi nelle sessioni lunghe.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/samsung-s36gd-s24d362-24-curvo/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61tbCrvDcML._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61YDQv+AJmL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71483x+YoLL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71g0p0uxqSL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>127.69 EUR</g:price>
+      <g:brand>Samsung</g:brand>
+      <g:mpn>B0DCCBXQXJ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
   </channel>
