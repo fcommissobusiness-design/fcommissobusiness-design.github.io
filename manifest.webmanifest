@@ -46,9 +46,9 @@
       "description": "Avvia il motore di scelta"
     },
     {
-      "name": "Guide",
-      "url": "/guida/",
-      "description": "Tutte le guide ai prodotti"
+      "name": "Categorie",
+      "url": "/#categorie",
+      "description": "Scegli la categoria"
     },
     {
       "name": "Novità",

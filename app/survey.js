@@ -31,15 +31,75 @@ window.Survey = (function () {
   /* categorie davvero disponibili: quelle con almeno un prodotto vendibile.
      Le categorie definite ma ancora senza prodotti non vengono proposte. */
   function liveVerts() { return (window.VERTICALS || []).filter(v => !window.Engine || Engine.products(v.id).length > 0); }
+  /* Riconoscimento robusto testo -> categoria (riscritto 07/11/26).
+     Prima: sottostringa grezza + somma lunghezze. Bug: "scrivania" dava
+     "sedie-ergonomiche" perche' quella parola era keyword di 3 categorie e
+     il pareggio lo vinceva la prima definita. Ora:
+     - match per PAROLA intera, con tolleranza singolare/plurale e genere IT
+       (friggitrice/friggitrici, scrivania/scrivanie, cassa/casse...);
+     - le frasi (es. "aspirapolvere senza filo") valgono di piu' se coperte tutte;
+     - la keyword PRINCIPALE (prima della lista) e il singolare pesano di piu';
+     - pesatura IDF: una parola presente in tante categorie (es. "ufficio",
+       "aria", "smart working") conta poco; una distintiva (es. "poltrona",
+       "auricolari", "roomba") conta molto;
+     - ogni parola della query conta UNA volta per categoria (niente inflazione
+       da keyword quasi-duplicate);
+     - serve almeno una parola "forte" (lunga o distintiva) per dichiarare un
+       match: cosi' una parola corta e generica da sola non aggancia una
+       categoria sbagliata e si cade correttamente su "non copriamo". */
+  const STOPW = { con: 1, del: 1, della: 1, dei: 1, delle: 1, di: 1, da: 1, per: 1, e: 1, ed: 1, a: 1, ad: 1, in: 1, su: 1, il: 1, lo: 1, la: 1, i: 1, gli: 1, le: 1, un: 1, una: 1, uno: 1, al: 1, allo: 1, alla: 1, ai: 1, agli: 1, alle: 1, col: 1, the: 1, of: 1, with: 1, and: 1, mi: 1, che: 1, cerco: 1, voglio: 1, serve: 1, cerca: 1, cercando: 1, sto: 1, me: 1, ne: 1, tra: 1 };
+  function sigWords(s) { return norm(s).split(/[^a-z0-9]+/).filter(w => w.length >= 3 && !STOPW[w]); }
+  /* due parole combaciano se uguali o se differiscono solo nell'ultima lettera
+     (plurale/genere italiano), con lunghezza >= 5 per evitare falsi positivi. */
+  function wmatch(a, b) {
+    if (a === b) return true;
+    if (a.length < 5 || b.length < 5) return false;
+    if (Math.abs(a.length - b.length) > 1) return false;
+    const n = Math.min(a.length, b.length) - 1;
+    return a.slice(0, n) === b.slice(0, n);
+  }
+  let _df = null, _N = 0;
+  function df() {
+    if (_df) return _df; _df = {}; const vs = liveVerts(); _N = vs.length;
+    vs.forEach(v => {
+      const seen = {};
+      norm(v.keywords || '').split(',').forEach(k => sigWords(k).forEach(w => { seen[w] = 1; }));
+      sigWords(v.singular || '').forEach(w => { seen[w] = 1; });
+      Object.keys(seen).forEach(w => { _df[w] = (_df[w] || 0) + 1; });
+    });
+    return _df;
+  }
+  function idf(w) { const d = df(); return Math.log((_N + 1) / ((d[w] || 0) + 1)) + 0.35; }
+  function strongW(w) { return w.length >= 5 || (df()[w] || 0) <= 1; }
   function detect(text) {
     const t = norm(text); if (t.length < 2) return { v: null, alts: [] };
+    const qw = t.split(/[^a-z0-9]+/).filter(Boolean);
+    const hasWord = k => qw.some(w => wmatch(w, k));
     const scored = liveVerts().map(v => {
-      let sc = 0;
-      norm(v.keywords || '').split(',').forEach(k => { k = k.trim(); if (k && t.indexOf(k) >= 0) sc += k.length; });
-      if (t.indexOf(norm(v.singular)) >= 0) sc += 20;
-      return { v, sc };
+      const best = {}; let strong = false;      // best[parola]=miglior contributo
+      const kws = norm(v.keywords || '').split(',').map(k => k.trim()).filter(Boolean);
+      const absorb = (words, mult) => {
+        words.forEach(w => {
+          const hit = w.length * idf(w) * mult;
+          qw.forEach(q => { if (wmatch(q, w)) { if (!(q in best) || best[q] < hit) best[q] = hit; if (strongW(w)) strong = true; } });
+        });
+      };
+      kws.forEach((k, i) => {
+        const kwords = sigWords(k); if (!kwords.length) return;
+        const matched = kwords.filter(hasWord); if (!matched.length) return;
+        let mult = 1;
+        if (matched.length === kwords.length && kwords.length > 1) mult *= 1.35; // frase piena
+        if (i === 0) mult *= 1.6;                                               // keyword principale
+        absorb(matched, mult);
+      });
+      const sg = sigWords(v.singular || '');
+      if (sg.length && sg.every(hasWord)) absorb(sg, 1.25);                     // singolare completo
+      let sc = 0; for (const q in best) sc += best[q];
+      return { v, sc, strong };
     }).filter(x => x.sc > 0).sort((a, b) => b.sc - a.sc);
-    return { v: scored[0] ? scored[0].v : null, alts: scored.slice(0, 3).map(x => x.v) };
+    if (!scored.length) return { v: null, alts: [] };
+    const top = scored[0];
+    return { v: (top.sc >= 6 && top.strong) ? top.v : null, alts: scored.slice(0, 3).map(x => x.v) };
   }
   /* pre-risposte dal testo: "sotto 300", "con animali", "8 ore" ecc. */
   function preanswers(v, text) {
