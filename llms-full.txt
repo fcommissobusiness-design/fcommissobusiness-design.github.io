@@ -1,5 +1,5 @@
 # PickForMe — guida estesa per assistenti AI
-https://www.pickforme.it · Amazon.it (tag pickforme26-21) · lingua it-IT · aggiornato il 2026-11-06 (rigenerato ogni giorno)
+https://www.pickforme.it · Amazon.it (tag pickforme26-21) · lingua it-IT · aggiornato il 2026-11-07 (rigenerato ogni giorno)
 
 PickForMe e' un motore di decisione d'acquisto: per ogni categoria diciamo QUALE prodotto comprare e PERCHE', con il verdetto "per chi va bene / per chi non va bene", prezzo verificato a mano e datato, e la voce sintetica delle recensioni Amazon. Nessun ranking a pagamento.
 
@@ -26,7 +26,7 @@ La sedia giusta dipende dal tuo corpo e da quante ore ci passi, non dalle recens
 Categoria: https://www.pickforme.it/categoria/sedie-ergonomiche/
 Scelta principale: Steelcase Gesture Onyx con Poggiatesta — €1352,48, 4.2/5 su 221 recensioni. La sedia da ufficio con 12 anni di garanzia, livello Steelcase
 Scheda: https://www.pickforme.it/prodotto/steelcase-gesture-onyx-poggiatesta/
-Alternativa economica: SIHOO M102C rete braccioli 3D — €169,99, 4.3/5 su 2542 recensioni. La SIHOO completa, a un prezzo medio
+Alternativa economica: SIHOO M102C rete braccioli 3D — €189,99, 4.3/5 su 2542 recensioni. La SIHOO completa, a un prezzo medio
 Scheda: https://www.pickforme.it/prodotto/sihoo-m102c-rete-braccioli-3d/
 Scelta premium: SIHOO Doro S300 — €799,99, 4.1/5 su 135 recensioni. La Doro S300 che segue il movimento della tua schiena.
 Scheda: https://www.pickforme.it/prodotto/sihoo-doro-s300/
@@ -46,7 +46,7 @@ Il trapano giusto dipende da cosa devi forare e da quali batterie hai già, non 
 Categoria: https://www.pickforme.it/categoria/utensili-elettrici/
 Scelta principale: Bosch Professional GBH 2-28 F — €231,50, 4.7/5 su 5246 recensioni. Il tassellatore Bosch Professional che fora il cemento e diventa anche trapano
 Scheda: https://www.pickforme.it/prodotto/bosch-professional-gbh-2-28-f-sds-plus-880w/
-Alternativa economica: Bosch Professional GSB 18V-45 — €98,45, 4.8/5 su 96 recensioni. Il brushless Professional da 55 Nm, solo corpo, e il più acquistato del gruppo.
+Alternativa economica: Bosch Professional GSB 18V-45 — €98,89, 4.8/5 su 96 recensioni. Il brushless Professional da 55 Nm, solo corpo, e il più acquistato del gruppo.
 Scheda: https://www.pickforme.it/prodotto/bosch-pro-gsb-18v-45/
 Scelta premium: DeWalt DCH273P2T-QW (18V XR brushless, 2x5,0 Ah, TSTAK) — €439,00, 4.6/5 su 458 recensioni. Tassellatore a batteria DeWalt XR 18V, pronto all'uso con due batterie 5,0 Ah e valigetta
 Scheda: https://www.pickforme.it/prodotto/dewalt-dch273p2t-qw/
@@ -56,7 +56,7 @@ Quanto caffè bevete e quanto tempo volete dedicargli. Da lì scende tutto il re
 Categoria: https://www.pickforme.it/categoria/macchine-caffe/
 Scelta principale: De'Longhi Rivelia — €551,06, 4.3/5 su 632 recensioni. Macina al momento e ha due contenitori di chicchi da alternare
 Scheda: https://www.pickforme.it/prodotto/delonghi-rivelia/
-Alternativa economica: Lavazza A Modo Mio Jolie Evo — €82,35, 4.6/5 su 4171 recensioni. La più compatta e silenziosa del mondo A Modo Mio, larga 12 cm
+Alternativa economica: Lavazza A Modo Mio Jolie Evo — €79,00, 4.6/5 su 4171 recensioni. La più compatta e silenziosa del mondo A Modo Mio, larga 12 cm
 Scheda: https://www.pickforme.it/prodotto/lavazza-jolie-evo-nera/
 Scelta premium: Sage The Barista Touch Impress (SES881, acciaio inox nero) — €1299,90, 4.4/5 su 100 recensioni. Espresso manuale con macinacaffè integrato, guida sul display touch e cappuccino automatico.
 Scheda: https://www.pickforme.it/prodotto/sage-barista-touch-impress-ses881/
@@ -94,11 +94,11 @@ Scheda: https://www.pickforme.it/prodotto/sony-fe-300-f28-gm-oss-sel300f28gm/
 ## Friggitrici ad aria
 Quanti siete a tavola e quanto spazio hai sul piano: sono queste due cose a decidere, non i watt.
 Categoria: https://www.pickforme.it/categoria/friggitrici-aria/
-Scelta principale: Cosori Dual Zone 8,5 L CAF-R903 — €129,99, 4.7/5 su 2416 recensioni. Due cestelli con oblò, da 35 a 230 °C, a meno di 130 euro
+Scelta principale: Cosori Dual Zone 8,5 L CAF-R903 — €149,99, 4.7/5 su 2416 recensioni. Due cestelli con oblò, da 35 a 230 °C, a meno di 130 euro
 Scheda: https://www.pickforme.it/prodotto/cosori-dual-8-5l-caf-r903/
 Alternativa economica: Ardes Friggisana Infinity 8L — €51,30, 4.7/5 su 462 recensioni. Monocestello capiente da 8 litri, con parti lavabili in lavastoviglie.
 Scheda: https://www.pickforme.it/prodotto/ardes-friggisana-infinity-arfrya05l-8l/
-Scelta premium: Philips Airfryer Combi 7000 Series XXL HD9876/20 — €319,00, 4.6/5 su 3591 recensioni. Philips XXL da 8,3 litri a cestello unico, con vapore e app HomeID
+Scelta premium: Philips Airfryer Combi 7000 Series XXL HD9876/20 — €380,79, 4.6/5 su 3591 recensioni. Philips XXL da 8,3 litri a cestello unico, con vapore e app HomeID
 Scheda: https://www.pickforme.it/prodotto/philips-airfryer-combi-7000-xxl-hd9876/
 
 ## Monitor da scrivania
@@ -108,7 +108,7 @@ Scelta principale: Dell S2725QS 27" 4K 120Hz — €269,83, 4.5/5 su 417 recensi
 Scheda: https://www.pickforme.it/prodotto/dell-s2725qs-27-4k-120hz/
 Alternativa economica: Lenovo LOQ 24-10 — €89,99, 4.4/5 su 235 recensioni. 200 Hz su pannello IPS e tre ingressi video, per giocare spendendo poco
 Scheda: https://www.pickforme.it/prodotto/lenovo-loq-24-10/
-Scelta premium: Dell UltraSharp U2725QE — €667,98, 4.4/5 su 289 recensioni. Un monitor 4K a 120 Hz che fa anche da docking station
+Scelta premium: Dell UltraSharp U2725QE — €661,32, 4.4/5 su 289 recensioni. Un monitor 4K a 120 Hz che fa anche da docking station
 Scheda: https://www.pickforme.it/prodotto/dell-ultrasharp-u2725qe/
 
 ## Aspirapolvere senza filo
@@ -124,12 +124,12 @@ Scheda: https://www.pickforme.it/prodotto/samsung-bespoke-jet-ai-ultra/
 ## Purificatori d'aria
 Un purificatore funziona solo se è dimensionato per la stanza. Dicci quanto è grande e cosa ti dà fastidio nell'aria.
 Categoria: https://www.pickforme.it/categoria/purificatori-aria/
-Scelta principale: Philips serie 4200 (AC4221) — €414,99, 4.4/5 su 406 recensioni. Aria pulita in soggiorni grandi e open space, con quattro sensori e app
+Scelta principale: Coway Airmega 450 — €499,99, 4.2/5 su 22 recensioni. CADR 734 m3/h e sensore laser PM1: il Coway piu' grande per open-space e allergie serie.
+Scheda: https://www.pickforme.it/prodotto/coway-airmega-450/
+Alternativa economica: Philips PureProtect Go 500 — €58,70, 4.7/5 su 57 recensioni. Philips HEPA H13 silenzioso da 12 dB, filtro fino a 3 anni, pensato per 25 m2.
+Scheda: https://www.pickforme.it/prodotto/philips-pureprotect-go-500/
+Scelta premium: Philips serie 4200 (AC4221) — €414,99, 4.4/5 su 406 recensioni. Aria pulita in soggiorni grandi e open space, con quattro sensori e app
 Scheda: https://www.pickforme.it/prodotto/philips-4200-ac4221/
-Alternativa economica: Winix ZERO — €137,25, 4.5/5 su 949 recensioni. Purificatore con HEPA H13 dichiarato per stanze grandi, a meno di 150 euro
-Scheda: https://www.pickforme.it/prodotto/winix-zero/
-Scelta premium: Coway Airmega 200M — €404,13, 4.6/5 su 350 recensioni. Coway Airmega 200M con sensore dell'aria, True HEPA e modalità Smart, a 400€
-Scheda: https://www.pickforme.it/prodotto/coway-airmega-200m/
 
 ## Spazzolini elettrici
 Oscillante o sonico, sensore di pressione, autonomia per i viaggi: dicci come ti lavi i denti e ti diciamo quale prendere.
@@ -138,8 +138,8 @@ Scelta principale: Oral-B iO Series 6 Grey Opal — €127,35, 4.4/5 su 2050 rec
 Scheda: https://www.pickforme.it/prodotto/oral-b-io6-grey-opal/
 Alternativa economica: Oral-B Pro Junior 6+ — €38,94, 4.5/5 su 1934 recensioni. Il primo vero Oral-B per bambini dai 6 anni in su.
 Scheda: https://www.pickforme.it/prodotto/oral-b-pro-junior/
-Scelta premium: Oral-B iO 6 con 2 testine, custodia e dentifricio (nero) — €180,96, 4.7/5 su 357 recensioni. L'iO 6 con app, cinque modalità e due testine già incluse.
-Scheda: https://www.pickforme.it/prodotto/oral-b-io-6-bundle/
+Scelta premium: Oral-B iO 6 nero con 2 testine, custodia e dentifricio — €177,45, 4.6/5 su 372 recensioni. L'oscillante Oral-B con anello luminoso che ti dice quando premi troppo.
+Scheda: https://www.pickforme.it/prodotto/oralb-io6-nero-custodia-dentifricio/
 
 ## Cuffie e auricolari bluetooth
 Sopra le orecchie o dentro, cancellazione del rumore, autonomia, sport o ufficio: dicci come le userai e ti diciamo quali prendere.
@@ -148,17 +148,17 @@ Scelta principale: Sony WH-1000XM6 — €349,00, 4.1/5 su 5549 recensioni. Sony
 Scheda: https://www.pickforme.it/prodotto/sony-wh1000xm6/
 Alternativa economica: Sennheiser ACCENTUM Plus — €122,49, 4.2/5 su 2333 recensioni. Over-ear Sennheiser con cancellazione del rumore adattiva e 50 ore di autonomia a 115 €
 Scheda: https://www.pickforme.it/prodotto/sennheiser-accentum-plus/
-Scelta premium: JBL Tour One M3 Smart Tx — €341,25, 4.3/5 su 151 recensioni. 70 ore di batteria, trasmettitore Smart Tx per console e aereo e cancellazione adattiva a 8 microfoni
-Scheda: https://www.pickforme.it/prodotto/jbl-tour-one-m3/
+Scelta premium: Bose QuietComfort Ultra Headphones — €360,96, 4.3/5 su 9862 recensioni. Le cuffie che zittiscono il mondo, con chiamate nitide e audio spaziale.
+Scheda: https://www.pickforme.it/prodotto/bose-quietcomfort-ultra-headphones/
 
 ## Casse bluetooth
 Da tasca o da festa, in casa o in spiaggia, una o due in stereo: dicci dove la userai e ti diciamo quale prendere.
 Categoria: https://www.pickforme.it/categoria/casse-bluetooth/
-Scelta principale: JBL Xtreme 4 — €229,77, 4.5/5 su 4009 recensioni. La grande portatile di JBL: 24 ore di musica e Auracast
+Scelta principale: JBL Xtreme 4 — €332,11, 4.5/5 su 4009 recensioni. La grande portatile di JBL: 24 ore di musica e Auracast
 Scheda: https://www.pickforme.it/prodotto/jbl-xtreme-4/
 Alternativa economica: Soundcore Motion 300 — €62,99, 4.6/5 su 3539 recensioni. La cassa compatta che punta tutto sulla qualità del suono
 Scheda: https://www.pickforme.it/prodotto/soundcore-motion-300/
-Scelta premium: JBL PartyBox 310 — €473,17, 4.6/5 su 385 recensioni. La PartyBox JBL pensata per le vere feste, ancora oggi il punto di riferimento.
+Scelta premium: JBL PartyBox 310 — €449,15, 4.6/5 su 385 recensioni. La PartyBox JBL pensata per le vere feste, ancora oggi il punto di riferimento.
 Scheda: https://www.pickforme.it/prodotto/jbl-partybox-310/
 
 ## Sicurezza casa smart
@@ -166,7 +166,7 @@ Interno o esterno, cablata o a batteria, con Wi-Fi o SIM 4G: scegli in base a do
 Categoria: https://www.pickforme.it/categoria/sicurezza-casa-smart/
 Scelta principale: TP-Link Tapo Tapo C545D dual outdoor — €89,99, 4.6/5 su 11498 recensioni. Doppio obiettivo PTZ che vede panoramica e dettaglio insieme.
 Scheda: https://www.pickforme.it/prodotto/tp-link-tapo-c545d/
-Alternativa economica: TP-Link Tapo Tapo C210 — €24,99, 4.6/5 su 53707 recensioni. Si muove da sola per coprire tutta la stanza, a meno di 25 euro
+Alternativa economica: TP-Link Tapo Tapo C210 — €25,99, 4.6/5 su 53707 recensioni. Si muove da sola per coprire tutta la stanza, a meno di 25 euro
 Scheda: https://www.pickforme.it/prodotto/tp-link-tapo-c210/
 Scelta premium: Nuki Smart Lock Ultra — €369,00, 4.6/5 su 695 recensioni. La Nuki top: motore più silenzioso e scocca più sottile della Pro
 Scheda: https://www.pickforme.it/prodotto/nuki-smart-lock-ultra/
@@ -306,11 +306,11 @@ Fonte: https://www.pickforme.it/domande/ufficio-piccolo-cosa-comprare-partita-iv
 # Confronti diretti (X o Y?)
 
 D: Oral-B Vitality Pro o Oral-B Pro Series 3 confezione doppia?
-R: Scegli Oral-B Vitality Pro (€23,71) se Vuoi provare lo spazzolino elettrico spendendo il minimo. Scegli Oral-B Pro Series 3 confezione doppia (€134,76) se Volete due spazzolini con avviso di pressione ben visibile e una testina di scorta.
+R: Scegli Oral-B Vitality Pro (€24,99) se Vuoi provare lo spazzolino elettrico spendendo il minimo. Scegli Oral-B Pro Series 3 confezione doppia (€134,78) se Volete due spazzolini con avviso di pressione ben visibile e una testina di scorta.
 Fonte: https://www.pickforme.it/confronto/spazzolini-elettrici/oral-b-vitality-pro-vs-oral-b-pro-series-3-duo/
 
 D: Xiaomi H50 Pro o XIAOMI Robot Vacuum X20+?
-R: Scegli Xiaomi H50 Pro (€499,99) se Chi vuole bordi e angoli lavati bene e la stazione completa senza superare i 450 euro. Scegli XIAOMI Robot Vacuum X20+ (€289,99) se Vuoi una stazione che lavi e asciughi i panni senza superare i 300 euro.
+R: Scegli Xiaomi H50 Pro (€399,99) se Chi vuole bordi e angoli lavati bene e la stazione completa senza superare i 450 euro. Scegli XIAOMI Robot Vacuum X20+ (€289,99) se Vuoi una stazione che lavi e asciughi i panni senza superare i 300 euro.
 Fonte: https://www.pickforme.it/confronto/robot-aspirapolvere/xiaomi-h50-pro-vs-xiaomi-x20-plus/
 
 D: Lefant M350 o iRobot Roomba Plus 576 Combo?
@@ -334,11 +334,11 @@ R: Scegli iRobot Roomba 115 Combo + AutoEmpty dock (€199,00) se Chi vuole il m
 Fonte: https://www.pickforme.it/confronto/robot-aspirapolvere/irobot-roomba-115-combo-autoempty-vs-irobot-roomba-plus-576-combo/
 
 D: Krups Nescafé Dolce Gusto Mini Me o Lavazza A Modo Mio Jolie Evo?
-R: Scegli Krups Nescafé Dolce Gusto Mini Me (€71,08) se In casa si bevono bevande diverse, cappuccino compreso, e vuoi zero manutenzione. Scegli Lavazza A Modo Mio Jolie Evo (€82,35) se Preferisci le miscele Lavazza e vuoi la macchina più compatta e silenziosa del sistema A Modo Mio.
+R: Scegli Krups Nescafé Dolce Gusto Mini Me (€64,80) se In casa si bevono bevande diverse, cappuccino compreso, e vuoi zero manutenzione. Scegli Lavazza A Modo Mio Jolie Evo (€79,00) se Preferisci le miscele Lavazza e vuoi la macchina più compatta e silenziosa del sistema A Modo Mio.
 Fonte: https://www.pickforme.it/confronto/macchine-caffe/krups-dolce-gusto-mini-me-vs-lavazza-jolie-evo-nera/
 
 D: De'Longhi Magnifica S ECAM o Lavazza A Modo Mio Jolie Evo?
-R: Scegli De'Longhi Magnifica S ECAM (€319,99) se bevi almeno tre caffè al giorno e vuoi ridurre il costo di ogni tazza. Scegli Lavazza A Modo Mio Jolie Evo (€82,35) se Preferisci le miscele Lavazza e vuoi la macchina più compatta e silenziosa del sistema A Modo Mio.
+R: Scegli De'Longhi Magnifica S ECAM (€319,99) se bevi almeno tre caffè al giorno e vuoi ridurre il costo di ogni tazza. Scegli Lavazza A Modo Mio Jolie Evo (€79,00) se Preferisci le miscele Lavazza e vuoi la macchina più compatta e silenziosa del sistema A Modo Mio.
 Fonte: https://www.pickforme.it/confronto/macchine-caffe/delonghi-magnifica-s-vs-lavazza-jolie-evo-nera/
 
 D: De'Longhi Magnifica S ECAM o De'Longhi Nespresso Essenza Mini EN85.B?
@@ -350,11 +350,11 @@ R: Scegli De'Longhi Dedica EC685 (€148,99) se hai un piano cucina stretto e ti
 Fonte: https://www.pickforme.it/confronto/macchine-caffe/delonghi-dedica-ec685-vs-nespresso-essenza-mini-en85b/
 
 D: De'Longhi Nespresso Essenza Mini EN85.B o Lavazza A Modo Mio Jolie Evo?
-R: Scegli De'Longhi Nespresso Essenza Mini EN85.B (€84,00) se Vuoi entrare nel sistema Nespresso Original con la macchina più piccola ed economica. Scegli Lavazza A Modo Mio Jolie Evo (€82,35) se Preferisci le miscele Lavazza e vuoi la macchina più compatta e silenziosa del sistema A Modo Mio.
+R: Scegli De'Longhi Nespresso Essenza Mini EN85.B (€84,00) se Vuoi entrare nel sistema Nespresso Original con la macchina più piccola ed economica. Scegli Lavazza A Modo Mio Jolie Evo (€79,00) se Preferisci le miscele Lavazza e vuoi la macchina più compatta e silenziosa del sistema A Modo Mio.
 Fonte: https://www.pickforme.it/confronto/macchine-caffe/nespresso-essenza-mini-en85b-vs-lavazza-jolie-evo-nera/
 
 D: Krups Nescafé Dolce Gusto Mini Me o De'Longhi Nespresso Essenza Mini EN85.B?
-R: Scegli Krups Nescafé Dolce Gusto Mini Me (€71,08) se In casa si bevono bevande diverse, cappuccino compreso, e vuoi zero manutenzione. Scegli De'Longhi Nespresso Essenza Mini EN85.B (€84,00) se Vuoi entrare nel sistema Nespresso Original con la macchina più piccola ed economica.
+R: Scegli Krups Nescafé Dolce Gusto Mini Me (€64,80) se In casa si bevono bevande diverse, cappuccino compreso, e vuoi zero manutenzione. Scegli De'Longhi Nespresso Essenza Mini EN85.B (€84,00) se Vuoi entrare nel sistema Nespresso Original con la macchina più piccola ed economica.
 Fonte: https://www.pickforme.it/confronto/macchine-caffe/krups-dolce-gusto-mini-me-vs-nespresso-essenza-mini-en85b/
 
 D: Marcapiuma Rainbow H2 memory o Sleephome Niveo molle insacchettate 22 cm?

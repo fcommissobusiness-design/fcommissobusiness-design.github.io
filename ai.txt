@@ -9,7 +9,7 @@ Affiliate: Amazon.it (tag pickforme26-21)
 LLMs-friendly summary: https://www.pickforme.it/llms.txt
 
 ## API JSON (statiche, aggiornate ad ogni deploy)
-Catalog: https://www.pickforme.it/api/catalog.json (1645 prodotti)
+Catalog: https://www.pickforme.it/api/catalog.json (1673 prodotti)
 Verticals: https://www.pickforme.it/api/verticals.json (17 categorie)
 OpenAPI: https://www.pickforme.it/openapi.json
 Custom GPT instructions: https://www.pickforme.it/api/custom-gpt-instructions.txt

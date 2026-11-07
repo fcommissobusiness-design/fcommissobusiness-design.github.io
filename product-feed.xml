@@ -3,7 +3,7 @@
   <channel>
     <title>PickForMe · You need it. We pick it.</title>
     <link>https://www.pickforme.it/</link>
-    <description>Feed prodotti selezionati del catalogo PickForMe (1467 prodotti · aggiornato 2026-11-06).</description>
+    <description>Feed prodotti selezionati del catalogo PickForMe (1498 prodotti · aggiornato 2026-11-07).</description>
     <item>
       <g:id>B0DCVYS9FQ</g:id>
       <g:title>Dreame L10s Ultra</g:title>
@@ -1157,6 +1157,23 @@
       <g:price>499.00 EUR</g:price>
       <g:brand>dreame</g:brand>
       <g:mpn>B0DY8V59LY</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Robot aspirapolvere</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DJR64YJC</g:id>
+      <g:title>eufy X10 Pro Omni</g:title>
+      <g:description>L&apos;X10 Pro Omni mette insieme 8.000 Pa di aspirazione, la navigazione laser iPath e una stazione all-in-one che si svuota da sola, lava e asciuga i due panni e rifornisce l&apos;acqua. La spazzola a rullo si libera da sola dai peli e i mocio si sollevano quando il robot incontra un tappeto. Le recensioni sono buone ma non entusiaste, con media 4,1 su 5.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/eufy-x10-pro-omni/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61M5e6igwOL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ZR-cRyqcL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61NBnYfQubL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71PSMDTPveL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>499.00 EUR</g:price>
+      <g:brand>eufy</g:brand>
+      <g:mpn>B0DJR64YJC</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Robot aspirapolvere</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -2956,23 +2973,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B07TX8MT4F</g:id>
-      <g:title>Nespresso De&apos;Longhi Lattissima One EN510</g:title>
-      <g:description>La Lattissima One usa le capsule Nespresso Original e prepara espresso, cappuccino e latte macchiato con un solo tocco. Il latte va nella caraffa, che puoi lavare in lavastoviglie, e viene montato in automatico. La pompa è da 19 bar e il corpo, largo solo 15 cm, trova posto quasi ovunque. È la comodità della capsula con la schiuma già fatta.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/delonghi-lattissima-one-en510/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71F98kgaPaL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71wOobhUBBL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71QBMs4p8rL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71WGBZSYinL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>199.00 EUR</g:price>
-      <g:brand>Nespresso De&apos;Longhi</g:brand>
-      <g:mpn>B07TX8MT4F</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Macchine da caffè</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B01ITICQR4</g:id>
       <g:title>Nespresso De&apos;Longhi Citiz &amp; Milk EN267</g:title>
       <g:description>La Citiz &amp; Milk funziona con le capsule Nespresso Original e include il montalatte automatico Aeroccino, così fai cappuccini e latte macchiato senza montare il latte a mano. Ha una pompa da 19 bar, un serbatoio da 1 L e due lunghezze di caffè in tazza. Il design è compatto.</g:description>
@@ -4121,22 +4121,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B01FOAFWLW</g:id>
-      <g:title>De&apos;Longhi Dinamica ECAM350.15.B</g:title>
-      <g:description>Dinamica è un passo sopra le automatiche di base: ha il display, quattro bevande a tasto diretto e la funzione My, che salva aroma e quantità di ogni caffè. Il serbatoio da 1,8 L si estrae dal davanti e riduce le ricariche, comodo se in casa si beve molto caffè. Il limite è il latte: c&apos;è un pannarello manuale, quindi cappuccino e latte macchiato restano un lavoro a mano.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/delonghi-dinamica-ecam350-15b/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61Ph0r3UWfL._AC_SL1200_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/41oc5EJoHSL._AC_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>389.55 EUR</g:price>
-      <g:brand>De&apos;Longhi</g:brand>
-      <g:mpn>B01FOAFWLW</g:mpn>
-      <g:gtin>8004399331143</g:gtin>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Macchine da caffè</g:google_product_category>
-      <g:identifier_exists>yes</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0H31Z6LB5</g:id>
       <g:title>HiBREW H10B Lite</g:title>
       <g:description>H10B Lite è una macchina a portafiltro con regolazioni che di solito si trovano molto più in alto: temperatura da 90 a 96 °C, pre-infusione (la breve bagnatura iniziale del caffè) da 1 a 10 secondi, volume programmabile, manometro e timer sul display. Ha senso per chi vuole imparare l&apos;estrazione senza superare i 300 euro. Non ha il macinacaffè e il cestello in dotazione è pressurizzato: il vero salto di qualità arriva solo con un macinino e un cestello non pressurizzato.</g:description>
@@ -5174,6 +5158,23 @@
       <g:price>89.99 EUR</g:price>
       <g:brand>Proscenic</g:brand>
       <g:mpn>B0GSRXDGFB</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B07YM8122M</g:id>
+      <g:title>Bosch Readyy&apos;y Serie 2 BBHF220</g:title>
+      <g:description>Questa scopa elettrica senza filo 2in1 ha un aspirabriciole estraibile, fino a 40 minuti di autonomia e sta in piedi da sola. Funziona bene per le passate veloci di ogni giorno in appartamenti piccoli o medi. Non dichiara la potenza di aspirazione, non ha luci né spazzola anti-groviglio e si ricarica lentamente.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/bosch-readyyy-serie-2-bbhf220/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51nURJh745L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61JxQ8ppBLL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/519VPgdzrjL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71IEW0KshDL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>104.72 EUR</g:price>
+      <g:brand>Bosch</g:brand>
+      <g:mpn>B07YM8122M</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -7606,23 +7607,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0DT78G7Y6</g:id>
-      <g:title>Shark PowerPro IZ380EUT</g:title>
-      <g:description>La Shark PowerPro è una scopa elettrica con spazzola anti-groviglio che rimuove peli e capelli mentre pulisci, rileva il tipo di pavimento e include un accessorio motorizzato per gli animali. Il tubo Flexology si piega per entrare sotto i mobili e la batteria è rimovibile. I 50 minuti dichiarati valgono in modalità Eco con l&apos;accessorio non motorizzato: con la spazzola principale l&apos;autonomia è più breve.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/shark-powerpro-iz380eut/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61Id-tx99rL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71QfGcQeH5L._AC_SL1400_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81BGRo61-0L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81eH4i+UVoL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>199.99 EUR</g:price>
-      <g:brand>Shark</g:brand>
-      <g:mpn>B0DT78G7Y6</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0FSL7ZVZJ</g:id>
       <g:title>Proscenic P20</g:title>
       <g:description>La Proscenic P20 è una scopa elettrica da 70 kPa dichiarati, con batteria rimovibile, tubo pieghevole per arrivare sotto i mobili e una luce verde che rende visibile la polvere. Un serbatoio da 230 ml permette di passare il panno umido dopo l&apos;aspirazione. Offre molte funzioni a un prezzo basso, ma il lavaggio è quello di un panno, non di un rullo con acqua pulita e sporca separate.</g:description>
@@ -8128,23 +8112,6 @@
       <g:price>99.00 EUR</g:price>
       <g:brand>Lenovo</g:brand>
       <g:mpn>B0GSH2S75J</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Monitor da scrivania</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0DM679R7F</g:id>
-      <g:title>Acer EK241YGbif</g:title>
-      <g:description>L&apos;Acer EK241YGbif è un monitor Full HD da 23,8 pollici con pannello IPS a 120 Hz, AdaptiveSync e attacco VESA, venduto da Amazon. È una buona scelta come primo monitor o come secondo schermo economico per ufficio, studio e giochi leggeri. Ha un solo ingresso HDMI 1.4 più la VGA e una luminosità di 250 nit: resta un prodotto di base, onesto ma essenziale.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/acer-ek241ygbif/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/618iMSLKgOL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71UyoPlJObL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/614mmhYk4eL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51djQlTtDDL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>79.90 EUR</g:price>
-      <g:brand>Acer</g:brand>
-      <g:mpn>B0DM679R7F</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Monitor da scrivania</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -8975,6 +8942,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0CX1XFLCV</g:id>
+      <g:title>Sony ULT Field 7</g:title>
+      <g:description>Con due woofer, luci LED e protezione IP67, la Sony ULT Field 7 è una cassa portatile di grandi dimensioni che dura 30 ore. Nasce per le feste in giardino o in spiaggia e ha un ingresso per microfono o chitarra. Il peso di 6,3 kg e l&apos;ingombro la rendono poco adatta a chi si sposta a piedi.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/sony-ult-field-7/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61e6y2xIscL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71qyDsXVPwL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/717kE98dE2L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81I8rZt02vL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>306.72 EUR</g:price>
+      <g:brand>Sony</g:brand>
+      <g:mpn>B0CX1XFLCV</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B0GWGGR899</g:id>
       <g:title>Bose SoundLink Flex SE (2ª gen)</g:title>
       <g:description>La Bose SoundLink Flex SE di seconda generazione è una cassa compatta con protezione IP67, un passante per agganciarla allo zaino e 12 ore di autonomia. Ha senso se cerchi un suono curato in poco spazio, soprattutto se hai già altre casse Bose da abbinare. A questo prezzo ci sono casse con più ore di batteria e più volume.</g:description>
@@ -9722,6 +9706,23 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Monitor da scrivania</g:google_product_category>
       <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0D8PTJZ69</g:id>
+      <g:title>Melchioni Family Emma 5L</g:title>
+      <g:description>La Emma 5L di Melchioni è una friggitrice ad aria a cestello singolo da 5 litri, con display touch, 8 programmi e una finestra per controllare la cottura. È una buona porta d&apos;ingresso per single e coppie che vogliono spendere poco. Ha 1500 W di potenza e il cestello va lavato a mano.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/melchioni-emma-5l/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51j4YxXWeiL._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71mFXx31DhL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71WagOV5MzL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ipXZDxuJL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>34.99 EUR</g:price>
+      <g:brand>Melchioni</g:brand>
+      <g:mpn>B0D8PTJZ69</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
       <g:id>B0BFB3Q7SD</g:id>
@@ -11158,6 +11159,23 @@
       <g:price>242.45 EUR</g:price>
       <g:brand>Comfee&apos;</g:brand>
       <g:mpn>B0CQC447VC</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0B2198CY2</g:id>
+      <g:title>Pro Breeze 30L</g:title>
+      <g:description>Questo Pro Breeze è un deumidificatore a compressore che porta via fino a 30 litri d&apos;acqua al giorno. Ha un serbatoio da 4 litri, un tubo per lo scarico continuo, un sensore di umidità regolabile e un&apos;app per programmarlo da telefono. Ha senso in una casa grande, in una taverna o in un locale molto umido. Va detto con onestà che la scheda Amazon contiene dati tecnici poco coerenti tra loro, quindi peso, rumorosità e consumi non si possono verificare.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/probreeze-30l-wifi/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/718m6iexJXL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71pqEOWYltL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61qJy5gdgEL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71+ULoZB96L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>229.99 EUR</g:price>
+      <g:brand>Pro Breeze</g:brand>
+      <g:mpn>B0B2198CY2</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Deumidificatori</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -12648,6 +12666,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0DSQZ6T9M</g:id>
+      <g:title>Shark PowerPro Pet FloorDetect</g:title>
+      <g:description>La PowerPro Pet FloorDetect è la Shark cordless pensata per le case con animali. FloorDetect regola il rullo tra pavimento e tappeto, Anti Hair Wrap toglie i peli dalla spazzola e il sigillo anti-allergen lavora sull&apos;aria in uscita. Include l&apos;accessorio motorizzato per i peli e la batteria rimovibile. Le manca lo svuotamento automatico della Detect Clean &amp; Empty.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/shark-powerpro-pet-detect/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51M9a+nouhL._AC_SL1400_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/810Sy3n8jpL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81a8F4dgkCL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/91O-+J2bLKL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>295.35 EUR</g:price>
+      <g:brand>Shark</g:brand>
+      <g:mpn>B0DSQZ6T9M</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B084HS3X57</g:id>
       <g:title>Philips Sonicare DiamondClean 9000 rosa (HX9911/29)</g:title>
       <g:description>Il Philips Sonicare DiamondClean 9000 nella confezione singola rosa è il modello di punta di Sonicare, con motore sonico ad alta frequenza, 4 modalità e 3 livelli di intensità. Ha un&apos;app che aiuta a spazzolare meglio, un sensore di pressione e una custodia da viaggio con porta USB. È l&apos;alternativa alla confezione doppia per chi vuole un solo manico premium.</g:description>
@@ -13819,6 +13854,23 @@
       <g:price>165.00 EUR</g:price>
       <g:brand>Rowenta</g:brand>
       <g:mpn>B08GKGQPBF</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B08D3QJ96M</g:id>
+      <g:title>Daikin MC55W</g:title>
+      <g:description>Il Daikin MC55W è pensato per chi soffre di allergie: dichiara le certificazioni ECARF e Allergy UK e un filtro HEPA elettrostatico che dura fino a 10 anni. Secondo la scheda copre fino a 50 m² e parte da 19 dB di rumorosità. Usa la tecnologia di filtrazione Catch &amp; Clean tipica del marchio.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/daikin-mc55w/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61QKB6L-g7L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41S5qdGV32L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71glNV6gaVL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61HVi44XgKL._AC_SL1496_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 EUR</g:price>
+      <g:brand>Daikin</g:brand>
+      <g:mpn>B08D3QJ96M</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Purificatori d'aria</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -15407,23 +15459,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0DN5RNM1Z</g:id>
-      <g:title>Yaheetech Sedia Dondolo Mesh 136 kg Nera</g:title>
-      <g:description>La Yaheetech è una sedia da scrivania essenziale, con seduta e schienale in rete traspirante e una funzione a dondolo per staccare un po&apos; dalla postura frontale. Regge fino a 136 kg. I braccioli curvi sono fissi e il supporto lombare non si regola, quindi va bene se il budget è stretto e la usi poche ore al giorno. Per una giornata di lavoro intera, invece, è meglio puntare su qualcosa di più completo.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/yaheetech-mesh-dondolo-136kg-nera/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/815yeKWOifL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/91IRKItkuYL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71a5+zSx4kL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81OlmmWWVTL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>59.99 EUR</g:price>
-      <g:brand>Yaheetech</g:brand>
-      <g:mpn>B0DN5RNM1Z</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Sedie ergonomiche</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0DCJYBJ4V</g:id>
       <g:title>naspaluro Sedia Mesh Braccioli Pieghevoli 150 kg</g:title>
       <g:description>La naspaluro ha una caratteristica che di solito non si trova a questo prezzo: i braccioli si ripiegano a 90 gradi e la sedia scompare sotto la scrivania quando non serve. Il resto è una classica operativa in rete traspirante, con schienale ad arco, supporto lombare fisso, meccanismo oscillante e portata dichiarata di 150 kg. Sotto i 70 euro è un buon compromesso, ma non va scambiata per una sedia ergonomica completa.</g:description>
@@ -15900,23 +15935,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0FMYQ6TL9</g:id>
-      <g:title>Gigabyte MO27Q2A</g:title>
-      <g:description>Il Gigabyte MO27Q2A è un 27 pollici QD-OLED QHD a 280 Hz, con tempo di risposta di 0,03 ms, DisplayHDR True Black 400 e un supporto ergonomico completo con pivot. Fa per te se giochi su PC e console di nuova generazione e vuoi il vero salto di qualità dell&apos;OLED, con neri reali e un HDR convincente, a un prezzo sotto i 500 euro. Restano due limiti: il rischio di burn-in con interfacce statiche prolungate e l&apos;assenza dell&apos;USB-C, che molti portatili ormai danno per scontata.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/gigabyte-mo27q2a/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71mpMJJk61L._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71cAji5BLfL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71MpzWYwRGL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61K60wzoPRL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>435.50 EUR</g:price>
-      <g:brand>Gigabyte</g:brand>
-      <g:mpn>B0FMYQ6TL9</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Monitor da scrivania</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0CV65W1J1</g:id>
       <g:title>Sigma 500mm f/5.6 DG DN OS Sports</g:title>
       <g:description>Il nuovo Sigma 500 f/5.6 è il tele fisso che molti fotografi di fauna aspettavano: 500 mm nitidi già a tutta apertura, stabilizzatore ottico OS2 e 1365 grammi di peso, meno di molti zoom 150-600. Costa oltre 3000 euro, quindi è un investimento serio, che ha senso solo se fotografi animali, uccelli o sport con continuità.</g:description>
@@ -16224,23 +16242,6 @@
       <g:price>96.50 EUR</g:price>
       <g:brand>Bosch</g:brand>
       <g:mpn>B0064KFLRC</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Trapani e avvitatori</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0DQV86M6N</g:id>
-      <g:title>Bosch Professional GSB 18V-65</g:title>
-      <g:description>Il Bosch Professional GSB 18V-65 è un trapano a percussione brushless da 18 V con 55 Nm di coppia massima, KickBack Control per la sicurezza, mandrino in metallo e doppia luce LED. La testa è lunga 175 mm, pesa 1,2 kg e ha due velocità (500 e 2000 giri). Viene venduto senza batteria né caricabatteria, ed è compatibile con AMPShare: la stessa batteria alimenta gli utensili Bosch Professional e quelli degli altri marchi che aderiscono al circuito.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/bosch-pro-gsb-18v-65-solo/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61NC35DejPL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/8174RrVvoZL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71Ed1-mXucL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71YWHiaDgbL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>115.00 EUR</g:price>
-      <g:brand>Bosch Professional</g:brand>
-      <g:mpn>B0DQV86M6N</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Trapani e avvitatori</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -16586,6 +16587,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0CHMMVHQL</g:id>
+      <g:title>JBL Live 770NC</g:title>
+      <g:description>Le JBL Live 770NC sono cuffie over-ear con cancellazione attiva del rumore adattiva, modalità Smart Ambient per far passare le voci quando serve, Bluetooth multipoint (due dispositivi collegati insieme) e codec LDAC per la musica ad alta risoluzione. Con l&apos;app Headphones imposti un equalizzatore personalizzato (Personi-Fi 2.0) e i preset JBL Surround. L&apos;autonomia dichiarata arriva a 50 ore con la cancellazione accesa e a 65 senza. Sotto i 100 euro ti danno un pacchetto completo, senza il prezzo dei modelli di punta.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/jbl-live-770nc/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71yRp4u5x0L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41TjMVfRCsL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41Ve1UVFmVL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51QQ22UzvDL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99.99 EUR</g:price>
+      <g:brand>JBL</g:brand>
+      <g:mpn>B0CHMMVHQL</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B0GK8654NH</g:id>
       <g:title>HUAWEI FreeBuds Pro 5</g:title>
       <g:description>Le FreeBuds Pro 5 sono il modello di punta Huawei della seconda metà del 2025. Hanno un sistema a due driver (uno dinamico e uno planare), la cancellazione attiva Dual-Engine fino a 32 dB e la certificazione IP57, che le protegge da polvere e immersioni brevi. Supportano LDAC per l&apos;alta risoluzione e il Bluetooth multipoint, per usarle con due dispositivi insieme. Dichiarano 7 ore di autonomia con la cancellazione accesa e 33 con la custodia, più una riduzione del rumore con intelligenza artificiale per le chiamate. Costano circa 150 euro e offrono funzioni da top di gamma, ma per equalizzatore e aggiornamenti serve l&apos;app Huawei.</g:description>
@@ -16821,6 +16839,23 @@
       <g:mpn>B089B4J8WC</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CSDJ5J3M</g:id>
+      <g:title>Shark NZ850UK Anti Hair Wrap</g:title>
+      <g:description>La Shark NZ850UK è la variante importata dal mercato britannico, con tecnologia Anti Hair Wrap: la spazzola motorizzata si libera da sola dei capelli mentre aspira. La testina DuoClean ha un doppio rullo e luci LED, mentre la modalità Lift-Away la rende portatile per divani e scale. La guarnizione anallergica trattiene il 99,9% della polvere. Nella confezione c&apos;è anche il kit per l&apos;auto.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/shark-nz850-anti-hair-wrap/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61TYEGXWguL._AC_SL1400_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71b+iM2p49L._AC_SL1400_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/717+E8e4+OL._AC_SL1400_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71sB-3FDWSL._AC_SL1400_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>288.85 EUR</g:price>
+      <g:brand>Shark</g:brand>
+      <g:mpn>B0CSDJ5J3M</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
@@ -19395,6 +19430,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B09V3244QR</g:id>
+      <g:title>Bosch Unlimited 7 BCS711A</g:title>
+      <g:description>La BCS711A è la versione di ingresso della serie Unlimited 7 di Bosch. Il motore TurboSpin arriva a 66.000 giri al minuto, la spazzola motorizzata AllFloor DynamicPower ha luci LED integrate e lavora su pavimenti duri e tappeti, mentre la batteria da 18V e 3.0Ah si sostituisce e funziona con tutti gli attrezzi del sistema Power For All. In dotazione trovi anche il tubo pieghevole Flex Tube, per pulire sotto i mobili bassi, e la stazione di ricarica a parete. Il motore è coperto da 10 anni di garanzia.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/bosch-unlimited-7-bcs711a/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/31Ydl+vhWlL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/419LH9rTM-L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41tnqqbRDFL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41xWv-V+WPL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>325.00 EUR</g:price>
+      <g:brand>Bosch</g:brand>
+      <g:mpn>B09V3244QR</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B091J115MR</g:id>
       <g:title>Samsung Jet 90 Complete VS20R9046T3</g:title>
       <g:description>La Jet 90 Complete VS20R9046T3 è la versione più completa della famiglia Jet 90. Il motore Digital Inverter da 200 W lavora insieme al sistema Jet Cyclone a 9 vortici e a un filtro multistrato che, secondo Samsung, trattiene il 99,999% delle microparticelle. La batteria si toglie e dura fino a 60 minuti; con una seconda cella raddoppi l&apos;autonomia. Nella confezione trovi la spazzola Soft Action per il parquet, la Turbo Action per tappeti e peli e una base di ricarica autoportante con doppio attacco, per caricare due batterie insieme.</g:description>
@@ -19577,6 +19629,23 @@
       <g:price>67.90 EUR</g:price>
       <g:brand>Cecotec</g:brand>
       <g:mpn>B0G49H564C</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0FNNF7CXR</g:id>
+      <g:title>Haier I-Master S7 Singola 7 L con finestra 360</g:title>
+      <g:description>La friggitrice ad aria Haier I-Master S7 ha 7,2 litri reali e due particolarità rare in questa fascia. La prima è una fascia trasparente a 360 gradi attorno al cestello, con luce LED interna: controlli la cottura da ogni lato senza aprire. La seconda è l&apos;app hOn di Haier, con ricette guidate e consigli direttamente sullo smartphone. La potenza di uscita è 1500 W (il wattaggio dichiarato è 1350 W), la temperatura va da 60 a 200 gradi, i comandi sono touch, i cestelli antiaderenti vanno in lavastoviglie e il peso è 5,5 kg. È per chi vuole un cestello unico e capiente e un uso un po&apos; più smart della media, non per chi cerca potenza pura o la doppia zona.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/haier-i-master-s7-7l/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71n6QPbF7cL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81ov8SlzHKL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71k3xABnyqL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/817sutFRhLL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.43 EUR</g:price>
+      <g:brand>Haier</g:brand>
+      <g:mpn>B0FNNF7CXR</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Friggitrici ad aria</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -20560,6 +20629,23 @@
       <g:price>149.99 EUR</g:price>
       <g:brand>Pro Breeze</g:brand>
       <g:mpn>B0D1QYWM53</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CJFX1VC4</g:id>
+      <g:title>De&apos;Longhi Tasciugo AriaDry DEX212SF 12L/24h</g:title>
+      <g:description>Il DEX212SF della serie Tasciugo AriaDry di De&apos;Longhi è un deumidificatore a compressore da 12 litri in 24 ore, con filtrazione a 3 azioni (antipolvere, anti-allergia e carboni attivi). Ha umidostato, funzione antigelo, modalità asciugabiancheria e gas refrigerante R290. Il serbatoio da 2,1 litri si spegne in automatico quando è pieno e il tubo per lo scarico continuo è in dotazione, con 300 W nominali. L&apos;area di lavoro è di circa 20 m². La garanzia è di 2 anni per i privati.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/delonghi-tasciugo-ariadry-dex212sf-12l/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51fKBuZfhFL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61UyFduTJaL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71KS7VBGTHL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61Wk7tQAsvL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>195.30 EUR</g:price>
+      <g:brand>De&apos;Longhi</g:brand>
+      <g:mpn>B0CJFX1VC4</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Deumidificatori</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -21784,23 +21870,6 @@
       <g:identifier_exists>yes</g:identifier_exists>
     </item>
     <item>
-      <g:id>B09P8XHLGF</g:id>
-      <g:title>Levoit Core 200S Smart</g:title>
-      <g:description>Il Levoit Core 200S è la versione smart di base di Levoit. Ha un filtro HEPA 3-in-1 (prefiltro, HEPA e carbone attivo), la tecnologia VortexAir 3.0 con aspirazione a 360° e una copertura di 35 m². Con l&apos;app VeSync via Wi-Fi gestisci velocità, timer e stato del filtro dallo smartphone, anche con la voce tramite Alexa e Google. Pesa 2,99 kg, scende a 24 dB al minimo e la modalità Sleep spegne le spie e abbassa la ventola. In questa offerta è incluso anche un filtro di ricambio. Le recensioni sono ancora poche (33), ma tutta la famiglia Core 200S ha una media di 4,6 stelle.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/levoit-core-200s-smart/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51AeV9T38bL._AC_SL1001_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71N9+9-Y-bL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61oNNK3YXWL._AC_SL1236_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71aDmn-m5hL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>129.98 EUR</g:price>
-      <g:brand>Levoit</g:brand>
-      <g:mpn>B09P8XHLGF</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Purificatori d'aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0F3P65X6Q</g:id>
       <g:title>MSI MAG 274QF X24</g:title>
       <g:description>L&apos;MSI MAG 274QF X24 è un monitor da 27 pollici a 2560x1440, con pannello Rapid IPS, 240Hz di aggiornamento e un tempo di risposta dichiarato di 0,5 ms. Supporta FreeSync Premium e l&apos;HDR, e ha una DisplayPort 1.4a oltre a due HDMI 2.0b. Il piedistallo si può solo inclinare, senza regolazione in altezza: va bene se usi un braccio VESA o se ti basta appoggiarlo sulla scrivania. A questo prezzo è uno dei pochi QHD IPS a 240Hz sotto i 200 euro, e dichiara con trasparenza 0,5 ms da grigio a grigio.</g:description>
@@ -22695,6 +22764,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0CCNX5NMG</g:id>
+      <g:title>Eaton 5E Gen2 1200 USB IEC (5E1200UI)</g:title>
+      <g:description>L&apos;Eaton 5E Gen2 1200 USB IEC è un gruppo di continuità pensato per piccoli uffici e studi con un rack minimo. Offre 1200 VA e 660 W, in tecnologia line-interactive, e sei prese IEC-C13 divise tra uscite sotto batteria e uscite con sola protezione dai picchi. Il regolatore di tensione integrato (AVR) corregge le variazioni senza consumare la batteria. Si collega via USB al server o al PC e, con il programma Eaton Intelligent Power Manager, spegne in modo ordinato NAS e computer prima che la carica finisca. Ha un formato a torre, da mettere sotto la scrivania o in un armadio tecnico.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/eaton-5e-gen2-1200-usb-iec/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/91yrGvGrC-L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81xUWBiTLjL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81vFTLlS6VL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81ib+6e-V5L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>155.55 EUR</g:price>
+      <g:brand>Eaton</g:brand>
+      <g:mpn>B0CCNX5NMG</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B07QG9GYQ7</g:id>
       <g:title>APC Easy-UPS BV1000I-GR</g:title>
       <g:description>L&apos;APC Easy-UPS BV1000I-GR è un gruppo di continuità per una postazione singola: 1000 VA e 540 W in tecnologia line-interactive con regolatore di tensione, quattro prese Schuko e un formato compatto da 4,8 kg che sta sotto una scrivania o in un mobile basso. È pensato per lo studio o il piccolo ufficio dove la priorità è salvare il lavoro aperto e spegnere il PC senza perdere la fattura in bozza, non per un rack con NAS da gestire con un programma. Costa meno di 110 euro, meno di qualsiasi recupero dati da un disco danneggiato da un micro-blackout.</g:description>
@@ -22792,23 +22878,6 @@
       <g:price>49.17 EUR</g:price>
       <g:brand>Jabra</g:brand>
       <g:mpn>B00ODRSC9M</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0CZ7L2QN1</g:id>
-      <g:title>Dell P2725H 27&quot; FHD IPS</g:title>
-      <g:description>Il Dell P2725H è un monitor da 27 pollici Full HD con pannello IPS a 100 Hz, pensato per le postazioni da ufficio e di smart working con un notebook. La porta USB-C con alimentazione da 15 W ricarica un ultrabook con lo stesso cavo che porta l&apos;immagine, e sul retro c&apos;è un hub USB a 4 porte. Per restare compatibile con PC e docking più vecchi ha anche ingressi DisplayPort, HDMI e VGA. Il supporto si regola in altezza, inclinazione e rotazione, e lo puoi girare in verticale per leggere i documenti A4. Il pannello copre il 99% dello spazio colore sRGB, abbastanza per contabilità, web, documenti e grafica da ufficio, senza la precisione cromatica dei monitor più costosi. La garanzia Dell di 3 anni prevede la sostituzione in sede entro il giorno lavorativo successivo.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/dell-p2725h-27-ips/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51rdT+HJnWL._AC_SL1000_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/713Kx0Sl3xL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61O6imYdwyL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51QOCoO+d6L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>155.19 EUR</g:price>
-      <g:brand>Dell</g:brand>
-      <g:mpn>B0CZ7L2QN1</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -23132,23 +23201,6 @@
       <g:price>43.99 EUR</g:price>
       <g:brand>Soundcore</g:brand>
       <g:mpn>B0FKSV2GW2</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0DN11MTZ6</g:id>
-      <g:title>SHOKZ OpenFit 2 (novita&apos; 2025)</g:title>
-      <g:description>Le SHOKZ OpenFit 2 sono i nuovi auricolari true wireless open-ear a gancio: il driver sta sopra l&apos;orecchio, senza pressione sul canale uditivo, con 48 ore di riproduzione tra auricolari e custodia e una protezione IP55 che le rende adatte allo sport in ambienti umidi o sotto la pioggia leggera. Sono una novità del 2025 e hanno già raccolto oltre 3.300 recensioni. Non isolano dal rumore ma, rispetto ai clip-on, tengono più saldamente in corsa.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/shokz-openfit-2/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51H2qFIQmKL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/710FCSgHqRL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71P9m6x8bBL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71PuStMwnzL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>189.00 EUR</g:price>
-      <g:brand>SHOKZ</g:brand>
-      <g:mpn>B0DN11MTZ6</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -23638,6 +23690,23 @@
       <g:price>129.99 EUR</g:price>
       <g:brand>Eufy</g:brand>
       <g:mpn>B0CF8RPX5M</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Sicurezza casa smart</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DZCJCKHV</g:id>
+      <g:title>SwitchBot WiFi Smart Lock Ultra</g:title>
+      <g:description>Questa serratura smart si applica sopra quella esistente e gira la chiave al posto tuo. Nella confezione trovi il tastierino touchscreen, con cui apri digitando un codice, e il lettore di impronta digitale. Supporta Matter in modo nativo, quindi funziona con qualunque assistente vocale tu usi già in casa. È la soluzione giusta se non vuoi cambiare la porta ma vuoi aprirla con il telefono o con un PIN.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/switchbot-lock-ultra/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71E3LxTUlnL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71I9n1pPM1L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71axde24CAL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/7101Pfvw3oL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>249.99 EUR</g:price>
+      <g:brand>SwitchBot</g:brand>
+      <g:mpn>B0DZCJCKHV</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Sicurezza casa smart</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -24630,23 +24699,6 @@
       <g:identifier_exists>yes</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0FQP7SYTZ</g:id>
-      <g:title>Moulinex Easy Fry Silence 7L</g:title>
-      <g:description>La Easy Fry Silence punta sulla rumorosita contenuta, utile se cucini in cucina aperta sul soggiorno. Il cestello da 7 litri basta per quattro o cinque porzioni, ci sono dieci modalita preimpostate e le parti a contatto col cibo si lavano in lavastoviglie.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/moulinex-easy-fry-silence-7l-ez8421/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71VUiWUVDPL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61mC4RXWNnL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71ppi759F0L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81V2ZeiQg4L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>79.99 EUR</g:price>
-      <g:brand>Moulinex</g:brand>
-      <g:mpn>B0FQP7SYTZ</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0F4KHWH9M</g:id>
       <g:title>Ninja Dual Zone MAX 9,5L</g:title>
       <g:description>La Dual Zone MAX divide i 9,5 litri in due cestelli separati, cosi puoi impostare temperature e tempi diversi e far finire le due cotture insieme. Sei funzioni di cottura, arriva a 240 gradi e i cestelli vanno in lavastoviglie. Marchio con buon seguito tra chi usa spesso la friggitrice.</g:description>
@@ -25070,6 +25122,485 @@
       <g:mpn>B0DCCBXQXJ</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DZXDCXNL</g:id>
+      <g:title>KNKA Deumidificatore 9L/giorno Portatile</g:title>
+      <g:description>Deumidificatore a compressore pensato per una stanza fino a 25 m². Rimuove 9 litri al giorno nelle condizioni di prova e in modalità notte scende a 33-39 dB con luci spente, così può restare acceso mentre dormi. Il serbatoio è da 1,7 L ma c&apos;è anche il tubo da 65 cm per lo scarico continuo.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/knka-9l-portatile-bianco/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51Gzl4w7jBL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71OGRuIJ8sL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71XkYYkUqEL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71U0D2qEIlL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>93.85 EUR</g:price>
+      <g:brand>KNKA</g:brand>
+      <g:mpn>B0DZXDCXNL</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0D9VL12X2</g:id>
+      <g:title>HAUSHOF Deumidificatore 12L/24h 38dB</g:title>
+      <g:description>Compressore da 12 L/giorno con rumorosità dichiarata di 38 dB, una delle più basse in questa fascia di prezzo. Ha tre modalità (automatica con umidostato, continua e bucato), igrostato regolabile tra 30 e 80 percento e tubo di scarico incluso. Pensato per una stanza di 20 m² circa, va stretto oltre.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/haushof-12l-38db-bianco/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/614Y+m7JD-L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81PqmXZ55HL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81eJSRBpLLL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81rveu3ikYL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.99 EUR</g:price>
+      <g:brand>HAUSHOF</g:brand>
+      <g:mpn>B0D9VL12X2</g:mpn>
+      <g:gtin>0820909611189</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0HCP4HGB2</g:id>
+      <g:title>PIAZCEW Deumidificatore 12L/24h Touch</g:title>
+      <g:description>PIAZCEW spinge un compressore da 12 L/giorno con pannello touch, umidostato 30-80 percento e tre modalità di funzionamento. Il serbatoio è da 1,9 L, c&apos;è lo scarico continuo con tubo, un filtro lavabile e le ruote. Dichiarato per 40 m² ma più realistico sui 25-30 m² reali di una camera.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/piazcew-12l-touch-silenzioso/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61w0Uv1XsuL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71U1S4MaxaL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/711F59o1OVL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71u53rpJHqL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>105.99 EUR</g:price>
+      <g:brand>PIAZCEW</g:brand>
+      <g:mpn>B0HCP4HGB2</g:mpn>
+      <g:gtin>0756631058407</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B098R4D4LB</g:id>
+      <g:title>SHANNA Deumidificatore 15L/24H Compressore</g:title>
+      <g:description>SHANNA propone un compressore da 15 L/giorno con serbatoio da 2 L e tubo per lo scarico continuo. Ha quattro ruote girevoli, umidostato regolabile, modalità standby a 35 dB e protezione antigelo con sbrinamento automatico. Spinge più della fascia 10-12 L e resta sotto i 150 euro.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/shanna-15l-compressore/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51oH+nMJ4uL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71I3wIz+blL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81zuAO21olL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71Wyb70B9aL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.99 EUR</g:price>
+      <g:brand>SHANNA</g:brand>
+      <g:mpn>B098R4D4LB</g:mpn>
+      <g:gtin>0795629117337</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GQVBH6XM</g:id>
+      <g:title>Dreame DD20 Deumidificatore 20L</g:title>
+      <g:description>Modello di punta Dreame da 20 L/giorno per ambienti fino a 40 m². Ha sensore di temperatura e umidità con regolazione automatica, modalità Laundry per asciugare i panni, scarico continuo con tubo da 1,5 m oltre al serbatoio da 2,5 L e isolamento acustico a 5 strati che scende a 35,7 dB. Il brand Dreame è il consumer di Xiaomi.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/dreame-dd20-20l-plasma/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61rgATfr6ZL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71enfI6sw3L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61aJbf6sdhL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51CXhrAs6aL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>189.00 EUR</g:price>
+      <g:brand>Dreame</g:brand>
+      <g:mpn>B0GQVBH6XM</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F7LNWKC3</g:id>
+      <g:title>Kalopsia Deumidificatore 80L/Giorno con Pompa</g:title>
+      <g:description>Deumidificatore pensato per ambienti grandi fino a 170 m²: capacità di 80 L/giorno, portata d&apos;aria di 400 m³/h e pompa integrata che spinge il condensato in altezza fino a 5 metri, utile per sollevarlo in un lavandino o scaricarlo fuori da una cantina. Serbatoio da 8 L, umidostato 30-80 percento e quattro ruote.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/kalopsia-80l-pompa-pro/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51StzprNTnL._AC_SL1254_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71HBhJ99SkL._AC_SL1254_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/719fEmIGe+L._AC_SL1254_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/710vpa20uFL._AC_SL1254_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>281.78 EUR</g:price>
+      <g:brand>Kalopsia</g:brand>
+      <g:mpn>B0F7LNWKC3</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F59THVRH</g:id>
+      <g:title>katenpo Deumidificatore Professionale 90L con Pompa</g:title>
+      <g:description>Modello sopra le righe di katenpo: 90 L/giorno a 35 gradi e 90 percento di umidità, portata di 550 m³/h e copertura dichiarata fino a 240 m². Oltre al serbatoio da 8 L ha pompa integrata che solleva fino a 5 m e scarico per gravità, utile in cantiere o in taverna. Pesa 17,4 kg, sta sulle ruote.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/katenpo-90l-pompa-240mq/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/41h1OdpppPL._AC_SL1254_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71EnjY7yGFL._AC_SL1254_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71pAn6UdOIL._AC_SL1254_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71rxutqx47L._AC_SL1254_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>319.00 EUR</g:price>
+      <g:brand>katenpo</g:brand>
+      <g:mpn>B0F59THVRH</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DPJN6JKZ</g:id>
+      <g:title>QEXREED Deumidificatore 1800ml Semiconduttore Doppio</g:title>
+      <g:description>Deumidificatore a condensazione Peltier con doppio modulo semiconduttore, pensato per stanze piccole fino a 20 m². Serbatoio da 1,8 L con spegnimento automatico, modalità notte silenziosa, timer 12-48 ore. Non ha compressore: lavora bene solo con temperature sopra i 15-20 gradi, perfetto per bagno o camera da letto.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/qexreed-1800ml-semiconduttore/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61I8aE9tYHL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/813Z4Rpts2L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ZoHl1iXgL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81rG16hbAkL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>59.99 EUR</g:price>
+      <g:brand>QEXREED</g:brand>
+      <g:mpn>B0DPJN6JKZ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0HHJCZZRS</g:id>
+      <g:title>Velmist Deumidificatore 2000ML LED 7 Colori</g:title>
+      <g:description>Velmist propone un Peltier con serbatoio da 2 litri per ambienti piccoli, dichiarando una rumorosità di 32 dB e 40 watt di consumo. Ha modalità notte, timer 4-48 ore, luce LED ambientale a 7 colori e sbrinamento automatico. Pensato come apparecchio sempre acceso in camera o in un piccolo studio.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/velmist-2000ml-7colori-32db/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71O5spiPc1L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71uh8FSrH6L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81SA7fjWMXL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/813+Z85u5nL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>59.49 EUR</g:price>
+      <g:brand>Velmist</g:brand>
+      <g:mpn>B0HHJCZZRS</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H6JH1B5F</g:id>
+      <g:title>Philips PureProtect Go 500</g:title>
+      <g:description>Il PureProtect Go 500 e&apos; il nuovo piccolo Philips da camera da letto o studio: HEPA NanoProtect H13 che trattiene polvere, polline e peli di animali fino a 0,003 micron, rumore dichiarato di 12 dB alla minima e filtro con durata fino a 3 anni. Solo 5 W di consumo, meno di un lumino. Niente app, niente sensore: lo accendi, scegli la velocita&apos; e basta.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/philips-pureprotect-go-500/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51kVo2yms+L._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/518ZrdikBDL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61mRDpYs4KL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/615LAx3nvlL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>58.70 EUR</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>B0H6JH1B5F</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H6JF1PC8</g:id>
+      <g:title>Philips PureProtect Lite 700</g:title>
+      <g:description>Il PureProtect Lite 700 e&apos; il Philips di taglia media con tutta la tecnica di famiglia: HEPA NanoProtect H13 a 3 strati, CADR 180 m3/h e copertura fino a 75 m2, piu&apos; sensore qualita&apos; aria con modalita&apos; automatica. Si comanda da app Philips Air+ o dal corpo. Rumore dichiarato di 11 dB alla minima, consumo 14 W. Filtro ad alta durata, pannello pulito.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/philips-pureprotect-lite-700/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71NJ+X1LVEL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51IdS1aAIfL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/618Xzz5IXtL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61HncbxbIkL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>109.99 EUR</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>B0H6JF1PC8</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0FJZRX2VP</g:id>
+      <g:title>Coway Airmega 450</g:title>
+      <g:description>L&apos;Airmega 450 e&apos; il modello top di Coway: CADR dichiarato 734 m3/h, sistema HyperCaptive con prefiltro, carbone attivo e HEPA, e sensore laser che legge PM1, PM2,5 e PM10. Copre 153 m2 con due ricambi d&apos;aria l&apos;ora, scende a 22 dB in modalita&apos; sleep. Niente Wi-Fi: Coway punta su affidabilita&apos; e sensore, tutto gestito dal pannello.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/coway-airmega-450/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51XV2p+3LGL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81WG8+z8n1L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71sG2Ten+JL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71SRyDOwJsL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>499.99 EUR</g:price>
+      <g:brand>Coway</g:brand>
+      <g:mpn>B0FJZRX2VP</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H3Z18WFV</g:id>
+      <g:title>Evalit ET066</g:title>
+      <g:description>L&apos;EVALIT ET066 e&apos; un purificatore di taglia grande a prezzo basso: CADR dichiarato 420 m3/h e copertura fino a 200 m2, con filtrazione a tre stadi (prefiltro lavabile, HEPA H13, carbone attivo). Sensore PM2.5 integrato con lettura sul display e modalita&apos; automatica. Scende a 24 dB in sleep e ha modalita&apos; dedicata agli animali per peli e odori.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/evalit-et066-grande/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/81krIkuDZAL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81cWf48AVxL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81vugJArKiL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81CWvmaRxAL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>85.49 EUR</g:price>
+      <g:brand>Evalit</g:brand>
+      <g:mpn>B0H3Z18WFV</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H6JV488H</g:id>
+      <g:title>KNKA APH2500P PetAir</g:title>
+      <g:description>KNKA APH2500P PetAir e&apos; il purificatore pensato chi vive con cani o gatti: aspirazione a 360 gradi a filo pavimento che cattura peli, pelucchi di lettiera e polvere pesante prima che si alzino. Filtro cilindrico HEPA H13 con prefiltro rimovibile, CADR 250 m3/h su 52 m2, modalita&apos; notte a 24 dB. L&apos;oblo&apos; trasparente mostra cosa ha raccolto il filtro.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/knka-aph2500p-petair/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/612mjWHkjLL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71DBZj4ArwL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71hxkN25vVL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71vM4MKLt9L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>125.99 EUR</g:price>
+      <g:brand>KNKA</g:brand>
+      <g:mpn>B0H6JV488H</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0HJVYC25Y</g:id>
+      <g:title>Airtok AP3001</g:title>
+      <g:description>AIRTOK AP3001 e&apos; un purificatore di taglia media-grande sotto i 70 euro: CADR 280 m3/h dichiarato, copertura fino a 170 m2, sistema a tre stadi con prefiltro lavabile, HEPA H13 e carbone attivo. Il sensore PM2.5 regola la velocita&apos; in automatico e mostra il valore sul display. Modalita&apos; sonno a 20 dB con luci attenuate, timer, aromaterapia.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/airtok-ap3001-170m2/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71RUq3McNiL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71KvGDP5OFL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71L458aNg+L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71nThYwcTKL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>63.17 EUR</g:price>
+      <g:brand>Airtok</g:brand>
+      <g:mpn>B0HJVYC25Y</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0HN721SYL</g:id>
+      <g:title>Aircillin AP070A</g:title>
+      <g:description>Aircillin AP070A e&apos; il purificatore da camera o studio a prezzo stretto: filtrazione 4 in 1 con prefiltro, nylon, HEPA H13 e carbone attivo, aspirazione a 360 gradi. In modalita&apos; notte scende a 23 dB con pulsante dedicato che attenua i LED. Consuma 6 W, un costo trascurabile se lo tieni sempre acceso. Promemoria filtro sul pannello.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/aircillin-ap070a/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61XcGdF9bAL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71OWwoWpIZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71W4QkOsW7L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71efeixBBWL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>41.99 EUR</g:price>
+      <g:brand>Aircillin</g:brand>
+      <g:mpn>B0HN721SYL</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0C5D5WF2Z</g:id>
+      <g:title>Clean Air Optima CA-503 Compact Smart</g:title>
+      <g:description>Il CA-503 Compact Smart di Clean Air Optima e&apos; un purificatore compatto con corredo tecnico completo: prefiltro, carbone attivo, True HEPA H13 e lampada UV-C, piu&apos; doppio ionizzatore. Monitor digitale qualita&apos; aria, modalita&apos; automatica e app smart. In modalita&apos; sleep scende sotto i 10 dB, buona scelta per camera da letto. Copertura dichiarata 30 m2.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/clean-air-optima-ca503-nero/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61IQW9E+bhL._AC_SL1300_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61s2OMnJvqL._AC_SL1300_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61HHfNN2ITL._AC_SL1300_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61YxTRcGlCL._AC_SL1300_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.00 EUR</g:price>
+      <g:brand>Clean Air Optima</g:brand>
+      <g:mpn>B0C5D5WF2Z</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H8Z86BY4</g:id>
+      <g:title>KNKA APH1000</g:title>
+      <g:description>KNKA APH1000 e&apos; il purificatore compatto per camera o scrivania: HEPA H13 con cattura dichiarata al 99,97% a 0,3 micron, CADR 100 m3/h e copertura fino a 30 m2 secondo la casa. Quattro velocita&apos;, timer 2, 4 o 8 ore, luce ambiente blu-viola o calda scegliibile. Pesa solo 1,2 kg e consuma 12 W alla massima.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/knka-aph1000-compatto/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/714V9pswG4L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71BGvo6dHeL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71mjjA0Zj8L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71XBqPg8gCL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>47.49 EUR</g:price>
+      <g:brand>KNKA</g:brand>
+      <g:mpn>B0H8Z86BY4</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CDCM3J5G</g:id>
+      <g:title>De&apos;Longhi Rivelia Perfetto EXAM440.55.W Bianca</g:title>
+      <g:description>Variante Arctic White della Rivelia, la superautomatica a chicchi più compatta di De&apos;Longhi (24,5 cm di larghezza). Due portachicchi intercambiabili da 250 g ciascuno permettono di tenere pronte due miscele diverse (ad esempio normale e decaffeinato) e passare da una all&apos;altra in pochi secondi. Display touch a colori da 3,5&quot;, 16 ricette preimpostate, 13 livelli di macinatura e tecnologia Bean Adapt che adatta le impostazioni al tipo di chicco. Caraffa latte LatteCrema con schiuma calda automatica, lavabile in lavastoviglie. La funzione Coffee Routines impara le abitudini e riordina il menu in base agli orari. Serbatoio acqua 1,4 L, potenza 1450 W.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/delonghi-rivelia-perfetto-exam440-55w-bianca/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61JIJD51v+L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/6149i1U6gZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61wIjbPxa9L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/710Gylyp62L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>699.90 EUR</g:price>
+      <g:brand>De&apos;Longhi</g:brand>
+      <g:mpn>B0CDCM3J5G</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CC4NVW32</g:id>
+      <g:title>Casabrews CM5418 20 bar lancia vapore</g:title>
+      <g:description>Macchina espresso manuale cinese molto diffusa su Amazon.it: carrozzeria in acciaio inossidabile, pompa 20 bar, caldaia 1350 W e manometro frontale a vista. Larga 15 cm, una delle più strette della categoria, pensata per cucine piccole. Lancia vapore tradizionale per montare il latte a mano. Compatibile con macinato e cialde ESE. Nessun macinacaffè integrato, nessun display: 4 pulsanti e un selettore. 4,2 stelle su 959 recensioni la rendono una delle alternative più scelte alla Dedica EC685 quando si cerca una manuale sotto i 200 € con manometro.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/casabrews-cm5418/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71oVQjWDmxL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61EYwccgaCL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/711VrGq4ckL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61KOm8EYknL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>159.99 EUR</g:price>
+      <g:brand>Casabrews</g:brand>
+      <g:mpn>B0CC4NVW32</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0FT978WSL</g:id>
+      <g:title>Cecotec Cremmaet Cube Red superautomatica</g:title>
+      <g:description>Variante rossa della Cecotec Cremmaet Cube: superautomatica a chicchi in formato ridotto (29,5 di profondità, 22 di altezza) che sta sotto quasi tutti i pensili. Pompa 19 bar, caldaia Thermoblock individuale, pre-infusione e sistema di pressatura meccanica dei 10 g di caffè. Macinacaffè integrato con 5 livelli di regolazione, serbatoio acqua da 1,1 L e contenitore chicchi da 110 g. Due pulsanti per scegliere espresso o lungo, nessun display. Non monta il latte: se serve il cappuccino, va aggiunto un montalatte separato. È la superautomatica più economica che Amazon.it piazza da mesi fra i primi cinque bestseller della categoria.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/cecotec-cremmaet-cube-red/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/616md7Xi5AL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51vJKSblrQL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/5164impO-aL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51DhyyLo9mL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>168.90 EUR</g:price>
+      <g:brand>Cecotec</g:brand>
+      <g:mpn>B0FT978WSL</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0C1Z7QTV6</g:id>
+      <g:title>Gaggia Classic Evo Inox</g:title>
+      <g:description>Finitura acciaio inossidabile della Gaggia Classic Evo, la stessa macchina del modello nero ma con carrozzeria metallica spazzolata. Portafiltro professionale da 58 mm, elettrovalvola a 3 vie, bacchetta vapore commerciale per micro-schiuma e caldaia in alluminio da 100 ml. Serbatoio da 2,1 L estraibile. Made in Italy, progettata per durare dieci anni e oltre, con la scheda PID opzionale che la trasforma in semi-pro. È la Classic per chi vuole l&apos;estetica metallica senza compromessi plasticosi, allo stesso prezzo delle versioni colorate. Serve un macinacaffè separato: senza non si fa niente di buono.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/gaggia-classic-evo-inox/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61mO72QTUJL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ArSdjsErL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71skU+RQR3L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71EOGWOIpfL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>529.00 EUR</g:price>
+      <g:brand>Gaggia</g:brand>
+      <g:mpn>B0C1Z7QTV6</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H58P437Y</g:id>
+      <g:title>Capxsnob Warriors1 5 in 1 multicapsule</g:title>
+      <g:description>Macchina a capsule multi-sistema con cinque adattatori inclusi: Nespresso Original, Dolce Gusto, Lavazza A Modo Mio, Lavazza Espresso Point e portafiltro per macinato. Chiusura motorizzata senza leva (si inserisce la capsula e la macchina la aggancia da sola), pompa 19 bar, potenza 1400 W, temperatura di estrazione regolabile su 87/92/96 °C e tempo di erogazione programmabile da 10 a 180 secondi. Serbatoio 0,82 L estraibile, larga 13,7 cm e alta 27,5 cm. Il marchio dietro è Capxsnob, azienda cinese con rivenditore italiano per la garanzia. Soluzione per chi non vuole scegliere un ecosistema e tiene in casa capsule di diversi marchi.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/capxsnob-warriors1-5in1/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71rIVg+mGKL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71-IhP8W9-L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71AaXMKSzuL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/712vRU6+hHL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.99 EUR</g:price>
+      <g:brand>Capxsnob</g:brand>
+      <g:mpn>B0H58P437Y</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GN92SPHP</g:id>
+      <g:title>OutIn Nano 2 portatile Forest Green</g:title>
+      <g:description>Seconda generazione della OutIn Nano, la macchina espresso elettrica portatile più venduta su Amazon.it. Batteria agli ioni di litio 5000 mAh (54 Wh) ricaricabile via USB-C, fino a 9 caffè per carica. Pressione fino a 21 bar, riscaldamento dell&apos;acqua a 93 °C in circa 160 secondi grazie alla termoresistenza integrata. Compatibile sia con capsule Nespresso Original sia con 8 g di macinato grazie al basket incluso. Serbatoio da 85 ml in acciaio SUS316L, un espresso alla volta. Pesa 740 g, 7 cm di diametro, 23,6 cm di altezza: sta in uno zaino da trekking, sul ponte di una barca o in valigia. Colore Forest Green.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/outin-nano-2-forest-green/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61wc3W2wIjL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71dOia+1nBL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81S--6O1JUL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71LaJxb4O9L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>179.99 EUR</g:price>
+      <g:brand>OutIn</g:brand>
+      <g:mpn>B0GN92SPHP</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CL9XWV6M</g:id>
+      <g:title>De&apos;Longhi La Specialista Arte Evo EC9255.T</g:title>
+      <g:description>Evoluzione della La Specialista Arte EC9155: una macchina espresso manuale con portafiltro, pensata per chi vuole lavorare da barista ma con il macinacaffè già integrato. Macine coniche in acciaio con 8 regolazioni, caldaia dedicata al vapore, controllo attivo della temperatura con tre profili (90, 94, 96 °C) e funzione Cold Brew per un caffè freddo estratto in modo lento in meno di cinque minuti. Lancia vapore My Latte Art per micro-schiuma manuale. In dotazione il kit da barista completo: tamper, livellatore e pichet. Variante Titanio, 1450 W, serbatoio 2 L. Larga 44 cm: va prevista nel piano cucina.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/delonghi-la-specialista-arte-evo-ec9255t/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61E21xA4ldL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71VHWJjjbNL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61QrD9m9TBL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71sL+fH1vnL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>449.90 EUR</g:price>
+      <g:brand>De&apos;Longhi</g:brand>
+      <g:mpn>B0CL9XWV6M</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0HL7TYH6W</g:id>
+      <g:title>Airmsen 20 Bar con macinacaffè e touch</g:title>
+      <g:description>Alternativa economica alla De&apos;Longhi La Specialista Arte Evo: macchina espresso manuale con macinacaffè integrato (macine coniche regolabili su 10 livelli), pompa 20 bar, pre-infusione e display touch LED. Serbatoio 1,8 L, cassa in acciaio inox su tutti e quattro i lati, 1350 W. Dosaggio programmabile, modalità Cold Brew, pulizia automatica del circuito montalatte. Il marchio Airmsen è cinese e vende quasi solo su Amazon: pochi dati sul lungo periodo, ma 4,4 stelle sulle prime 72 recensioni sono un buon segnale. Scelta sensata per chi vuole il pacchetto macinino più touch senza salire a 400 €.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/airmsen-20-bar-espresso-macinacaffe/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71RRfyuG8NL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71nQdYfCiaL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71FgQ+PqTYL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71+aZFT9XWL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>208.99 EUR</g:price>
+      <g:brand>Airmsen</g:brand>
+      <g:mpn>B0HL7TYH6W</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H94ZSVN8</g:id>
+      <g:title>Philips 6000 Series LatteGo Pro</g:title>
+      <g:description>Erede della popolare 5400 LatteGo, la nuova 6000 Series Philips introduce il sistema LatteGo Pro: caraffa latte in due pezzi senza tubicini, lavabile in lavastoviglie, che si pulisce in dieci secondi. 22 bevande preimpostate calde e fredde, tecnologia Brew Extract che dosa e pressa fino al 40% di chicchi in più per un&apos;estrazione più intensa, tecnologia SilentBrew per una macinatura e un&apos;estrazione fra le più silenziose della categoria. Macinacaffè in ceramica integrato, gruppo infusore rimovibile per pulizia completa. Dimensioni importanti: 45,2 di profondità, 38,9 di larghezza, 11,5 kg di peso, 1500 W. Modello top intermedio fra la 5400 e la top di gamma 8000.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/philips-6000-lattego-pro-ep6646/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51XWIZFon6L._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61A6J-wBE9L._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61pcDfp6HtL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61r0fppfPNL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>707.95 EUR</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>B0H94ZSVN8</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GHZDTYQ4</g:id>
+      <g:title>De&apos;Longhi Eletta Ultra Perfetto ECAM472.85.MB</g:title>
+      <g:description>Top di gamma De&apos;Longhi dopo la Primadonna: Eletta Ultra Perfetto aggiunge alla Eletta Explore un nuovo display touch a colori da 4,3 pollici, oltre 50 bevande calde e fredde organizzate in sette collezioni, caraffa LatteCrema Hot &amp; Cool che monta schiuma sia calda sia fredda e funziona anche con bevande vegetali, e la nuova Silent Technology che riduce sensibilmente il rumore di macinatura ed estrazione. Serbatoio acqua 1,8 L, macinacaffè in acciaio, 4 profili utente, frontale in metallo spazzolato. Potenza 1450 W, larga 38 cm, alta 45,5 cm. Per chi vuole la macchina De&apos;Longhi più completa senza salire al segmento Primadonna.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/delonghi-eletta-ultra-perfetto-ecam472-85mb/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61EvyZJLh3L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/717biE5SV3L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/717VmhJcLYL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71lFk9NtkuL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1199.00 EUR</g:price>
+      <g:brand>De&apos;Longhi</g:brand>
+      <g:mpn>B0GHZDTYQ4</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
   </channel>
