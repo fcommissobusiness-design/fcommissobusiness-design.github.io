@@ -36,5 +36,22 @@ window.RATINGS = {
   'imou-aov-track-plus': { rating: 4.2, reviews: 60, bsr: null, bsrCat: null, fetched: '2026-10-19' },
   'imou-cell-3c': { rating: 3.7, reviews: 5, bsr: null, bsrCat: null, fetched: '2026-10-19' },
   'imou-cruiser-se-kit': { rating: 4.5, reviews: 205, bsr: null, bsrCat: null, fetched: '2026-10-19' },
-  'imou-pet-pf1': { rating: 4.0, reviews: 5, bsr: null, bsrCat: null, fetched: '2026-10-19' }
+  'imou-pet-pf1': { rating: 4.0, reviews: 5, bsr: null, bsrCat: null, fetched: '2026-10-19' },
+  /* --- B2B ufficio-piccola-attivita: stelle/recensioni reali lette da amazon.it l'8 nov 2026
+     (le righe rating/reviews nel blocco ASINS di catalog_meta.js erano inerte: applyCatalogMeta
+     legge le stelle SOLO da qui, window.RATINGS). Valori dell'ASIN effettivamente linkato. --- */
+  'brother-mfc-l2800dw': { rating: 4.5, reviews: 1102, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'canon-maxify-gx4050': { rating: 4.2, reviews: 305, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'apc-smart-ups-smt1500ic': { rating: 3.9, reviews: 51, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'synology-ds224plus': { rating: 4.6, reviews: 896, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'qnap-ts-464': { rating: 4.5, reviews: 240, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'brother-ads-1800w': { rating: 4.0, reviews: 190, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'fellowes-powershred-99ci': { rating: 4.4, reviews: 154, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'tplink-er605': { rating: 4.4, reviews: 7580, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'logitech-brio-500': { rating: 4.3, reviews: 1657, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'hp-officejet-pro-9120e': { rating: 4.0, reviews: 81, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'apc-back-ups-pro-br900gi': { rating: 4.0, reviews: 572, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'epson-workforce-ds-c330': { rating: 4.1, reviews: 283, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'bonsaii-c237-c': { rating: 4.7, reviews: 3288, bsr: null, bsrCat: null, fetched: '2026-11-08' },
+  'ubiquiti-dream-router': { rating: 4.7, reviews: 173, bsr: null, bsrCat: null, fetched: '2026-11-08' }
 };

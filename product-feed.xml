@@ -3,7 +3,7 @@
   <channel>
     <title>PickForMe · You need it. We pick it.</title>
     <link>https://www.pickforme.it/</link>
-    <description>Feed prodotti selezionati del catalogo PickForMe (1498 prodotti · aggiornato 2026-11-07).</description>
+    <description>Feed prodotti selezionati del catalogo PickForMe (1494 prodotti · aggiornato 2026-11-08).</description>
     <item>
       <g:id>B0DCVYS9FQ</g:id>
       <g:title>Dreame L10s Ultra</g:title>
@@ -6315,23 +6315,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0D3VDV73J</g:id>
-      <g:title>Philips Purificatore 900 (AC0951/13)</g:title>
-      <g:description>Il Purificatore 900 di Philips usa un filtro HEPA NanoProtect a tre strati con carboni attivi, ha un CADR (la quantità di aria pulita prodotta in un&apos;ora) di 250 m³/h e copre fino a 65 m². Con l&apos;app Air+ controlli il purificatore da remoto e ricevi un avviso quando l&apos;aria peggiora. La modalità notte scende a 20,5 dB. La classe del filtro HEPA non è indicata e il prezzo è alto rispetto al CADR.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/philips-purificatore-900-ac0951/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51tSYNZPAkL._AC_SL1080_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61j+5TJ64vL._AC_SL1080_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61nlvwbiyaL._AC_SL1080_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61iAOHtBepL._AC_SL1080_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>205.65 EUR</g:price>
-      <g:brand>Philips</g:brand>
-      <g:mpn>B0D3VDV73J</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Purificatori d'aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0DG5QLWP6</g:id>
       <g:title>SwitchBot Purificatore d&apos;aria (W5302300)</g:title>
       <g:description>Il purificatore SwitchBot è una colonna che aspira l&apos;aria a 360° e ha un CADR (l&apos;aria pulita prodotta in un&apos;ora) di 400 m³/h, con una copertura di 83 m² indicata nel titolo. Pensando alle case con animali, ha un cavo anti-morso e un filtro a carbone attivo per gli odori. Lo comandi da app e con gli assistenti vocali, e ha la modalità automatica. La classe HEPA non è dichiarata e la valutazione è 4,2.</g:description>
@@ -9585,23 +9568,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0FQSS4P5D</g:id>
-      <g:title>BenQ GW2490CE</g:title>
-      <g:description>Il BenQ GW2490CE è un monitor da 23,8 pollici Full HD con pannello IPS, 144 Hz, copertura sRGB al 99% e varie tecnologie per il comfort visivo. È pensato per chi passa molte ore davanti allo schermo, a casa o in ufficio. Ha una porta USB-C, ma la pagina non dice se porta il video né quanti watt eroga.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/benq-gw2490ce/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71YuVnO3WpL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/7165mLEhLtL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71JAMznGmhL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71GqHK8gYgL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>89.99 EUR</g:price>
-      <g:brand>BenQ</g:brand>
-      <g:mpn>B0FQSS4P5D</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Monitor da scrivania</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0BBRKND8T</g:id>
       <g:title>KOORUI 27 Curvo QHD 180Hz</g:title>
       <g:description>Il KOORUI è un 27 pollici curvo QHD con pannello VA, 180 Hz e 1 ms dichiarati. Va bene per giocare e per chi vuole un 1440p fluido e avvolgente senza spendere tanto. Il pannello VA rende bene sul contrasto ma perde qualità se lo guardi di lato, e il supporto non si regola in altezza.</g:description>
@@ -10647,6 +10613,23 @@
       <g:price>91.99 EUR</g:price>
       <g:brand>Homall</g:brand>
       <g:mpn>B0CCJ5W9BN</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Scrivanie regolabili</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DDS9497V</g:id>
+      <g:title>OffiGo 120 con 3 cassetti</g:title>
+      <g:description>La OffiGo 120x54 cm mette tutto in una sola scrivania elettrica: 3 cassetti in tessuto, alzata per il monitor, 2 prese, 2 USB e 3 memorie, con altezza 78-120 cm. Non devi comprare una cassettiera a parte. Parte da 78 cm, quindi è alta per chi è basso, e regge solo 60 kg.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/offigo-120-tre-cassetti/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61JsSASA0kL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81skMQjp9yL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71knMrOyxLL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71F0eF6dsRL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>199.99 EUR</g:price>
+      <g:brand>OffiGo</g:brand>
+      <g:mpn>B0DDS9497V</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Scrivanie regolabili</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -11809,23 +11792,6 @@
       <g:price>109.99 EUR</g:price>
       <g:brand>Moulinex</g:brand>
       <g:mpn>B0FRPGSQVX</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0F9X8ZPJX</g:id>
-      <g:title>Cosori Turbo Tower 10,8 L CAF-DC111</g:title>
-      <g:description>Questa friggitrice ha due cestelli uno sopra l&apos;altro, da 4,3 e 6,5 litri, per una potenza complessiva di 2630 W e sei funzioni con temperature da 30 a 230 gradi. È pensata per le famiglie che vogliono cuocere due piatti contemporaneamente occupando poco spazio in larghezza. In altezza, però, supera i 40 cm e il peso è di oltre 9 kg.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/cosori-turbo-tower-10-8l-caf-dc111/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61-pWb70W0L._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81HVklU0c3L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71E23xdJaJL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81TpcXqWH9L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>159.99 EUR</g:price>
-      <g:brand>Cosori</g:brand>
-      <g:mpn>B0F9X8ZPJX</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Friggitrici ad aria</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -13043,23 +13009,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0DGHWD7CT</g:id>
-      <g:title>Apple AirPods 4</g:title>
-      <g:description>Sono la versione standard degli AirPods di quarta generazione, senza cancellazione del rumore nel titolo. Il formato aperto, senza gommini, è comodo anche per molte ore ma non isola, e la tenuta nell&apos;orecchio dipende dalla forma del padiglione di ciascuno. Rendono al meglio con un iPhone, grazie all&apos;abbinamento immediato, a Siri e all&apos;audio spaziale.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/apple-airpods-4/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61DvMw16ITL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51MlTIMDdsL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71DwxJ2ptyL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61ufCS1HQLL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>119.00 EUR</g:price>
-      <g:brand>Apple</g:brand>
-      <g:mpn>B0DGHWD7CT</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0D1VH7WMX</g:id>
       <g:title>Marshall Minor IV</g:title>
       <g:description>I Minor IV sono auricolari a stelo, senza gommini, con lo stile Marshall e un&apos;app per regolare l&apos;equalizzatore. Dichiarano oltre 30 ore complessive e la connessione multipoint. Non c&apos;è la cancellazione del rumore, nella scheda manca un grado chiaro di resistenza all&apos;acqua e la tenuta nell&apos;orecchio non va bene per tutti.</g:description>
@@ -14012,23 +13961,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0D73WC6FW</g:id>
-      <g:title>Xiaomi Robot Vacuum S20</g:title>
-      <g:description>Con il sensore laser a 360° e 5.000 Pa dichiarati, Xiaomi Robot Vacuum S20 porta una navigazione da robot più costoso sotto la soglia dei 200 €. Aspira e passa anche il panno umido, ma non ha alcuna stazione: la polvere la svuoti tu a mano. La scheda Amazon è molto scarna, quindi conviene controllare le specifiche complete sul sito Xiaomi prima di comprare. Per chi si avvicina per la prima volta ai robot e vuole un marchio conosciuto, è un modo sensato per iniziare.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/xiaomi-robot-vacuum-s20/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61sivVKAXEL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61KXnQL7xVL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/719BHyk4D2L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71O+MLkdVbL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>196.13 EUR</g:price>
-      <g:brand>Xiaomi</g:brand>
-      <g:mpn>B0D73WC6FW</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Robot aspirapolvere</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0BW6RPBCX</g:id>
       <g:title>Devoko 160x60 con piano assemblato</g:title>
       <g:description>Questa Devoko ha un piano da 160 x 60 cm, colonne in acciaio da 60 mm e piedi a T. Offre l&apos;anticollisione, due altezze memorizzabili, ganci per le cuffie e un foro passacavi, con una rumorosità dichiarata sotto i 45 dB. Il vero punto di forza è la profondità di soli 60 cm: ruba poco spazio verso la stanza, ma con monitor oltre i 27 pollici lo schermo resta piuttosto vicino agli occhi. Attenzione anche all&apos;escursione in altezza, che nella descrizione e nelle specifiche è indicata in modo diverso.</g:description>
@@ -14808,6 +14740,23 @@
       <g:mpn>B0BWFSJXQC</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Obiettivi fotografici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B09KB7T1VL</g:id>
+      <g:title>Xiaomi Smart Air Purifier 4 Pro</g:title>
+      <g:description>Questo purificatore Xiaomi di taglia grande dichiara un CADR di 500 m³/h (la quantità di aria pulita che produce in un&apos;ora), ha una modalità notte a 33,7 dB e si controlla con l&apos;app Mi Home / Xiaomi Home. Sulla scheda Amazon non sono indicati con chiarezza né la classe del filtro HEPA né i metri quadri coperti: se soffri di allergie, chiedi la scheda tecnica al venditore. Pesa 6,8 kg e va bene in un soggiorno, ma non è pensato per essere spostato spesso.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/xiaomi-smart-air-purifier-4-pro/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61dOGleKk8L._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61c4WduJWxL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61ji9T5RW6L._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61-XPOxvbGL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>256.06 EUR</g:price>
+      <g:brand>Xiaomi</g:brand>
+      <g:mpn>B09KB7T1VL</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
@@ -15986,6 +15935,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0D49V35GV</g:id>
+      <g:title>Sigma 24-70mm f/2.8 DG DN II Art</g:title>
+      <g:description>Il Sigma 24-70 f/2.8 DG DN II Art è la seconda versione dello zoom standard professionale di Sigma per Sony E. Rispetto alla prima ha un&apos;ottica più nitida e un autofocus HLA veloce, e pesa 745 grammi contro gli 886 del Sony GM II. Costa circa 1.350 euro, quasi la metà del concorrente Sony, e mantiene la stessa luminosità f/2.8 su tutte le focali. Va usato con una fotocamera stabilizzata, perché l&apos;obiettivo non lo è.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/sigma-24-70-f28-dg-dn-ii-sony-e/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51D7Dcp1AoL._AC_SL1080_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71BH+7t96QL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61+x4OHNTGL._AC_SL1200_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41pTcPGSIuL._AC_SL1200_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1349.00 EUR</g:price>
+      <g:brand>Sigma</g:brand>
+      <g:mpn>B0D49V35GV</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Obiettivi fotografici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B0H4HKNBZ5</g:id>
       <g:title>Levoit Vital Pet Pro</g:title>
       <g:description>Il Levoit Vital Pet Pro è un purificatore pensato per chi vive con animali. Il prefiltro ha un raschietto motorizzato che stacca peli e polvere dalla rete e li raccoglie in un vassoio estraibile, così il flusso d&apos;aria non cala col tempo. Due sensori misurano le polveri sottili PM2.5 e i composti organici volatili e guidano la modalità automatica. Lo gestisci dall&apos;app VeSync, con storico e timer. Dichiara 21 dB in modalità sonno e una copertura fino a 53 m².</g:description>
@@ -16584,23 +16550,6 @@
       <g:mpn>B0BX9JCFPY</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Macchine da caffè</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0CHMMVHQL</g:id>
-      <g:title>JBL Live 770NC</g:title>
-      <g:description>Le JBL Live 770NC sono cuffie over-ear con cancellazione attiva del rumore adattiva, modalità Smart Ambient per far passare le voci quando serve, Bluetooth multipoint (due dispositivi collegati insieme) e codec LDAC per la musica ad alta risoluzione. Con l&apos;app Headphones imposti un equalizzatore personalizzato (Personi-Fi 2.0) e i preset JBL Surround. L&apos;autonomia dichiarata arriva a 50 ore con la cancellazione accesa e a 65 senza. Sotto i 100 euro ti danno un pacchetto completo, senza il prezzo dei modelli di punta.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/jbl-live-770nc/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71yRp4u5x0L._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/41TjMVfRCsL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/41Ve1UVFmVL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51QQ22UzvDL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>99.99 EUR</g:price>
-      <g:brand>JBL</g:brand>
-      <g:mpn>B0CHMMVHQL</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
@@ -17433,23 +17382,6 @@
       <g:price>126.82 EUR</g:price>
       <g:brand>Makita</g:brand>
       <g:mpn>B099NRHWZ5</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Trapani e avvitatori</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B07KWN1ZWF</g:id>
-      <g:title>Makita DHP485Z (brushless 18V LXT a percussione, solo corpo)</g:title>
-      <g:description>Il DHP485 è il trapano a percussione brushless di punta della fascia media Makita. Ha un motore senza spazzole, due velocità, un mandrino autoserrante da 13 mm e la percussione per la muratura. Si vende solo corpo, quindi ti serve almeno una batteria LXT 18V. Ha più coppia del DHP487 e meno del DHP489: è la scelta classica per chi vuole il brushless Makita senza arrivare al top di gamma.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/makita-dhp485z-brushless-combi/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51P6Gw5RLSL._AC_SL1000_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61I-420O-YL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61S4p1aW9kL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71hZdRTGVJL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>125.00 EUR</g:price>
-      <g:brand>Makita</g:brand>
-      <g:mpn>B07KWN1ZWF</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Trapani e avvitatori</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -22006,23 +21938,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B08QCTS33K</g:id>
-      <g:title>Ricoh ScanSnap iX1600</g:title>
-      <g:description>È lo scanner che molti studi legali e commercialisti usano come standard per archiviare tutto in PDF ricercabili. L&apos;alimentatore automatico da 50 fogli e il touchscreen a bordo lo rendono indipendente dal computer, mentre il software ScanSnap Home mette in ordine da solo fatture e ricevute.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/fujitsu-scansnap-ix1600/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61dLYx1-qcL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81Z0HcAxHaL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71ZG++imo0L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71vFLKJ8I2L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>499.00 EUR</g:price>
-      <g:brand>Ricoh</g:brand>
-      <g:mpn>B08QCTS33K</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0CCNYDGS6</g:id>
       <g:title>Eaton 5E Gen2 900 USB DIN</g:title>
       <g:description>È il modello line-interactive più leggero di Eaton, pensato per l&apos;home office e le postazioni singole. Tiene accesi modem, router e un PC per qualche minuto, quanto basta per salvare il lavoro e spegnere con calma. Include il software gratuito per lo spegnimento automatico.</g:description>
@@ -22278,6 +22193,23 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Obiettivi fotografici</g:google_product_category>
       <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CDC3SVTJ</g:id>
+      <g:title>Dyson Gen5detect Absolute</g:title>
+      <g:description>La Gen5detect Absolute è la scopa senza filo più recente di Dyson e prende il posto della V15 Detect. Il motore Hyperdymium di quinta generazione dichiara fino a 280 AW di potenza, il filtro HEPA sigillato trattiene il 99,99% delle particelle fino a 0,1 micron, e il laser verde nella spazzola per pavimenti duri fa vedere la polvere invisibile. Un sensore conta le particelle e un display LCD mostra i grafici. L&apos;autonomia arriva a 70 minuti in modalità Eco. In confezione trovi bocchetta Pet, adattatore flessibile, supporto a parete e caricatore.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/dyson-gen5detect-absolute/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/41pE46Om55L._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/31VHwOFt7UL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51PrAORSHcL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51RpFlv9rWL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>849.00 EUR</g:price>
+      <g:brand>Dyson</g:brand>
+      <g:mpn>B0CDC3SVTJ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
       <g:id>B0842PLF5X</g:id>
@@ -23201,6 +23133,23 @@
       <g:price>43.99 EUR</g:price>
       <g:brand>Soundcore</g:brand>
       <g:mpn>B0FKSV2GW2</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DN11MTZ6</g:id>
+      <g:title>SHOKZ OpenFit 2 (novita&apos; 2025)</g:title>
+      <g:description>Le SHOKZ OpenFit 2 sono i nuovi auricolari true wireless open-ear a gancio: il driver sta sopra l&apos;orecchio, senza pressione sul canale uditivo, con 48 ore di riproduzione tra auricolari e custodia e una protezione IP55 che le rende adatte allo sport in ambienti umidi o sotto la pioggia leggera. Sono una novità del 2025 e hanno già raccolto oltre 3.300 recensioni. Non isolano dal rumore ma, rispetto ai clip-on, tengono più saldamente in corsa.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/shokz-openfit-2/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51H2qFIQmKL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/710FCSgHqRL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71P9m6x8bBL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71PuStMwnzL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>189.00 EUR</g:price>
+      <g:brand>SHOKZ</g:brand>
+      <g:mpn>B0DN11MTZ6</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -25344,23 +25293,6 @@
       <g:price>85.49 EUR</g:price>
       <g:brand>Evalit</g:brand>
       <g:mpn>B0H3Z18WFV</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Purificatori d'aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0H6JV488H</g:id>
-      <g:title>KNKA APH2500P PetAir</g:title>
-      <g:description>KNKA APH2500P PetAir e&apos; il purificatore pensato chi vive con cani o gatti: aspirazione a 360 gradi a filo pavimento che cattura peli, pelucchi di lettiera e polvere pesante prima che si alzino. Filtro cilindrico HEPA H13 con prefiltro rimovibile, CADR 250 m3/h su 52 m2, modalita&apos; notte a 24 dB. L&apos;oblo&apos; trasparente mostra cosa ha raccolto il filtro.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/knka-aph2500p-petair/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/612mjWHkjLL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71DBZj4ArwL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71hxkN25vVL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71vM4MKLt9L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>125.99 EUR</g:price>
-      <g:brand>KNKA</g:brand>
-      <g:mpn>B0H6JV488H</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Purificatori d'aria</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
