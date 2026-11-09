@@ -1,5 +1,5 @@
 # PickForMe — guida estesa per assistenti AI
-https://www.pickforme.it · Amazon.it (tag pickforme26-21) · lingua it-IT · aggiornato il 2026-11-08 (rigenerato ogni giorno)
+https://www.pickforme.it · Amazon.it (tag pickforme26-21) · lingua it-IT · aggiornato il 2026-11-09 (rigenerato ogni giorno)
 
 PickForMe e' un motore di decisione d'acquisto: per ogni categoria diciamo QUALE prodotto comprare e PERCHE', con il verdetto "per chi va bene / per chi non va bene", prezzo verificato a mano e datato, e la voce sintetica delle recensioni Amazon. Nessun ranking a pagamento.
 
@@ -26,7 +26,7 @@ La sedia giusta dipende dal tuo corpo e da quante ore ci passi, non dalle recens
 Categoria: https://www.pickforme.it/categoria/sedie-ergonomiche/
 Scelta principale: Steelcase Gesture Onyx con Poggiatesta — €1352,48, 4.2/5 su 221 recensioni. La sedia da ufficio con 12 anni di garanzia, livello Steelcase
 Scheda: https://www.pickforme.it/prodotto/steelcase-gesture-onyx-poggiatesta/
-Alternativa economica: SIHOO M102C rete braccioli 3D — €189,99, 4.3/5 su 2542 recensioni. La SIHOO completa, a un prezzo medio
+Alternativa economica: SIHOO M102C rete braccioli 3D — €169,99, 4.3/5 su 2542 recensioni. La SIHOO completa, a un prezzo medio
 Scheda: https://www.pickforme.it/prodotto/sihoo-m102c-rete-braccioli-3d/
 Scelta premium: SIHOO Doro S300 — €799,99, 4.1/5 su 135 recensioni. La Doro S300 che segue il movimento della tua schiena.
 Scheda: https://www.pickforme.it/prodotto/sihoo-doro-s300/
@@ -46,7 +46,7 @@ Il trapano giusto dipende da cosa devi forare e da quali batterie hai già, non 
 Categoria: https://www.pickforme.it/categoria/utensili-elettrici/
 Scelta principale: Bosch Professional GBH 2-28 F — €296,37, 4.7/5 su 5246 recensioni. Il tassellatore Bosch Professional che fora il cemento e diventa anche trapano
 Scheda: https://www.pickforme.it/prodotto/bosch-professional-gbh-2-28-f-sds-plus-880w/
-Alternativa economica: Bosch Professional GSB 18V-45 — €99,33, 4.8/5 su 96 recensioni. Il brushless Professional da 55 Nm, solo corpo, e il più acquistato del gruppo.
+Alternativa economica: Bosch Professional GSB 18V-45 — €99,76, 4.8/5 su 96 recensioni. Il brushless Professional da 55 Nm, solo corpo, e il più acquistato del gruppo.
 Scheda: https://www.pickforme.it/prodotto/bosch-pro-gsb-18v-45/
 Scelta premium: DeWalt DCH273P2T-QW (18V XR brushless, 2x5,0 Ah, TSTAK) — €439,00, 4.6/5 su 458 recensioni. Tassellatore a batteria DeWalt XR 18V, pronto all'uso con due batterie 5,0 Ah e valigetta
 Scheda: https://www.pickforme.it/prodotto/dewalt-dch273p2t-qw/
@@ -104,7 +104,7 @@ Scheda: https://www.pickforme.it/prodotto/philips-airfryer-combi-7000-xxl-hd9876
 ## Monitor da scrivania
 Un monitor per lavorare e uno per giocare sono due prodotti diversi. Dicci cosa ci fai e quanto grande lo vuoi.
 Categoria: https://www.pickforme.it/categoria/monitor-scrivania/
-Scelta principale: Dell S2725QS 27" 4K 120Hz — €269,83, 4.5/5 su 417 recensioni. 4K nitido e pure fluido
+Scelta principale: Dell S2725QS 27" 4K 120Hz — €269,83, 4.5/5 su 417 recensioni. 4K nitido e 120Hz fluido in un 27 pollici Dell.
 Scheda: https://www.pickforme.it/prodotto/dell-s2725qs-27-4k-120hz/
 Alternativa economica: Lenovo LOQ 24-10 — €89,99, 4.4/5 su 235 recensioni. 200 Hz su pannello IPS e tre ingressi video, per giocare spendendo poco
 Scheda: https://www.pickforme.it/prodotto/lenovo-loq-24-10/
@@ -126,7 +126,7 @@ Un purificatore funziona solo se è dimensionato per la stanza. Dicci quanto è 
 Categoria: https://www.pickforme.it/categoria/purificatori-aria/
 Scelta principale: Coway Airmega 450 — €499,99, 4.2/5 su 22 recensioni. CADR 734 m3/h e sensore laser PM1: il Coway piu' grande per open-space e allergie serie.
 Scheda: https://www.pickforme.it/prodotto/coway-airmega-450/
-Alternativa economica: Philips PureProtect Go 500 — €58,70, 4.7/5 su 57 recensioni. Philips HEPA H13 silenzioso da 12 dB, filtro fino a 3 anni, pensato per 25 m2.
+Alternativa economica: Philips PureProtect Go 500 — €58,93, 4.7/5 su 57 recensioni. Philips HEPA H13 silenzioso da 12 dB, filtro fino a 3 anni, pensato per 25 m2.
 Scheda: https://www.pickforme.it/prodotto/philips-pureprotect-go-500/
 Scelta premium: Philips serie 4200 (AC4221) — €414,99, 4.4/5 su 406 recensioni. Aria pulita in soggiorni grandi e open space, con quattro sensori e app
 Scheda: https://www.pickforme.it/prodotto/philips-4200-ac4221/
@@ -134,12 +134,12 @@ Scheda: https://www.pickforme.it/prodotto/philips-4200-ac4221/
 ## Spazzolini elettrici
 Oscillante o sonico, sensore di pressione, autonomia per i viaggi: dicci come ti lavi i denti e ti diciamo quale prendere.
 Categoria: https://www.pickforme.it/categoria/spazzolini-elettrici/
-Scelta principale: Oral-B iO Series 6 Grey Opal — €127,35, 4.4/5 su 2050 recensioni. L'iO di mezzo, con tutto il necessario ma senza display
+Scelta principale: Oral-B iO Series 6 Grey Opal — €119,95, 4.4/5 su 2050 recensioni. L'iO di mezzo, con tutto il necessario ma senza display
 Scheda: https://www.pickforme.it/prodotto/oral-b-io6-grey-opal/
 Alternativa economica: Oral-B Pro Junior 6+ — €38,94, 4.5/5 su 1934 recensioni. Il primo vero Oral-B per bambini dai 6 anni in su.
 Scheda: https://www.pickforme.it/prodotto/oral-b-pro-junior/
-Scelta premium: Oral-B iO 6 nero con 2 testine, custodia e dentifricio — €174,41, 4.6/5 su 372 recensioni. L'oscillante Oral-B con anello luminoso che ti dice quando premi troppo.
-Scheda: https://www.pickforme.it/prodotto/oralb-io6-nero-custodia-dentifricio/
+Scelta premium: Philips Sonicare 7100 (blu navy, con app) — €171,99, 4.5/5 su 1421 recensioni. Lo spazzolino sonico Philips di fascia alta con app, dodici combinazioni e custodia che ricarica.
+Scheda: https://www.pickforme.it/prodotto/philips-sonicare-7100-blu-navy/
 
 ## Cuffie e auricolari bluetooth
 Sopra le orecchie o dentro, cancellazione del rumore, autonomia, sport o ufficio: dicci come le userai e ti diciamo quali prendere.
@@ -156,10 +156,10 @@ Da tasca o da festa, in casa o in spiaggia, una o due in stereo: dicci dove la u
 Categoria: https://www.pickforme.it/categoria/casse-bluetooth/
 Scelta principale: JBL Xtreme 4 — €279,99, 4.5/5 su 4009 recensioni. La grande portatile di JBL: 24 ore di musica e Auracast
 Scheda: https://www.pickforme.it/prodotto/jbl-xtreme-4/
-Alternativa economica: Soundcore Motion 300 — €62,99, 4.6/5 su 3539 recensioni. La cassa compatta che punta tutto sulla qualità del suono
-Scheda: https://www.pickforme.it/prodotto/soundcore-motion-300/
-Scelta premium: Sonos Move 2 — €448,99, 4.6/5 su 486 recensioni. La Sonos che vive in salotto ma esce in giardino, con 24 ore di batteria.
-Scheda: https://www.pickforme.it/prodotto/sonos-move-2/
+Alternativa economica: JBL Grip — €68,99, 4.7/5 su 1364 recensioni. La nuova JBL compatta che galleggia e parla Auracast
+Scheda: https://www.pickforme.it/prodotto/jbl-grip/
+Scelta premium: JBL PartyBox 310 — €448,99, 4.6/5 su 385 recensioni. La PartyBox JBL pensata per le vere feste, ancora oggi il punto di riferimento.
+Scheda: https://www.pickforme.it/prodotto/jbl-partybox-310/
 
 ## Sicurezza casa smart
 Interno o esterno, cablata o a batteria, con Wi-Fi o SIM 4G: scegli in base a dove la metti e cosa vuoi vedere, non in base ai megapixel.
@@ -306,7 +306,7 @@ Fonte: https://www.pickforme.it/domande/ufficio-piccolo-cosa-comprare-partita-iv
 # Confronti diretti (X o Y?)
 
 D: Oral-B Vitality Pro o Oral-B Pro Series 3 confezione doppia?
-R: Scegli Oral-B Vitality Pro (€24,99) se Vuoi provare lo spazzolino elettrico spendendo il minimo. Scegli Oral-B Pro Series 3 confezione doppia (€135,85) se Volete due spazzolini con avviso di pressione ben visibile e una testina di scorta.
+R: Scegli Oral-B Vitality Pro (€24,99) se Vuoi provare lo spazzolino elettrico spendendo il minimo. Scegli Oral-B Pro Series 3 confezione doppia (€135,60) se Volete due spazzolini con avviso di pressione ben visibile e una testina di scorta.
 Fonte: https://www.pickforme.it/confronto/spazzolini-elettrici/oral-b-vitality-pro-vs-oral-b-pro-series-3-duo/
 
 D: Xiaomi H50 Pro o XIAOMI Robot Vacuum X20+?
@@ -334,7 +334,7 @@ R: Scegli iRobot Roomba 115 Combo + AutoEmpty dock (€199,00) se Chi vuole il m
 Fonte: https://www.pickforme.it/confronto/robot-aspirapolvere/irobot-roomba-115-combo-autoempty-vs-irobot-roomba-plus-576-combo/
 
 D: Krups Nescafé Dolce Gusto Mini Me o Lavazza A Modo Mio Jolie Evo?
-R: Scegli Krups Nescafé Dolce Gusto Mini Me (€74,90) se In casa si bevono bevande diverse, cappuccino compreso, e vuoi zero manutenzione. Scegli Lavazza A Modo Mio Jolie Evo (€79,00) se Preferisci le miscele Lavazza e vuoi la macchina più compatta e silenziosa del sistema A Modo Mio.
+R: Scegli Krups Nescafé Dolce Gusto Mini Me (€75,48) se In casa si bevono bevande diverse, cappuccino compreso, e vuoi zero manutenzione. Scegli Lavazza A Modo Mio Jolie Evo (€79,00) se Preferisci le miscele Lavazza e vuoi la macchina più compatta e silenziosa del sistema A Modo Mio.
 Fonte: https://www.pickforme.it/confronto/macchine-caffe/krups-dolce-gusto-mini-me-vs-lavazza-jolie-evo-nera/
 
 D: De'Longhi Magnifica S ECAM o Lavazza A Modo Mio Jolie Evo?
@@ -354,7 +354,7 @@ R: Scegli De'Longhi Nespresso Essenza Mini EN85.B (€84,00) se Vuoi entrare nel
 Fonte: https://www.pickforme.it/confronto/macchine-caffe/nespresso-essenza-mini-en85b-vs-lavazza-jolie-evo-nera/
 
 D: Krups Nescafé Dolce Gusto Mini Me o De'Longhi Nespresso Essenza Mini EN85.B?
-R: Scegli Krups Nescafé Dolce Gusto Mini Me (€74,90) se In casa si bevono bevande diverse, cappuccino compreso, e vuoi zero manutenzione. Scegli De'Longhi Nespresso Essenza Mini EN85.B (€84,00) se Vuoi entrare nel sistema Nespresso Original con la macchina più piccola ed economica.
+R: Scegli Krups Nescafé Dolce Gusto Mini Me (€75,48) se In casa si bevono bevande diverse, cappuccino compreso, e vuoi zero manutenzione. Scegli De'Longhi Nespresso Essenza Mini EN85.B (€84,00) se Vuoi entrare nel sistema Nespresso Original con la macchina più piccola ed economica.
 Fonte: https://www.pickforme.it/confronto/macchine-caffe/krups-dolce-gusto-mini-me-vs-nespresso-essenza-mini-en85b/
 
 D: Marcapiuma Rainbow H2 memory o Sleephome Niveo molle insacchettate 22 cm?

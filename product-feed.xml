@@ -3,7 +3,7 @@
   <channel>
     <title>PickForMe · You need it. We pick it.</title>
     <link>https://www.pickforme.it/</link>
-    <description>Feed prodotti selezionati del catalogo PickForMe (1494 prodotti · aggiornato 2026-11-08).</description>
+    <description>Feed prodotti selezionati del catalogo PickForMe (1498 prodotti · aggiornato 2026-11-09).</description>
     <item>
       <g:id>B0DCVYS9FQ</g:id>
       <g:title>Dreame L10s Ultra</g:title>
@@ -1519,23 +1519,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0GT9F3TZ5</g:id>
-      <g:title>ProtoArc EC200 Pro in rete</g:title>
-      <g:description>La EC200 Pro è una sedia operativa interamente in rete traspirante. La seduta si regola in profondità, i braccioli 4D si muovono in altezza, avanti e indietro, di lato e in rotazione, il supporto lombare si regola in due direzioni e il poggiatesta è 3D. Lo schienale reclina e si blocca in quattro posizioni fino a 145 gradi. È conforme agli standard BS EN 1335 e BIFMA X5.1, con pistone di Classe 4 certificato TUV.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/protoarc-ec200-pro-rete-profondita-regolabile/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61ZXQzuxJDL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71t7DVYuCcL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/718m-qaqjVL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71qJwXkCm4L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>249.99 EUR</g:price>
-      <g:brand>ProtoArc</g:brand>
-      <g:mpn>B0GT9F3TZ5</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Sedie ergonomiche</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B079X1RZ56</g:id>
       <g:title>noblechairs HERO</g:title>
       <g:description>La HERO è una sedia da gaming e da ufficio sviluppata insieme ai giocatori di eSport. Ha il rivestimento in PU vegano traspirante, seduta e schienale larghi, supporto lombare regolabile integrato e braccioli flessibili 4D. La struttura è robusta, con portata fino a 150 kg e meccanismo di oscillazione. Noblechairs è un marchio affermato tra le sedie da gioco di fascia alta.</g:description>
@@ -2973,6 +2956,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B07TX8MT4F</g:id>
+      <g:title>Nespresso De&apos;Longhi Lattissima One EN510</g:title>
+      <g:description>La Lattissima One usa le capsule Nespresso Original e prepara espresso, cappuccino e latte macchiato con un solo tocco. Il latte va nella caraffa, che puoi lavare in lavastoviglie, e viene montato in automatico. La pompa è da 19 bar e il corpo, largo solo 15 cm, trova posto quasi ovunque. È la comodità della capsula con la schiuma già fatta.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/delonghi-lattissima-one-en510/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71F98kgaPaL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71wOobhUBBL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71QBMs4p8rL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71WGBZSYinL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>199.00 EUR</g:price>
+      <g:brand>Nespresso De&apos;Longhi</g:brand>
+      <g:mpn>B07TX8MT4F</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B01ITICQR4</g:id>
       <g:title>Nespresso De&apos;Longhi Citiz &amp; Milk EN267</g:title>
       <g:description>La Citiz &amp; Milk funziona con le capsule Nespresso Original e include il montalatte automatico Aeroccino, così fai cappuccini e latte macchiato senza montare il latte a mano. Ha una pompa da 19 bar, un serbatoio da 1 L e due lunghezze di caffè in tazza. Il design è compatto.</g:description>
@@ -4119,6 +4119,22 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Macchine da caffè</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B01FOAFWLW</g:id>
+      <g:title>De&apos;Longhi Dinamica ECAM350.15.B</g:title>
+      <g:description>Dinamica è un passo sopra le automatiche di base: ha il display, quattro bevande a tasto diretto e la funzione My, che salva aroma e quantità di ogni caffè. Il serbatoio da 1,8 L si estrae dal davanti e riduce le ricariche, comodo se in casa si beve molto caffè. Il limite è il latte: c&apos;è un pannarello manuale, quindi cappuccino e latte macchiato restano un lavoro a mano.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/delonghi-dinamica-ecam350-15b/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61Ph0r3UWfL._AC_SL1200_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41oc5EJoHSL._AC_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>389.55 EUR</g:price>
+      <g:brand>De&apos;Longhi</g:brand>
+      <g:mpn>B01FOAFWLW</g:mpn>
+      <g:gtin>8004399331143</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
     </item>
     <item>
       <g:id>B0H31Z6LB5</g:id>
@@ -7233,23 +7249,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0CZ47QLLY</g:id>
-      <g:title>Ninja PRO AF140EU</g:title>
-      <g:description>La Ninja PRO AF140EU è una friggitrice ad aria a cassetto singolo da 4,7 litri, con 4 funzioni dichiarate (frittura ad aria, arrosto, riscaldamento ed essiccazione) e una temperatura fino a 210 °C. La scheda la indica adatta a 2 persone: ci stanno un pollo da 1 kg o circa 500 g di patatine. Il limite è proprio la capienza, stretta per una famiglia, e non c&apos;è un oblò per guardare dentro.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/ninja-pro-af140eu/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/619ZG+JJhFL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61kZ88dY5-L._AC_SX679_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/6134euRWDoL._AC_SX679_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61o+Ofs5HOL._AC_SX679_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>115.00 EUR</g:price>
-      <g:brand>Ninja</g:brand>
-      <g:mpn>B0CZ47QLLY</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0D9S9Y16Y</g:id>
       <g:title>Philips Airfryer 3000 NA330/00</g:title>
       <g:description>L&apos;Airfryer 3000 di Philips è una friggitrice ad aria da 6,2 litri con un solo cestello, finestrella integrata, 16 modalità di cottura e touch screen. La scheda la indica per 4 persone e dichiara i componenti lavabili in lavastoviglie. Il limite è la scheda tecnica poco affidabile: la temperatura massima riportata è 40 °C, un valore chiaramente errato, quindi il dato reale non si può verificare in pagina.</g:description>
@@ -8786,23 +8785,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0CGDMBXK2</g:id>
-      <g:title>Soundcore Motion 300</g:title>
-      <g:description>La Soundcore Motion 300 sviluppa 30 W stereo e supporta l&apos;audio wireless ad alta risoluzione, con regolazione automatica SmartTune e 13 ore di batteria. È impermeabile IPX7. Fa per te se la qualità del suono conta più della portabilità: pesa circa 780 g e non ha una protezione dichiarata contro la polvere.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/soundcore-motion-300/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/81K6mSeHXyL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71V4FiQFekL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71Lhr3e-VqL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71KbR7sTTQL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>62.99 EUR</g:price>
-      <g:brand>Soundcore</g:brand>
-      <g:mpn>B0CGDMBXK2</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Casse bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0D3X3YKVF</g:id>
       <g:title>Ultimate Ears Wonderboom 4</g:title>
       <g:description>Pensata per l&apos;acqua e per l&apos;aria aperta, la Wonderboom 4 di Ultimate Ears pesa 420 g, galleggia ed è protetta IP67. Diffonde il suono a 360 gradi, dura 14 ore e ha anche una modalità Podcast per le voci. Il produttore non indica la potenza e non cita un microfono per le chiamate.</g:description>
@@ -9224,24 +9206,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B01C3SCKI6</g:id>
-      <g:title>Sigma 30mm f/1.4 DC DN Contemporary (Sony E)</g:title>
-      <g:description>Il Sigma 30mm f/1.4 DC DN Contemporary è un obiettivo fisso con autofocus per le mirrorless Sony con attacco E, progettato per i sensori APS-C (lo dice la sigla DC DN). È luminoso e ottimo per ritratti ambientati, interni e poca luce, e raccoglie moltissime recensioni positive. Costa più degli altri fissi economici e la scheda non indica il peso.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/sigma-30-f14-dc-dn-sony-e/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61-KmOXOevL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51zTZn8OumL._AC_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51c3VNqoZqL._AC_SL1033_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51ZxVapF5QL._AC_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>369.00 EUR</g:price>
-      <g:brand>Sigma</g:brand>
-      <g:mpn>B01C3SCKI6</g:mpn>
-      <g:gtin>0085126302658</g:gtin>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Obiettivi fotografici</g:google_product_category>
-      <g:identifier_exists>yes</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B07CV2PK92</g:id>
       <g:title>Didiesse Frog Revolution</g:title>
       <g:description>La Frog Revolution di Didiesse lavora con le cialde in carta ESE da 44 mm, quindi non sei legato a un solo marchio di caffè. Ha un serbatoio da 2 litri e dei vani integrati per tenere a portata di mano cialde, zucchero, bicchieri e palette, una comodità in più se la usi in ufficio. In compenso non monta il latte e occupa più spazio di una macchina a capsule.</g:description>
@@ -9568,6 +9532,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0FQSS4P5D</g:id>
+      <g:title>BenQ GW2490CE</g:title>
+      <g:description>Il BenQ GW2490CE è un monitor da 23,8 pollici Full HD con pannello IPS, 144 Hz, copertura sRGB al 99% e varie tecnologie per il comfort visivo. È pensato per chi passa molte ore davanti allo schermo, a casa o in ufficio. Ha una porta USB-C, ma la pagina non dice se porta il video né quanti watt eroga.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/benq-gw2490ce/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71YuVnO3WpL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/7165mLEhLtL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71JAMznGmhL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71GqHK8gYgL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.99 EUR</g:price>
+      <g:brand>BenQ</g:brand>
+      <g:mpn>B0FQSS4P5D</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B0BBRKND8T</g:id>
       <g:title>KOORUI 27 Curvo QHD 180Hz</g:title>
       <g:description>Il KOORUI è un 27 pollici curvo QHD con pannello VA, 180 Hz e 1 ms dichiarati. Va bene per giocare e per chi vuole un 1440p fluido e avvolgente senza spendere tanto. Il pannello VA rende bene sul contrasto ma perde qualità se lo guardi di lato, e il supporto non si regola in altezza.</g:description>
@@ -9674,23 +9655,6 @@
       <g:identifier_exists>yes</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0D8PTJZ69</g:id>
-      <g:title>Melchioni Family Emma 5L</g:title>
-      <g:description>La Emma 5L di Melchioni è una friggitrice ad aria a cestello singolo da 5 litri, con display touch, 8 programmi e una finestra per controllare la cottura. È una buona porta d&apos;ingresso per single e coppie che vogliono spendere poco. Ha 1500 W di potenza e il cestello va lavato a mano.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/melchioni-emma-5l/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51j4YxXWeiL._AC_SL1000_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71mFXx31DhL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71WagOV5MzL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71ipXZDxuJL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>34.99 EUR</g:price>
-      <g:brand>Melchioni</g:brand>
-      <g:mpn>B0D8PTJZ69</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0BFB3Q7SD</g:id>
       <g:title>Cecotec Cecofry InoxBlack Pro 5500</g:title>
       <g:description>La Cecofry InoxBlack Pro 5500 di Cecotec è una friggitrice ad aria a cestello singolo da 5,5 litri, con corpo in acciaio inox, comandi touch e 1700 W. Va bene per coppie e piccole famiglie che vogliono un modello collaudato, con tante recensioni alle spalle. Non ha l&apos;oblò e il cestello non è dichiarato lavabile in lavastoviglie.</g:description>
@@ -9772,23 +9736,6 @@
       <g:price>164.99 EUR</g:price>
       <g:brand>Bosch</g:brand>
       <g:mpn>B0DYK9LK3D</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0DGM8MKZB</g:id>
-      <g:title>Moulinex Easy Fry XL Surface AL4018</g:title>
-      <g:description>La Easy Fry XL Surface di Moulinex ha un cestello largo, doppia resistenza, una finestra di osservazione e 2200 W. Si adatta alle famiglie che cucinano teglie ampie, come la pizza. La capacità è espressa in kg e non in litri, e la forma larga occupa spazio sul piano.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/moulinex-easy-fry-xl-surface-al4018/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61bRMwfGMTL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61yyFiHmmxL._AC_SL1212_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81-rd0WZnFL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/816lPiYG0NL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>119.99 EUR</g:price>
-      <g:brand>Moulinex</g:brand>
-      <g:mpn>B0DGM8MKZB</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Friggitrici ad aria</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -12496,6 +12443,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0FHK5JNQM</g:id>
+      <g:title>SONGMICS LSD130 100x60 marrone vintage con USB-C</g:title>
+      <g:description>La SONGMICS LSD130 100x60 è una scrivania elettrica con finitura marrone vintage. L&apos;altezza si regola da 72 a 120 cm, ha 4 memorie, una porta USB-C con ricarica rapida da 20 W, un motore silenzioso sotto i 48 dB e una portata di 70 kg. Va bene per un piccolo home office o come seconda postazione. Il piano è fatto di quattro pannelli separati, e dal punto di vista estetico è un dettaglio da considerare.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/songmics-lsd130-100x60-vintage/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71CeHKgm9FL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71Tqqnw2gDL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71obIH9-mUL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81hskrD1qlL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>88.99 EUR</g:price>
+      <g:brand>SONGMICS</g:brand>
+      <g:mpn>B0FHK5JNQM</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Scrivanie regolabili</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B0BMG8XJ4W</g:id>
       <g:title>JUMMICO 120x60 bianca con memoria, USB e avviso pausa</g:title>
       <g:description>La JUMMICO 120x60 bianca è una scrivania regolabile d&apos;ingresso, con un&apos;altezza da 73 a 118 cm, un pannello a 6 tasti, 4 memorie, la porta USB, i passacavi e un promemoria per fare pausa. Il rapporto qualità-prezzo è buono, sotto i 100 euro. Il piano non è in un unico pezzo e il produttore non indica con chiarezza la portata massima.</g:description>
@@ -13344,23 +13308,6 @@
       <g:price>98.39 EUR</g:price>
       <g:brand>Termozeta</g:brand>
       <g:mpn>B00HA6PX18</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Macchine da caffè</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0GY53HYJ9</g:id>
-      <g:title>AMZCHEF Espresso con macinacaffè 20 bar</g:title>
-      <g:description>È una macchina espresso a portafiltro con macinacaffè conico integrato (44 livelli), PID a 4 temperature, pompa da 20 bar e lancia vapore in acciaio. Con circa 240 euro offre funzioni tipiche di macchine più costose, ma il marchio è giovane e le recensioni sono ancora poche.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/amzchef-espresso-macinacaffe-20bar/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71y4b-l+ytL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/713K+Fp+r1L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71DVHXy655L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71M0gULosgL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>239.99 EUR</g:price>
-      <g:brand>AMZCHEF</g:brand>
-      <g:mpn>B0GY53HYJ9</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Macchine da caffè</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -14471,23 +14418,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0B1LVC5VZ</g:id>
-      <g:title>Soundcore Space A40</g:title>
-      <g:description>Gli Space A40 sono auricolari in-ear con cancellazione del rumore adattiva, codec LDAC per l&apos;ascolto in alta risoluzione, protezione IPX4 e custodia con ricarica wireless. Durano 10 ore per carica, 50 con la custodia, e il prezzo scende spesso sotto i 60 euro: per questo sono un riferimento della fascia media. I punti deboli sono la custodia un po&apos; ingombrante e i microfoni, che non raggiungono quelli dei modelli di fascia alta.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/soundcore-space-a40/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51EwBP9U2YL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/6136QttuAoL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71mr33VhAFL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61d6TFYL16L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>54.99 EUR</g:price>
-      <g:brand>Soundcore</g:brand>
-      <g:mpn>B0B1LVC5VZ</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0DFCHZ699</g:id>
       <g:title>Soundcore AeroFit 2</g:title>
       <g:description>Gli AeroFit 2 di Soundcore sono auricolari open-ear, cioè aperti: restano appoggiati all&apos;orecchio con un gancio regolabile e lasciano libero il condotto uditivo. La certificazione IP55 li protegge da sudore e pioggia, l&apos;autonomia è di 10 ore per auricolare (42 con la custodia) e il codec LDAC garantisce un audio di buona qualità. Il design aperto fa passare i suoni esterni, ed è perfetto per correre in strada o lavorare in ufficio, meno per isolarsi in metro. Costano circa 80 euro, contro i 200 dei Shokz OpenFit Pro.</g:description>
@@ -15215,6 +15145,23 @@
       <g:price>189.00 EUR</g:price>
       <g:brand>Ninja</g:brand>
       <g:mpn>B0F9PJG7SH</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Friggitrici ad aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0D63DHZCB</g:id>
+      <g:title>Ninja Double Stack SL300EU 7,6 L</g:title>
+      <g:description>È la variante più piccola e più venduta del Double Stack XL: due scomparti da 3,8 litri in colonna, 7,6 L in totale, con quattro livelli di cottura grazie alle griglie e 240 °C dichiarati. Si sceglie soprattutto per l&apos;ingombro frontale di soli 28 cm, la metà di una normale dual-zone con i cassetti affiancati.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ninja-double-stack-sl300eu-7-6l/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71Olbki5uwL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71oUm+AivaL._AC_SL1400_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61dx3pUiGdL._AC_SL1400_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71KBrnfkogL._AC_SL1400_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>180.44 EUR</g:price>
+      <g:brand>Ninja</g:brand>
+      <g:mpn>B0D63DHZCB</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Friggitrici ad aria</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -16213,6 +16160,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0DQV86M6N</g:id>
+      <g:title>Bosch Professional GSB 18V-65</g:title>
+      <g:description>Il Bosch Professional GSB 18V-65 è un trapano a percussione brushless da 18 V con 55 Nm di coppia massima, KickBack Control per la sicurezza, mandrino in metallo e doppia luce LED. La testa è lunga 175 mm, pesa 1,2 kg e ha due velocità (500 e 2000 giri). Viene venduto senza batteria né caricabatteria, ed è compatibile con AMPShare: la stessa batteria alimenta gli utensili Bosch Professional e quelli degli altri marchi che aderiscono al circuito.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/bosch-pro-gsb-18v-65-solo/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61NC35DejPL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/8174RrVvoZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71Ed1-mXucL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71YWHiaDgbL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>115.00 EUR</g:price>
+      <g:brand>Bosch Professional</g:brand>
+      <g:mpn>B0DQV86M6N</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Trapani e avvitatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B09QMGFBB6</g:id>
       <g:title>RYOBI R18PD2-242S (18V ONE+, 2+4 Ah)</g:title>
       <g:description>Questo trapano a percussione 18V ONE+ viene venduto in un kit completo: una batteria da 2,0 Ah, più leggera, una da 4,0 Ah per i lavori lunghi, il caricabatterie e la borsa. Offre 40 Nm di coppia, un mandrino autoserrante da 10 mm, due velocità, 24 regolazioni di frizione e una luce LED. L&apos;ecosistema ONE+ è tra i più ampi sul mercato: la stessa batteria alimenta centinaia di utensili e attrezzi da giardino Ryobi.</g:description>
@@ -16501,6 +16465,23 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Macchine da caffè</g:google_product_category>
       <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B07PWXN3RG</g:id>
+      <g:title>Sage The Barista Pro SES878 Tartufo Nero</g:title>
+      <g:description>La Sage The Barista Pro (la stessa che Breville vende in UK e negli Stati Uniti) è una semi-manuale che riunisce in una sola macchina un macinacaffè conico a 30 livelli, un serbatoio da 2 litri e il riscaldamento ThermoJet, pronto in 3 secondi. Il controllo PID mantiene costante la temperatura e la lancia vapore ti permette di montare una micro-schiuma da latte art. È il passo successivo rispetto alla Bambino per chi vuole l&apos;espresso come al bar, con dose, tamper e latte fatti a mano. All&apos;inizio serve un po&apos; di pratica, ma poi le tazze escono sempre uguali. Questa è in finitura Tartufo Nero.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/sage-barista-pro-ses878-nero/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61kTywJYlqL._AC_SL1300_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81+y8mhQKsL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81vrwy8te9L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71qeUvuwVjL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>650.00 EUR</g:price>
+      <g:brand>Sage</g:brand>
+      <g:mpn>B07PWXN3RG</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
       <g:id>B07NY13SZ9</g:id>
@@ -16973,6 +16954,23 @@
       <g:price>554.13 EUR</g:price>
       <g:brand>Marshall</g:brand>
       <g:mpn>B07HPNPXCX</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B09GYPMHTS</g:id>
+      <g:title>Marshall Woburn III</g:title>
+      <g:description>La Woburn III è l&apos;ultima evoluzione della grande Marshall da casa. Dichiara 110 W di potenza e una scena stereo più ampia rispetto alla generazione precedente, mentre il Bluetooth 5.2 la rende pronta per le funzioni che arriveranno in futuro. La scocca è fatta per il 70% di plastica riciclata e ha una finitura color crema. Va collegata alla presa di corrente perché non ha batteria: è una cassa da appoggiare nel punto giusto del salotto e lasciare lì.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/marshall-woburn-iii/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61PECUd7JIL._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61hIJeyqiyL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51V1RaZv4WL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61UjIGmwKmL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>449.00 EUR</g:price>
+      <g:brand>Marshall</g:brand>
+      <g:mpn>B09GYPMHTS</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Casse bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -17804,23 +17802,6 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Obiettivi fotografici</g:google_product_category>
       <g:identifier_exists>yes</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0B6FHKKHP</g:id>
-      <g:title>Xiaomi Smart Air Purifier 4 Compact</g:title>
-      <g:description>Lo Xiaomi Smart Air Purifier 4 Compact è un purificatore smart con filtrazione HEPA a 3 stadi, CADR dichiarato di 230 m³/h (la quantità di aria pulita prodotta in un&apos;ora) e copertura fino a 48 m². Lo comandi dall&apos;app Xiaomi Home, anche con Alexa e Google, e ha un sensore con indicatore LED e una modalità sonno a 20 dB. Va bene per camere e studi medi, se vuoi controllarlo dallo smartphone senza spendere troppo. La classe HEPA (H13 o H14) non è dichiarata.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/xiaomi-smart-air-purifier-4-compact/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/619Qk9R7PxL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61wm89k+hlL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51VjyoiT-NL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61YsVkKLNTL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>74.90 EUR</g:price>
-      <g:brand>Xiaomi</g:brand>
-      <g:mpn>B0B6FHKKHP</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Purificatori d'aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
       <g:id>B0DLKYMN5F</g:id>
@@ -20775,23 +20756,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0DWDXV18S</g:id>
-      <g:title>VASAGLE 160x140 angolare a L con 2 memorie, USB e prese AC</g:title>
-      <g:description>La VASAGLE 160 x 140 è una rara scrivania regolabile a L, a 180 euro: motore singolo, altezza da 72 a 120 cm e 2 posizioni di memoria. La forma angolare raddoppia la superficie di lavoro sfruttando l&apos;angolo libero e include una stazione di ricarica (2 prese AC e 2 porte USB), un vassoio passacavi e dei ganci. Il telaio in acciaio ha una portata di 80 kg, adatta a due monitor leggeri. Con 4,6 stelle su 304 recensioni è la scrivania regolabile a L più confermata di Amazon.it. I limiti sono il motore singolo su un piano così esteso e il rumore in dB non dichiarato.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/vasagle-160x140-angolare-l-usb-2-memorie/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71yNucOYYZL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81NBz4zp0kL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71+HGaCZcfL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71rIpxPceBL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>179.99 EUR</g:price>
-      <g:brand>VASAGLE</g:brand>
-      <g:mpn>B0DWDXV18S</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Scrivanie regolabili</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0DBVG86R2</g:id>
       <g:title>MAIDeSITe EL2 Pro Art con gambe ovali, 160 kg, anti-collisione e &lt;45 dB</g:title>
       <g:description>La MAIDeSITe EL2 Pro Art è il telaio di design della linea: doppio motore, portata dichiarata di 160 kg (fino a 180 kg nelle specifiche), altezza da 72 a 120 cm e larghezza estendibile da 100 a 180 cm, compatibile con piani fino a 220 x 100 cm. Il tratto distintivo sono le gambe ovali, un&apos;estetica fuori dal comune per il segmento. La dotazione è completa: 4 memorie, anti-collisione, blocco bambini, promemoria postura (0,5, 1 o 2 ore), porta USB di ricarica e rumore sotto i 45 dB, con velocità di 35 mm/s. 251 recensioni a 4,8 ne confermano la qualità meccanica. Il piano va comprato a parte.</g:description>
@@ -23138,23 +23102,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0DN11MTZ6</g:id>
-      <g:title>SHOKZ OpenFit 2 (novita&apos; 2025)</g:title>
-      <g:description>Le SHOKZ OpenFit 2 sono i nuovi auricolari true wireless open-ear a gancio: il driver sta sopra l&apos;orecchio, senza pressione sul canale uditivo, con 48 ore di riproduzione tra auricolari e custodia e una protezione IP55 che le rende adatte allo sport in ambienti umidi o sotto la pioggia leggera. Sono una novità del 2025 e hanno già raccolto oltre 3.300 recensioni. Non isolano dal rumore ma, rispetto ai clip-on, tengono più saldamente in corsa.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/shokz-openfit-2/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51H2qFIQmKL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/710FCSgHqRL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71P9m6x8bBL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71PuStMwnzL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>189.00 EUR</g:price>
-      <g:brand>SHOKZ</g:brand>
-      <g:mpn>B0DN11MTZ6</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0CS96K97M</g:id>
       <g:title>DEWALT Neckband 2-in-1 Heavy Duty IP56</g:title>
       <g:description>Il collare rigido delle DEWALT Neckband 2-in-1 ha gli altoparlanti integrati, e da dentro escono due auricolari con cavo retrattile: ascolti in viva voce o in-ear e passi dall&apos;uno all&apos;altro senza spegnere niente. La certificazione IP56 protegge da polvere e getti d&apos;acqua, l&apos;autonomia supera le 60 ore e il microfono HD si fa sentire anche dove il rumore è alto. È una cuffia pensata per chi lavora, non per chi sta in ufficio o gira per la città.</g:description>
@@ -24632,7 +24579,7 @@
     <item>
       <g:id>B0DTTTWYQT</g:id>
       <g:title>Cosori Twinfry 10L</g:title>
-      <g:description>La Twinfry ha due cestelli separati da 5 litri che puoi gestire in modo indipendente o sincronizzato, cosi il contorno e il secondo sono pronti nello stesso momento. Arriva a 240 gradi, si controlla anche da app via WiFi e i cestelli vanno in lavastoviglie.</g:description>
+      <g:description>Friggitrice ad aria con doppio vano da 5 litri: puoi cuocere pollo e patate a tempi diversi e li fai arrivare in tavola nello stesso momento. L&apos;app torna comoda quando sei in un&apos;altra stanza. Pensa a dove la metti, il piano se lo prende tutto.</g:description>
       <g:link>https://www.pickforme.it/prodotto/cosori-twinfry-10l-doppio-cestello/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/511U1S3dabL._AC_SL1024_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/81RS+A067eL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24650,7 +24597,7 @@
     <item>
       <g:id>B0F4KHWH9M</g:id>
       <g:title>Ninja Dual Zone MAX 9,5L</g:title>
-      <g:description>La Dual Zone MAX divide i 9,5 litri in due cestelli separati, cosi puoi impostare temperature e tempi diversi e far finire le due cotture insieme. Sei funzioni di cottura, arriva a 240 gradi e i cestelli vanno in lavastoviglie. Marchio con buon seguito tra chi usa spesso la friggitrice.</g:description>
+      <g:description>La doppia zona di Ninja porta la capacita complessiva a 9,5 litri, in due vani con tempi e temperature indipendenti. Metti dentro secondo e contorno, premi un tasto e li fai terminare insieme. Il marchio e solido, il prezzo pure.</g:description>
       <g:link>https://www.pickforme.it/prodotto/ninja-dual-zone-max-9-5l-dz400eu/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71D3Ahc7aaL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/81g9+E4e3JL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24668,7 +24615,7 @@
     <item>
       <g:id>B0GXV5RSV5</g:id>
       <g:title>Emphsism Friggitrice 12L doppio cestello con oblo</g:title>
-      <g:description>Questa air fryer da 12 litri si usa come due zone separate o come un unico vano piu grande, utile quando cambi il numero di porzioni. Ha un oblo con luce interna per seguire la doratura senza aprire, schermo touch e tredici programmi. Tutte le parti a contatto vanno in lavastoviglie.</g:description>
+      <g:description>Friggitrice ad aria XXL da 12 litri complessivi, con due cestelli e uno sportellino trasparente che ti fa vedere la doratura senza aprire. Pensata per famiglie numerose. Il formato e impegnativo: va messa in un angolo dedicato.</g:description>
       <g:link>https://www.pickforme.it/prodotto/emphsism-airfryer-12l-oblo-doppio-cestello/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71Fm15zJyEL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71elYtmdb2L._AC_SL1500_.jpg</g:additional_image_link>
@@ -24685,7 +24632,7 @@
     <item>
       <g:id>B0GL8SFVCS</g:id>
       <g:title>Emphsism Forno friggitrice ad aria 23L</g:title>
-      <g:description>Con 23 litri e il formato a sportello frontale questo modello lavora come un piccolo forno ventilato: ci stanno teglie, un pollo intero o piu vassoi insieme. Puoi usarlo a zona singola o doppia e le parti interne si lavano in lavastoviglie. E piu una via di mezzo forno-friggitrice che un cestello classico.</g:description>
+      <g:description>Un forno ventilato da 23 litri che fa anche da friggitrice ad aria: ci infili la teglia, la pizza o la griglia con porzioni piu grandi del cestello classico. Il formato e da fornetto da banco, con lo sportello frontale. Meno pratico da svuotare di una friggitrice classica.</g:description>
       <g:link>https://www.pickforme.it/prodotto/emphsism-forno-friggitrice-23l-afto/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/81DIFDYY9ZL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/81qov9zrr2L._AC_SL1500_.jpg</g:additional_image_link>
@@ -24702,7 +24649,7 @@
     <item>
       <g:id>B0CV15NV77</g:id>
       <g:title>LEHMANN XXL 8L con divisorio</g:title>
-      <g:description>La LEHMANN da 8 litri ha un solo cestello con un divisorio che puoi togliere: con il separatore cuoci due cibi insieme, senza hai tutto lo spazio per una porzione grande. Pannello digitale con dodici modalita, temperatura da 76 a 200 gradi e cestello lavabile in lavastoviglie. Prezzo tra i piu bassi della selezione.</g:description>
+      <g:description>Friggitrice ad aria da 8 litri con un divisore che puoi togliere o inserire al bisogno: ti serve una sola camera di cottura grande, lo togli; vuoi separare patatine e pollo, lo rimetti. Non e come avere due cestelli veri, ma costa molto meno.</g:description>
       <g:link>https://www.pickforme.it/prodotto/lehmann-airfryer-8l-divisorio-rimovibile/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/715VCp0vtGL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/717yGDqDrrL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24719,7 +24666,7 @@
     <item>
       <g:id>B0FWKR2KGV</g:id>
       <g:title>Philips Airfryer 5000 7,2L Vapore</g:title>
-      <g:description>La Airfryer 5000 unisce la frittura ad aria a una funzione vapore, utile per mantenere morbidi dentro pane, verdure e secondi mentre fuori dorano. Cestello da 7,2 litri adatto a una famiglia, controllo da app e parti lavabili in lavastoviglie. Marchio consolidato, prezzo di fascia alta.</g:description>
+      <g:description>Una 5000 Series da 7,2 litri che combina il getto d&apos;aria calda con una funzione vapore: utile per pane, verdure e tutto quello che la sola aria tende a seccare. Il marchio garantisce assistenza seria. Paghi queste due cose.</g:description>
       <g:link>https://www.pickforme.it/prodotto/philips-airfryer-5000-7-2l-vapore-na540/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61oUSpvOoRL._AC_SL1000_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61rSDEpRutL._AC_SL1000_.jpg</g:additional_image_link>
@@ -24736,7 +24683,7 @@
     <item>
       <g:id>B0H7K2NZJ5</g:id>
       <g:title>Bosch MAFD490B0 10L</g:title>
-      <g:description>La Bosch MAFD490B0 ha un ampio cestello da 10 litri con un divisore interno, cosi puoi tenere separati due alimenti o usare tutto lo spazio per una porzione grande. Arriva a 230 gradi ed e firmata Bosch, con la qualita costruttiva che il marchio porta di solito. Ha ancora poche recensioni perche e un modello recente.</g:description>
+      <g:description>Bosch entra nelle friggitrici XXL con 10 litri in un cestello unico, dotato di divisore interno quando serve separare due cibi. La fiducia nel marchio e il vero motivo d&apos;acquisto. Modello recente, quindi il feedback online e ancora in costruzione.</g:description>
       <g:link>https://www.pickforme.it/prodotto/bosch-mafd490b0-airfryer-10l/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/616hjwMB7AL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71YskZckfOL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24753,7 +24700,7 @@
     <item>
       <g:id>B07F9NGRKF</g:id>
       <g:title>EWA A106</g:title>
-      <g:description>È minuscola e pesa 176 grammi, quindi la infili in tasca o nello zaino senza accorgertene. La certificazione IP67 la rende buona per doccia e campeggio, e la batteria regge circa 6 ore. Per la musica, non per le chiamate.</g:description>
+      <g:description>Un diffusore Bluetooth minuscolo che entra in tasca e regge la doccia, la bici o lo zaino da trekking. La potenza di 3 watt e pensata per l&apos;ascolto personale, non per sonorizzare una stanza. Nella scatola trovi anche custodia e moschettone.</g:description>
       <g:link>https://www.pickforme.it/prodotto/ewa-a106/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61FbWdgk2kL._AC_SL1000_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61U42WA8QDL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24770,7 +24717,7 @@
     <item>
       <g:id>B08FDPW8KR</g:id>
       <g:title>Ortizan X10</g:title>
-      <g:description>Con 24 W di potenza dichiarata se la cava anche all&apos;aperto, e la batteria arriva a 30 ore, così non la ricarichi di continuo. È impermeabile IPX7 e ha il microfono per rispondere alle chiamate. Le luci RGB sono un extra che puoi spegnere.</g:description>
+      <g:description>Diffusore Bluetooth versatile per casa, giardino e gita, con una batteria che regge una giornata intera di musica e un prezzo che non spaventa. Resiste alla pioggia e agli schizzi. Le luci RGB sotto la griglia dividono i gusti.</g:description>
       <g:link>https://www.pickforme.it/prodotto/ortizan-x10/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/812GU9ueo-L._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71oxI-+nfYL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24787,7 +24734,7 @@
     <item>
       <g:id>B0BN7VCKNK</g:id>
       <g:title>BOGASING M5</g:title>
-      <g:description>Dichiara 40 W con doppi driver e radiatori passivi, quindi tiene bene il volume e i bassi anche all&apos;aperto. È impermeabile IPX7 e può restare immersa per circa mezz&apos;ora. La batteria arriva fino a 30 ore e ha tre modalità di equalizzazione.</g:description>
+      <g:description>Diffusore Bluetooth pensato per feste in giardino: 40 watt dichiarati, bassi corposi grazie al radiatore passivo e autonomia lunga. Il prezzo resta medio. Non lo metti in tasca.</g:description>
       <g:link>https://www.pickforme.it/prodotto/bogasing-m5/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61WD68+yurL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71fq4cUXK2L._AC_SL1500_.jpg</g:additional_image_link>
@@ -24804,7 +24751,7 @@
     <item>
       <g:id>B0CZRMRQ3Y</g:id>
       <g:title>Xiaomi Sound Outdoor</g:title>
-      <g:description>Monta un tweeter da 10 W e un woofer da 20 W per 30 W complessivi, con alti chiari e bassi presenti. È impermeabile IP67, pesa 597 grammi e dichiara oltre 12 ore di autonomia. Puoi abbinarne due in stereo con la funzione TWS.</g:description>
+      <g:description>Cassa Bluetooth da 30 watt firmata Xiaomi, con tweeter e woofer separati e certificazione IP67 per uso all&apos;aperto. Puoi abbinarne due in stereo quando servono. Autonomia e peso restano nella media.</g:description>
       <g:link>https://www.pickforme.it/prodotto/xiaomi-sound-outdoor/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61dauWyqjeL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/710qZRkwuUL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24821,7 +24768,7 @@
     <item>
       <g:id>B0GXFCCRZH</g:id>
       <g:title>Nevoke N06W spazzolino rotante con 8 testine</g:title>
-      <g:description>Uno spazzolino con testina tonda rotante, l&apos;approccio classico alla pulizia dente per dente. Nella scatola trovi 8 testine, abbastanza per un paio d&apos;anni, più la custodia da viaggio. Ha 5 modalità e il timer da 2 minuti. Un marchio meno noto ma con una dotazione completa a un prezzo contenuto.</g:description>
+      <g:description>Spazzolino elettrico con testina tonda rotante, lo stesso principio di pulizia dente per dente degli Oral-B, ma a prezzo molto piu basso e con otto testine incluse (ti durano circa due anni). Batteria dichiarata fino a 120 giorni e custodia da viaggio compresa. Marchio poco conosciuto.</g:description>
       <g:link>https://www.pickforme.it/prodotto/nevoke-n06w-spazzolino-rotante/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71rJzrJm-bL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71ieQ9IUHxL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24838,7 +24785,7 @@
     <item>
       <g:id>B0D9BDV6JT</g:id>
       <g:title>7MAGIC D36 spazzolino sonico con 6 testine</g:title>
-      <g:description>Uno spazzolino sonico da 40.000 vibrazioni al minuto, con 5 modalità e un&apos;autonomia dichiarata di 180 giorni, così lo ricarichi di rado. Ha il timer da 2 minuti e viene con 6 testine. Non è un marchio famoso, ma ha accumulato parecchie migliaia di recensioni con un giudizio nel complesso buono.</g:description>
+      <g:description>Spazzolino sonico da 40.000 vibrazioni al minuto, con sei testine incluse e un&apos;autonomia dichiarata di sei mesi. Oltre 4.000 recensioni gli danno un voto solido. L&apos;alimentatore da presa non e nella scatola.</g:description>
       <g:link>https://www.pickforme.it/prodotto/7magic-d36-spazzolino-sonico/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71i4bam1czL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/7172PPYG5vL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24855,7 +24802,7 @@
     <item>
       <g:id>B0H265MJWF</g:id>
       <g:title>Novalun N07W spazzolino rotante con 8 testine</g:title>
-      <g:description>Spazzolino con testina rotonda rotante, 5 modalità e funzione memoria che ricorda l&apos;ultima impostazione. Include 8 testine e un supporto da parete con ricarica a induzione, comodo per tenere il bagno in ordine. L&apos;autonomia dichiarata è di circa 60 giorni e il voto medio di chi lo usa è alto.</g:description>
+      <g:description>Spazzolino rotante pensato per uso famigliare: otto testine con anelli colorati per distinguere chi lo usa, supporto a parete con ricarica a induzione per tenere ordinato il bagno. Valutazione alta tra chi lo ha provato. Adattatore da presa non incluso.</g:description>
       <g:link>https://www.pickforme.it/prodotto/novalun-n07w-spazzolino-rotante/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71jvG2Z36cL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/710V66J2YWL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24872,7 +24819,7 @@
     <item>
       <g:id>B0F1TQRVJK</g:id>
       <g:title>HYCHIKA spazzolino sonico 240 giorni con 8 testine</g:title>
-      <g:description>Uno spazzolino sonico semplice e diretto: 3 modalità, 31.000 vibrazioni al minuto e un&apos;autonomia dichiarata fino a 240 giorni, il punto forte del prodotto. Arriva con 8 testine confezionate singolarmente e il timer da 2 minuti. Ricarica USB-C. Prezzo basso per chi vuole il sonico senza fronzoli.</g:description>
+      <g:description>Spazzolino sonico semplice ma ben fatto: tre modalita chiare, 31.000 vibrazioni e una batteria dichiarata 240 giorni. Otto testine imbustate singolarmente ti coprono per circa due anni. Niente sensore di pressione, niente custodia da viaggio.</g:description>
       <g:link>https://www.pickforme.it/prodotto/hychika-spazzolino-sonico-240-giorni/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61K6TkmFiYL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61aiAqM8zgL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24889,7 +24836,7 @@
     <item>
       <g:id>B0CKR3SKWT</g:id>
       <g:title>Coulax Pro spazzolino sonico con 8 testine</g:title>
-      <g:description>Un sonico economico da 40.000 vibrazioni al minuto, con 5 modalità e timer da 2 minuti. Include 8 testine DuPont e dichiara fino a 120 giorni di autonomia, ricaricabile anche da power bank o laptop. È tra i sonici low cost più venduti e recensiti, con un giudizio medio buono anche se non altissimo.</g:description>
+      <g:description>Uno dei sonici piu venduti della fascia bassa, con 40.000 vibrazioni, cinque modalita e otto testine DuPont incluse. Oltre 3.000 recensioni lo rendono uno dei piu testati sulla piazza. Marchio poco noto, voto buono ma non eccellente.</g:description>
       <g:link>https://www.pickforme.it/prodotto/coulax-pro-spazzolino-sonico-8-testine/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71IaokUFcgL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61uAcDCStdL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24906,7 +24853,7 @@
     <item>
       <g:id>B0FCMNPN7H</g:id>
       <g:title>Beurer SC 50 spazzolino sonico</g:title>
-      <g:description>Lo spazzolino sonico di Beurer, marchio tedesco noto nella cura della persona. Lavora con 80.000 vibrazioni al minuto dichiarate e ha il sensore di pressione, utile per chi tende a premere troppo sulle gengive. C&apos;è il timer di spazzolatura. La scheda su Amazon è però avara di dettagli su modalità e autonomia.</g:description>
+      <g:description>Spazzolino Beurer con tecnologia sonica dichiarata a 80.000 vibrazioni e sensore che avvisa quando spingi troppo sulle gengive. Marchio affermato nella cura della persona. La scheda non dettaglia modalita e autonomia, quindi aspettati meno informazioni prima dell&apos;acquisto.</g:description>
       <g:link>https://www.pickforme.it/prodotto/beurer-sc-50-spazzolino-sonico/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/81bZQKxlrrL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/713o-8BzckL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24923,7 +24870,7 @@
     <item>
       <g:id>B0GJT12LBL</g:id>
       <g:title>BarberBoss QR-7306 spazzolino sonico con 6 testine</g:title>
-      <g:description>Uno spazzolino sonico venduto come kit da viaggio: include 6 testine, 4 standard con setole DuPont e 2 mini per le zone più difficili, più una custodia rigida. La valutazione dei primi acquirenti è buona, ma le recensioni sono ancora poche e la scheda non dichiara modalità e autonomia nel dettaglio.</g:description>
+      <g:description>Spazzolino sonico in versione kit completo: sei testine (quattro standard con setole DuPont e due mini per gli angoli difficili) e una custodia rigida da viaggio gia pronta. Buone recensioni, ma ancora poche. La scheda non dichiara modalita e autonomia.</g:description>
       <g:link>https://www.pickforme.it/prodotto/barberboss-qr7306-spazzolino-sonico/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71xmJUNim1L._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/81vrJeYxgRL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24940,7 +24887,7 @@
     <item>
       <g:id>B0DLC5GSTQ</g:id>
       <g:title>Samsung S30GD (S24D302) 24&quot;</g:title>
-      <g:description>Un 24 pollici con pannello IPS, quindi colori e angoli di visione buoni anche se lo guardi di lato. I 100Hz rendono il movimento del mouse e lo scorrimento piu&apos; fluidi rispetto ai soliti 60Hz, senza chiedere una scheda video potente. La risoluzione Full HD su 24 pollici resta nitida da distanza di scrivania.</g:description>
+      <g:description>Monitor Samsung da 24 pollici Full HD con pannello IPS a 100Hz: colori fedeli, angoli di visione comodi e una fluidita superiore al 60Hz base. Pensato per lavoro, studio e navigazione. Niente USB-C e base non regolabile.</g:description>
       <g:link>https://www.pickforme.it/prodotto/samsung-s30gd-s24d302-24-fhd/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71HB90SqNHL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71mDK7yQ+nL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24957,7 +24904,7 @@
     <item>
       <g:id>B0F5HRV2TN</g:id>
       <g:title>MSI MAG 242F 24&quot; 200Hz</g:title>
-      <g:description>Qui il pezzo forte sono i 200Hz su pannello Rapid IPS: vuol dire immagine molto fluida nei giochi veloci e colori migliori dei vecchi monitor TN economici. Il Full HD su 24 pollici spinge bene anche con schede video di fascia media, senza chiederti un PC costoso per sfruttarlo.</g:description>
+      <g:description>Monitor MSI da 24 pollici con pannello Rapid IPS a 200Hz: la fluidita che cerchi negli sparatutto, con colori migliori dei vecchi TN economici. Full HD facile da spingere anche con schede video di fascia media. Base senza regolazione in altezza dichiarata.</g:description>
       <g:link>https://www.pickforme.it/prodotto/msi-mag-242f-24-fhd-200hz/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/715384udzgL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/717aythi0ZL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24974,7 +24921,7 @@
     <item>
       <g:id>B0CV3TM2WH</g:id>
       <g:title>AOC 24B3HA2 24&quot; con altoparlanti</g:title>
-      <g:description>Un 24 pollici Full HD pensato per la scrivania di tutti i giorni, con il vantaggio degli altoparlanti integrati: niente cavi o casse esterne per avere l&apos;audio di base da video e chiamate. I 100Hz danno uno scorrimento piu&apos; morbido del solito e ci sono sia VGA che HDMI, comodo se colleghi anche un PC vecchio.</g:description>
+      <g:description>Monitor da scrivania economico con altoparlanti integrati: se non vuoi accessori extra sulla scrivania, l&apos;audio di base ce l&apos;hai subito. Full HD a 100Hz per uno scorrimento fluido, ingressi VGA e HDMI anche per PC datati. Il pannello non e dichiarato come IPS.</g:description>
       <g:link>https://www.pickforme.it/prodotto/aoc-24b3ha2-24-fhd-speaker/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/715T1cmji+L._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71fUQP7zNyL._AC_SL1500_.jpg</g:additional_image_link>
@@ -24991,7 +24938,7 @@
     <item>
       <g:id>B0CX9DVZDP</g:id>
       <g:title>AOC 27B3HA2 27&quot; IPS</g:title>
-      <g:description>Un 27 pollici con pannello IPS e altoparlanti integrati, a un prezzo da ingresso gamma. I 120Hz rendono tutto piu&apos; fluido e il formato grande da&apos; respiro quando tieni aperte piu&apos; finestre. Da tenere presente che la risoluzione resta Full HD su 27 pollici, quindi i dettagli sono meno fitti rispetto a uno schermo piu&apos; piccolo con gli stessi pixel.</g:description>
+      <g:description>Schermo grande a basso prezzo: 27 pollici IPS con 120Hz e altoparlanti integrati. Preferisci la superficie a schermo rispetto alla nitidezza assoluta, perche su 27 pollici il Full HD mostra qualche pixel. Un solo ingresso HDMI.</g:description>
       <g:link>https://www.pickforme.it/prodotto/aoc-27b3ha2-27-fhd-ips/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71e1awHiDtL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71SYuYzLGZL._AC_SL1500_.jpg</g:additional_image_link>
@@ -25008,7 +24955,7 @@
     <item>
       <g:id>B0F9YSJJG2</g:id>
       <g:title>Philips 27E2N1500L 27&quot; QHD</g:title>
-      <g:description>Qui la differenza la fa la risoluzione QHD: su 27 pollici i 2560x1440 pixel danno molto piu&apos; dettaglio del Full HD, il testo e&apos; piu&apos; definito e hai piu&apos; spazio reale per lavorare. Pannello IPS per colori e angoli di visione buoni, con HDMI e DisplayPort per collegare quello che ti serve.</g:description>
+      <g:description>Monitor Philips da 27 pollici QHD con pannello IPS: il livello di nitidezza che serve davvero quando stai tante ore davanti al testo. HDMI e DisplayPort entrambi presenti, base non regolabile. I 75Hz vanno bene per il lavoro, non per il gaming veloce.</g:description>
       <g:link>https://www.pickforme.it/prodotto/philips-27e2n1500l-27-qhd/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71LEo2ShJvL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71D-l+jH2rL._AC_SL1500_.jpg</g:additional_image_link>
@@ -25025,7 +24972,7 @@
     <item>
       <g:id>B0F29RH4RY</g:id>
       <g:title>Dell S2725QS 27&quot; 4K 120Hz</g:title>
-      <g:description>Un 27 pollici che mette insieme due cose che di solito non vanno a braccetto: la risoluzione 4K, che su questa diagonale rende tutto molto definito, e i 120Hz, che danno una fluidita&apos; insolita per un monitor 4K di questo prezzo. Pannello IPS per colori fedeli, adatto sia al lavoro di precisione sia a film e qualche gioco.</g:description>
+      <g:description>Dell mette insieme due cose che di solito restano separate in questa fascia: il 4K su 27 pollici e il refresh a 120Hz. Risultato: massimo dettaglio per lavoro, foto e film, con una fluidita inconsueta a questo prezzo in 4K. Serve pero un PC abbastanza potente per sfruttarlo.</g:description>
       <g:link>https://www.pickforme.it/prodotto/dell-s2725qs-27-4k-120hz/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71Ja+uEiW8L._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71hgGazVC3L._AC_SL1500_.jpg</g:additional_image_link>
@@ -25533,6 +25480,125 @@
       <g:mpn>B0GHZDTYQ4</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Macchine da caffè</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CWLHSKYC</g:id>
+      <g:title>Aqara Smart Home Hub M3</g:title>
+      <g:description>Il cervello che Aqara ha pensato per chi fa sul serio con la casa smart: parla Zigbee, Bluetooth, Wi-Fi e si alimenta via PoE (Power over Ethernet), quindi ti basta un cavo di rete dal router e lo nascondi nel sottoscala o nel quadro. Funziona da Matter controller e da Thread border router, cioe&apos; fa da traduttore universale fra sensori Zigbee, prese Matter e dispositivi Thread come se fossero della stessa famiglia. Dentro ha anche il telecomando a infrarossi, utile per pilotare televisori e climatizzatori senza Wi-Fi. L&apos;automazione e&apos; locale: se la connessione cade, le routine continuano a girare in casa. Costa piu&apos; di un hub base ed e&apos; pensato per chi ne ha davvero bisogno.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/aqara-hub-m3/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61sFQ557qNL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61LSu3U32sL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/618G2xwfmeL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71UAHm795YL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>159.99 EUR</g:price>
+      <g:brand>Aqara</g:brand>
+      <g:mpn>B0CWLHSKYC</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Sicurezza casa smart</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CM3KGFGB</g:id>
+      <g:title>X-Sense SC07-WX Rilevatore Fumo e CO WiFi</g:title>
+      <g:description>Un rilevatore che fa due lavori insieme: ti avvisa se prende fuoco qualcosa e se c&apos;e&apos; monossido di carbonio in aria, il gas inodore che esce dalle caldaie difettose e che puo&apos; ammazzarti nel sonno. Dentro ha il Wi-Fi, quindi oltre a suonare in casa ti manda la notifica sul telefono quando sei al lavoro o in vacanza, cosi&apos; puoi chiamare chi di dovere anche da lontano. La batteria dichiarata dura dieci anni, poi si butta via tutto il sensore. E&apos; certificato EN 14604 e EN 50291, le due norme che contano per abitazioni italiane. Da sapere: se salta la corrente il Wi-Fi va giu&apos;, l&apos;allarme locale suona comunque ma la notifica non parte.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/xsense-sc07-wx/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71Mru9C3fDL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61B35m+1OML._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71uNyz1qIbL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71BesidbvxL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>49.99 EUR</g:price>
+      <g:brand>X-Sense</g:brand>
+      <g:mpn>B0CM3KGFGB</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Sicurezza casa smart</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F6436L5P</g:id>
+      <g:title>Ring Battery Video Doorbell 2K Plus</g:title>
+      <g:description>Il videocitofono a batteria piu&apos; aggiornato della gamma Ring: la risoluzione e&apos; 2K con un&apos;inquadratura verticale, quindi vedi la persona per intero con il pacco in mano, non solo la faccia. Lo zoom digitale arriva a 6 ingrandimenti, utile per leggere una targa in strada o capire chi sta citofonando dall&apos;altro lato del cancello. La batteria si sgancia in due secondi e la ricarichi senza smontare il campanello dalla parete, un dettaglio che fa la differenza se abiti al primo piano. Per rivedere i video registrati serve un abbonamento Ring Protect: salvataggio locale non ne tiene, solo cloud. Se hai un Echo Show o Alexa, la citofonata ti arriva sullo schermo prima di aprire.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ring-battery-doorbell-2k-plus/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61D8O7qch-L._SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51U+Od-a9-L._SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71B6yT1NjvL._SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61UtCvlpSbL._SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>179.99 EUR</g:price>
+      <g:brand>Ring</g:brand>
+      <g:mpn>B0F6436L5P</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Sicurezza casa smart</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DFVY6HS9</g:id>
+      <g:title>SONOFF SNZB-05P Sensore Perdita Acqua Zigbee</g:title>
+      <g:description>Una pastiglia bianca grande come una moneta da due euro che metti dietro la lavatrice, sotto il lavandino o accanto alla caldaia. Appena il contatto sente acqua, spara una notifica all&apos;app: scopri la perdita prima che arrivi al parquet dell&apos;altra stanza. Lavora via Zigbee, quindi serve un hub compatibile (il bridge SONOFF, Zigbee2MQTT, Home Assistant, o anche un Aqara M3 che gli fa da ponte), non va direttamente in Wi-Fi. La batteria e&apos; una CR2 standard da pochi centesimi, dura circa due anni e la cambi in un secondo. Il costo e&apos; davvero basso: metterne tre o quattro in casa e&apos; un&apos;assicurazione silenziosa contro i danni da acqua.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/sonoff-snzb-05p-water/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61LtuECcpFL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/7197qlVXw6L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71gmXLAqSVL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71o+SxvoCnL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>18.48 EUR</g:price>
+      <g:brand>SONOFF</g:brand>
+      <g:mpn>B0DFVY6HS9</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Sicurezza casa smart</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CQR7V9JG</g:id>
+      <g:title>Edifier MP230</g:title>
+      <g:description>Cassa portatile Edifier da 20 W con corpo in legno e design retrò anni &apos;50-&apos;60, due driver da 48 mm, Bluetooth 5.0 più AUX e microSD, autonomia dichiarata di 10 ore. Nata per casa e ufficio: suono caldo per una stanza, nessuna protezione contro l&apos;acqua e nessun vivavoce.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/edifier-mp230/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61XNOnatY8L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71y1j3ysGYL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81X5eD46vpL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81dREpZHHLL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>79.99 EUR</g:price>
+      <g:brand>Edifier</g:brand>
+      <g:mpn>B0CQR7V9JG</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F7HVC62G</g:id>
+      <g:title>Bose SoundLink Plus</g:title>
+      <g:description>Cassa Bluetooth Bose di media taglia, 1,53 kg, con protezione IP67 dichiarata contro acqua, polvere e urti, 20 ore di autonomia e porta USB-C che ricarica anche il telefono. Due unità si abbinano in stereo e la sincronizzi con altri speaker Bose via SimpleSync.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/bose-soundlink-plus/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61JGznUrf2L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/617mK2miecL._AC_SL1200_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61qeanLxiQL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71siOcooWtL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>259.82 EUR</g:price>
+      <g:brand>Bose</g:brand>
+      <g:mpn>B0F7HVC62G</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H5CPS4ZQ</g:id>
+      <g:title>Marshall Acton IV</g:title>
+      <g:description>Cassa Marshall da scaffale, non portatile, 80 W dichiarati, con tweeter migliorati per una scena sonora più ampia, bassi ottimizzati e volume dinamico che tiene il suono bilanciato anche a volume basso. Si collega in sincronia ad altre Marshall Auracast e porta il pulsante M personalizzabile.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/marshall-acton-iv/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/91LOFTgkCaL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/A1iJcCjb2KL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/91uP5XQNdUL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/91tIEH2rEZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>288.00 EUR</g:price>
+      <g:brand>Marshall</g:brand>
+      <g:mpn>B0H5CPS4ZQ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Casse bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
   </channel>
