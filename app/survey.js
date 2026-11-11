@@ -70,7 +70,15 @@ window.Survey = (function () {
     return _df;
   }
   function idf(w) { const d = df(); return Math.log((_N + 1) / ((d[w] || 0) + 1)) + 0.35; }
-  function strongW(w) { return w.length >= 5 || (df()[w] || 0) <= 1; }
+  /* qualificatori generici: compaiono nelle keyword come aggettivi ("spazzolino
+     ELETTRICO", "cuffie BLUETOOTH") ma non sono mai il sostantivo principale di
+     una categoria. Da soli NON devono bastare a dichiarare un match: altrimenti
+     "bicicletta elettrica" o "tastiera bluetooth" (categorie non coperte)
+     aggancerebbero spazzolini/cuffie sul solo aggettivo. Match per prefisso per
+     coprire genere/numero (elettrico/a/i/e). */
+  const GENERIC = ['elettric', 'bluetooth', 'wireless', 'cordless', 'portatil', 'ricaricabil', 'automatic', 'professional', 'digitale', 'digitali', 'smart'];
+  function isGeneric(w) { return GENERIC.some(g => w.indexOf(g) === 0); }
+  function strongW(w) { return !isGeneric(w) && (w.length >= 5 || (df()[w] || 0) <= 1); }
   function detect(text) {
     const t = norm(text); if (t.length < 2) return { v: null, alts: [] };
     const qw = t.split(/[^a-z0-9]+/).filter(Boolean);
