@@ -109,6 +109,22 @@ window.Survey = (function () {
     const top = scored[0];
     return { v: (top.sc >= 6 && top.strong) ? top.v : null, alts: scored.slice(0, 3).map(x => x.v) };
   }
+  /* Autocomplete discovery (11/11/26): mentre l'utente digita, suggeriamo le
+     categorie che corrispondono (prefisso di parola, esclusi i qualificatori
+     generici). Riduce i "non copriamo" e mostra subito cosa copriamo davvero.
+     Volutamente semplice e prevedibile: prefisso su nome/singolare/keyword. */
+  function suggest(text) {
+    const t = norm(text); if (t.length < 2) return [];
+    const words = t.split(/[^a-z0-9]+/).filter(w => w.length >= 2 && !STOPW[w]);
+    if (!words.length) return [];
+    const scored = liveVerts().map(v => {
+      const hw = norm((v.name || '') + ' ' + (v.singular || '') + ' ' + (v.keywords || '')).split(/[^a-z0-9]+/);
+      let s = 0;
+      words.forEach(w => { if (hw.some(x => x.length >= 2 && x.indexOf(w) === 0 && !isGeneric(x))) s += w.length + 2; });
+      return { v, s };
+    }).filter(x => x.s > 0).sort((a, b) => b.s - a.s);
+    return scored.slice(0, 6).map(x => x.v);
+  }
   /* pre-risposte dal testo: "sotto 300", "con animali", "8 ore" ecc. */
   function preanswers(v, text) {
     const t = norm(text); const a = {};
@@ -240,7 +256,7 @@ window.Survey = (function () {
     let html = '<div class="finder">';
     /* barra di ricerca conversazionale: sempre in cima */
     if (!v) {
-      html += '<form class="ask" data-sv-form><input type="text" name="q" autocomplete="off" enterkeyhint="search" placeholder="' + esc(opts.placeholder || 'Scrivi cosa ti serve, poi premi invio') + '" value="' + esc(st.text || '') + '" aria-label="Cosa ti serve"><button class="btn-orange" type="submit">Cerca</button></form>';
+      html += '<form class="ask" data-sv-form><input type="text" name="q" autocomplete="off" enterkeyhint="search" placeholder="' + esc(opts.placeholder || 'Scrivi cosa ti serve, poi premi invio') + '" value="' + esc(st.text || '') + '" aria-label="Cosa ti serve"><button class="btn-orange" type="submit">Cerca</button></form><div class="svac" data-sv-ac role="listbox" hidden></div>';
       if (st.miss) {
         const alts = detect(st.text).alts;
         html += '<div class="crow me"><b>Non copriamo ancora questa categoria.</b><span>Per ora scegliamo solo dove sbagliare costa: ' +
@@ -340,8 +356,19 @@ window.Survey = (function () {
         if (el.__svFocused) return; el.__svFocused = true;
         track('engine_focus', { vertical: st.vid || opts.vid || '', page_path: location.pathname });
       });
+      /* autocomplete: aggiorna solo il box suggerimenti, senza ridisegnare
+         l'isola (il campo non perde il focus mentre si digita). */
+      el.addEventListener('input', e => {
+        const inp = e.target.closest('[data-sv-form] input'); if (!inp) return;
+        const box = el.querySelector('[data-sv-ac]'); if (!box) return;
+        const sg = suggest(inp.value);
+        if (!sg.length) { box.hidden = true; box.innerHTML = ''; return; }
+        box.innerHTML = sg.map(v => '<button type="button" class="svac-item" data-sv="cat" data-v="' + v.id + '"><span>' + esc(v.name) + '</span><small aria-hidden="true">›</small></button>').join('');
+        box.hidden = false;
+      });
       el.addEventListener('submit', e => {
         const f = e.target.closest('[data-sv-form]'); if (!f) return; e.preventDefault();
+        const box = el.querySelector('[data-sv-ac]'); if (box) { box.hidden = true; box.innerHTML = ''; }
         const text = f.querySelector('input').value.trim(); st.text = text; st.miss = false;
         const d = detect(text);
         if (d.v) { st.vid = d.v.id; st.answers = preanswers(d.v, text); } else { st.miss = true; }
