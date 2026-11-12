@@ -30,7 +30,7 @@ D: "una scrivania regolabile in altezza elettrica sotto 400 €"
 R: Categoria → Scrivanie regolabili (https://www.pickforme.it/categoria/scrivanie-regolabili/). Scelta PickForMe: SONGMICS 160x70 bianco nuvola 4 memorie a €145,99. Scheda: https://www.pickforme.it/prodotto/songmics-lsd-160x70-bianco-nuvola-4942/
 
 D: "un deumidificatore per un appartamento da 100 m²"
-R: Categoria → Deumidificatori (https://www.pickforme.it/categoria/deumidificatori/). Scelta PickForMe: Comfee Comfee' MDDF-16DEN7 WF 16L a €149,90. Scheda: https://www.pickforme.it/prodotto/comfee-mddf-16den7-wf/
+R: Categoria → Deumidificatori (https://www.pickforme.it/categoria/deumidificatori/). Scelta PickForMe: Comfee Comfeè MDDF-16DEN7 WF 16L a €149,90. Scheda: https://www.pickforme.it/prodotto/comfee-mddf-16den7-wf/
 
 D: "un obiettivo Sony E-mount per paesaggi"
 R: Categoria → Obiettivi fotografici (https://www.pickforme.it/categoria/obiettivi-fotografici/). Scelta PickForMe: Sony FE 50mm f/1.2 GM (SEL50F12GM) a €1764,75. Scheda: https://www.pickforme.it/prodotto/sony-fe-50-f12-gm/
@@ -111,7 +111,7 @@ Scelta principale: De'Longhi Rivelia — €551,06, 4.3/5 su 632 recensioni. Riv
 Scheda: https://www.pickforme.it/prodotto/delonghi-rivelia/
 Alternativa economica: Lavazza A Modo Mio Jolie Evo — €82,99, 4.6/5 su 4171 recensioni. A Modo Mio in 12 cm: silenziosa, semplice, dosi a piacere
 Scheda: https://www.pickforme.it/prodotto/lavazza-jolie-evo-nera/
-Scelta premium: Sage The Barista Touch Impress (SES881, acciaio inox nero) — €1299,90, 4.4/5 su 100 recensioni. Espresso manuale con macinacaffe' integrato, guida sul display touch e cappuccino automatico.
+Scelta premium: Sage The Barista Touch Impress (SES881, acciaio inox nero) — €1299,90, 4.4/5 su 100 recensioni. Espresso manuale con macinacaffè integrato, guida sul display touch e cappuccino automatico.
 Scheda: https://www.pickforme.it/prodotto/sage-barista-touch-impress-ses881/
 
 ## Scrivanie regolabili
@@ -127,7 +127,7 @@ Scheda: https://www.pickforme.it/prodotto/flexispot-e6-telaio-doppio-motore-160k
 ## Deumidificatori
 Metri quadri, problema da risolvere e dove lo tieni acceso: tre cose decidono il deumidificatore giusto.
 Categoria: https://www.pickforme.it/categoria/deumidificatori/
-Scelta principale: Comfee Comfee' MDDF-16DEN7 WF 16L — €149,90, 4.5/5 su 8219 recensioni. Il best seller da 16 litri con WiFi, per la zona giorno fino a 32 mq.
+Scelta principale: Comfee Comfeè MDDF-16DEN7 WF 16L — €149,90, 4.5/5 su 8219 recensioni. Il best seller da 16 litri con WiFi, per la zona giorno fino a 32 mq.
 Scheda: https://www.pickforme.it/prodotto/comfee-mddf-16den7-wf/
 Alternativa economica: Olimpia Splendid Aquaria Slim 10 P — €92,99, 4.3/5 su 2090 recensioni. Compatto e sottile per la stanza singola, con gas ecologico R290.
 Scheda: https://www.pickforme.it/prodotto/olimpia-aquaria-slim-10-p/
@@ -141,7 +141,7 @@ Scelta principale: Sony FE 50mm f/1.2 GM (SEL50F12GM) — €1764,75, 4.8/5 su 2
 Scheda: https://www.pickforme.it/prodotto/sony-fe-50-f12-gm/
 Alternativa economica: Sigma 18-50mm f/2.8 DC DN Contemporary (Sony E) — €489,29, 4.6/5 su 1688 recensioni. Lo zoom standard luminoso e compatto piu consigliato per le Sony APS-C come la ZV-E10
 Scheda: https://www.pickforme.it/prodotto/sigma-18-50-f28-dcdn-c-sony-e/
-Scelta premium: Sony FE 300mm F2.8 GM OSS (SEL300F28GM) — €6790,00, 5/5 su 11 recensioni. Il tele fisso 300/2.8 GM piu' leggero della categoria: 1470 g con OSS
+Scelta premium: Sony FE 300mm F2.8 GM OSS (SEL300F28GM) — €6790,00, 5/5 su 11 recensioni. Il tele fisso 300/2.8 GM più leggero della categoria: 1470 g con OSS
 Scheda: https://www.pickforme.it/prodotto/sony-fe-300-f28-gm-oss-sel300f28gm/
 
 ## Friggitrici ad aria
@@ -177,7 +177,7 @@ Scheda: https://www.pickforme.it/prodotto/samsung-bespoke-jet-ai-ultra/
 ## Purificatori d'aria
 Un purificatore funziona solo se è dimensionato per la stanza. Dicci quanto è grande e cosa ti dà fastidio nell'aria.
 Categoria: https://www.pickforme.it/categoria/purificatori-aria/
-Scelta principale: Coway Airmega 450 — €499,99, 4.2/5 su 22 recensioni. CADR 734 m3/h e sensore laser PM1: il Coway piu' grande per open-space e allergie serie.
+Scelta principale: Coway Airmega 450 — €499,99, 4.2/5 su 22 recensioni. CADR 734 m3/h e sensore laser PM1: il Coway più grande per open-space e allergie serie.
 Scheda: https://www.pickforme.it/prodotto/coway-airmega-450/
 Alternativa economica: Philips PureProtect Go 500 — €59,08, 4.7/5 su 57 recensioni. Philips HEPA H13 silenzioso da 12 dB, filtro fino a 3 anni, pensato per 25 m2.
 Scheda: https://www.pickforme.it/prodotto/philips-pureprotect-go-500/
@@ -455,14 +455,14 @@ R: Scegli Bosch EasyImpact 600 (€49,95) se Ti serve forare muri normali poche 
 Fonte: https://www.pickforme.it/confronto/utensili-elettrici/bosch-easyimpact-600-vs-makita-dhp482z/
 
 D: Olimpia Splendid Aquaria Slim 10 P o De'Longhi Tasciugo AriaDry Light DNS65?
-R: Scegli Olimpia Splendid Aquaria Slim 10 P (€92,99) se Cerchi un deumidificatore economico e poco ingombrante per una singola stanza o un bagno umido. Scegli De'Longhi Tasciugo AriaDry Light DNS65 (€239,99) se Vuoi tenerlo acceso di notte in camera dove il rumore conta piu' della capacita'.
+R: Scegli Olimpia Splendid Aquaria Slim 10 P (€92,99) se Cerchi un deumidificatore economico e poco ingombrante per una singola stanza o un bagno umido. Scegli De'Longhi Tasciugo AriaDry Light DNS65 (€239,99) se Vuoi tenerlo acceso di notte in camera dove il rumore conta più della capacità.
 Fonte: https://www.pickforme.it/confronto/deumidificatori/olimpia-aquaria-slim-10-p-vs-delonghi-tasciugo-ariadry-light-dns65/
 
 D: Olimpia Splendid Aquaria S1 24 P o De'Longhi Tasciugo AriaDry Light DNS65?
-R: Scegli Olimpia Splendid Aquaria S1 24 P (€228,52) se Vuoi tanta capacita' e filtrazione dell'aria per una casa intera, con gestione da app. Scegli De'Longhi Tasciugo AriaDry Light DNS65 (€239,99) se Vuoi tenerlo acceso di notte in camera dove il rumore conta piu' della capacita'.
+R: Scegli Olimpia Splendid Aquaria S1 24 P (€228,52) se Vuoi tanta capacità e filtrazione dell'aria per una casa intera, con gestione da app. Scegli De'Longhi Tasciugo AriaDry Light DNS65 (€239,99) se Vuoi tenerlo acceso di notte in camera dove il rumore conta più della capacità.
 Fonte: https://www.pickforme.it/confronto/deumidificatori/olimpia-aquaria-s1-24-p-vs-delonghi-tasciugo-ariadry-light-dns65/
 
-# Guide per esigenza e fascia prezzo (le pagine piu' citate dagli assistenti)
+# Guide per esigenza e fascia prezzo (le pagine più citate dagli assistenti)
 
 ## Robot aspirapolvere
 - Migliori robot aspirapolvere sotto 200 euro: https://www.pickforme.it/guida/robot-aspirapolvere/sotto-200-euro/

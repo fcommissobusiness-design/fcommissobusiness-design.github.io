@@ -5,7 +5,7 @@ Allow: /
 # Dichiarare sia index che singole sitemap era segnale duplicato per Google.
 Sitemap: https://www.pickforme.it/sitemap-index.xml
 
-# LLM crawler (GEO). Il blocco wildcard sopra li ammette gia' tutti;
+# LLM crawler (GEO). Il blocco wildcard sopra li ammette già tutti;
 # questi entry espliciti dichiarano l'intento per i crawler che leggono
 # il proprio user-agent: GPTBot/ClaudeBot (training), OAI-SearchBot e
 # PerplexityBot (citazioni live in ChatGPT/Perplexity), Google-Extended
