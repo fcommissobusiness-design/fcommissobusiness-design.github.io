@@ -3,7 +3,7 @@
   <channel>
     <title>PickForMe · You need it. We pick it.</title>
     <link>https://www.pickforme.it/</link>
-    <description>Feed prodotti selezionati del catalogo PickForMe (1575 prodotti · aggiornato 2026-11-13).</description>
+    <description>Feed prodotti selezionati del catalogo PickForMe (1596 prodotti · aggiornato 2026-11-14).</description>
     <item>
       <g:id>B0DCVYS9FQ</g:id>
       <g:title>Dreame L10s Ultra</g:title>
@@ -1039,24 +1039,6 @@
       <g:identifier_exists>yes</g:identifier_exists>
     </item>
     <item>
-      <g:id>B07KWNGNNV</g:id>
-      <g:title>Makita DHP485RTJ (2x5,0 Ah, Makpac)</g:title>
-      <g:description>Versione RTJ del DHP485: stesso trapano avvitatore brushless a percussione del DHP485Z ma con due batterie 18V 5,0 Ah, caricabatterie rapido e valigetta Makpac. 50 Nm, 2 velocità (0-500/0-1.900 giri), mandrino 13 mm, 1,8 kg con batteria 5 Ah. È l&apos;entrata seria nell&apos;ecosistema LXT per chi vuole un kit pronto senza comprare batterie a parte. Prezzo intorno ai 300 €, giustificato dalle due 5 Ah.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/makita-dhp485rtj-2x5ah/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71hZdRTGVJL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/715JbK9uG3L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61LE7RyPRfL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81HsP3CMDFL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>297.97 EUR</g:price>
-      <g:brand>Makita</g:brand>
-      <g:mpn>B07KWNGNNV</g:mpn>
-      <g:gtin>0088381866286</g:gtin>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Trapani e avvitatori</g:google_product_category>
-      <g:identifier_exists>yes</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0C1K2D9K9</g:id>
       <g:title>Ryobi R18PD32-1C20G (18V ONE+, 1x2,0 Ah)</g:title>
       <g:description>Trapano a percussione 18V con 2 velocità (500-1.800 giri), 24 posizioni di coppia, 50 Nm, mandrino autoserrante 13 mm, luce LED e impugnatura ausiliaria. In confezione una batteria 2,0 Ah e caricabatterie: con una sola batteria l&apos;autonomia è limitata per lavori lunghi. Il motore è brushless secondo le schede Amazon DE/FR e i test francesi, ma la pagina italiana non lo dichiara esplicitamente. Ottimo primo utensile per chi vuole poi aggiungere tagliaerba, soffiatore e altri ONE+.</g:description>
@@ -1897,6 +1879,23 @@
       <g:mpn>B079FQVVGQ</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Deumidificatori</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CD7Q87QS</g:id>
+      <g:title>Polti Coffea S15B</g:title>
+      <g:description>Macchina dedicata esclusivamente alle cialde in carta E.S.E. da 44 mm: inserisci la cialda, premi, e quella usata cade da sola nel cassetto. Larga 10,5 cm, è pensata per chi ha pochissimo spazio sul piano e vuole zero manutenzione del portafiltro. In cambio rinuncia a tutto il resto: non accetta macinato né capsule e non ha alcun sistema per il latte.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/polti-coffea-s15b/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61awbXbsSWL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/711gEKBMP-L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71pJ3YtxkeL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/718t6S1bvqL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>109.99 EUR</g:price>
+      <g:brand>Polti</g:brand>
+      <g:mpn>B0CD7Q87QS</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Macchine da caffè</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
@@ -3245,23 +3244,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0CLLRNFB8</g:id>
-      <g:title>SIHOO M102C rete braccioli 3D</g:title>
-      <g:description>Modello SIHOO interamente in rete con schienale alto, lombare regolabile separato, braccioli 3D ribaltabili e poggiatesta regolabile. Portata 136 kg e certificazioni TUV/BIFMA citate. È una scelta equilibrata per chi vuole tutte le regolazioni principali senza salire alla fascia premium. Le recensioni sono numerose (oltre 2500) ma il rating resta sul 4.3.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/sihoo-m102c-rete-braccioli-3d/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61LwJGI55jL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71l0s2dW4TL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61oCaDndPIL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71v0IBLkM3L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>159.99 EUR</g:price>
-      <g:brand>SIHOO</g:brand>
-      <g:mpn>B0CLLRNFB8</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Sedie ergonomiche</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0H26GXR6L</g:id>
       <g:title>Durrafy rete poggiatesta e lombare regolabili</g:title>
       <g:description>Sedia economica in rete che a meno di 100 euro offre sia poggiatesta regolabile (7 cm) sia supporto lombare regolabile (5 cm), combinazione rara in questa fascia. Schienale inclinabile da 90 a 120 gradi ma non bloccabile, braccioli regolabili solo in altezza, portata 150 kg. Buon compromesso per chi vuole le regolazioni chiave spendendo poco.</g:description>
@@ -3325,6 +3307,23 @@
       <g:price>149.99 EUR</g:price>
       <g:brand>MELOKEA</g:brand>
       <g:mpn>B0993SRSPV</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Sedie ergonomiche</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F66ZB6DL</g:id>
+      <g:title>DEVAISE rete lombare regolabile poggiatesta 3D</g:title>
+      <g:description>A poco più di 70 euro la DEVAISE offre schienale segmentato a C regolabile in profondità, lombare regolabile e poggiatesta 3D (altezza, profondità e rotazione fino a 55 gradi), più funzione dondolante. Schienale e seduta in rete 3D, pistone a gas certificato SGS classe 3 e TUV. Ottimo rapporto funzioni/prezzo; la portata massima non è però indicata e i braccioli sono solo ribaltabili.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/devaise-lombare-regolabile-poggiatesta-3d/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71sK1BJY7QL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/719LUW5SSkL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ep32WnXQL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71kiYNHpnJL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>72.19 EUR</g:price>
+      <g:brand>DEVAISE</g:brand>
+      <g:mpn>B0F66ZB6DL</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Sedie ergonomiche</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -4117,22 +4116,6 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Macchine da caffè</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B01FOAFWLW</g:id>
-      <g:title>De&apos;Longhi Dinamica ECAM350.15.B</g:title>
-      <g:description>Gradino sopra le automatiche base: display, quattro bevande a tasto diretto e la funzione My per salvare aroma e quantità di ogni caffè. Il serbatoio da 1,8 L estraibile davanti riduce le ricariche ed è comodo se siete in tre o quattro. Il limite è il latte: pannarello manuale, quindi cappuccino e latte macchiato restano un lavoro a mano.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/delonghi-dinamica-ecam350-15b/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61Ph0r3UWfL._AC_SL1200_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/41oc5EJoHSL._AC_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>389.55 EUR</g:price>
-      <g:brand>De&apos;Longhi</g:brand>
-      <g:mpn>B01FOAFWLW</g:mpn>
-      <g:gtin>8004399331143</g:gtin>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Macchine da caffè</g:google_product_category>
-      <g:identifier_exists>yes</g:identifier_exists>
     </item>
     <item>
       <g:id>B0H31Z6LB5</g:id>
@@ -5257,23 +5240,6 @@
       <g:price>303.73 EUR</g:price>
       <g:brand>dreame</g:brand>
       <g:mpn>B0D6ZB7CMY</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0DFX336DH</g:id>
-      <g:title>Shark PowerDetect Clean &amp; Empty</g:title>
-      <g:description>Scopa senza filo con stazione autosvuotante da 2 litri che raccoglie lo sporco fino a 45 giorni e ricarica l&apos;apparecchio. La spazzola rileva sporco, bordi e tipo di pavimento e pulisce anche tirando indietro. Adatta ad allergici e case con animali; è pesante e la base occupa spazio.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/shark-powerdetect-clean-empty/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61K+ri8lZqL._AC_SL1400_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71VCetq1IpL._AC_SL1400_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71Pf2HvohXL._AC_SL1400_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/718AiYhWe8L._AC_SL1400_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>424.99 EUR</g:price>
-      <g:brand>Shark</g:brand>
-      <g:mpn>B0DFX336DH</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -7842,23 +7808,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0DGHYDYJL</g:id>
-      <g:title>Apple AirPods 4 con cancellazione attiva del rumore</g:title>
-      <g:description>AirPods di quarta generazione nella versione con cancellazione attiva del rumore, audio adattivo, Trasparenza, audio spaziale personalizzato e IP54. La forma è aperta, senza gommini, quindi comoda ma meno isolante di un in-ear sigillato. Il limite principale è l&apos;autonomia: 4 ore dichiarate per carica con ANC attiva.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/apple-airpods-4-anc/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61DvMw16ITL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51MlTIMDdsL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/611UypNWn6L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71YvGNTzBTL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>159.00 EUR</g:price>
-      <g:brand>Apple</g:brand>
-      <g:mpn>B0DGHYDYJL</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0FQF32239</g:id>
       <g:title>Apple AirPods Pro 3</g:title>
       <g:description>Auricolari in-ear Apple con cancellazione attiva del rumore, audio adattivo, sensore di frequenza cardiaca per gli allenamenti e certificazione IP57 per auricolari e custodia. L&apos;autonomia dichiarata è di 8 ore per carica con ANC, 24 con la custodia. Il limite è l&apos;ecosistema: fuori da iPhone e Mac restano buoni auricolari, ma perdono buona parte delle funzioni.</g:description>
@@ -8029,23 +7978,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B06XG7485T</g:id>
-      <g:title>NOVEMBER Elekctra ibrido 30 cm 160x200</g:title>
-      <g:description>Matrimoniale ibrido alto 30 cm: 690 molle insacchettate su 7 zone, sopra 2,5 cm di schiuma ventilata e 2,5 cm di memory D50, con bordi rinforzati. Il produttore dichiara indipendenza del letto e portata fino a 250 kg, rigidità media. Manca un periodo di prova e le vendite recenti su questa misura risultano basse.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/november-elekctra-ibrido-30-160x200/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/919L+ycv-AL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71wpQ7g+ZZL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/913Q35AReKL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/91KDuObiumL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>359.99 EUR</g:price>
-      <g:brand>NOVEMBER</g:brand>
-      <g:mpn>B06XG7485T</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Materassi</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B08B7Y7MRG</g:id>
       <g:title>Bedshire Essential memory 23 cm 80x190</g:title>
       <g:description>Materasso singolo in memory foam HD alto 23 cm, con parte superiore in cotone e lato inferiore in tessuto traspirante. Il produttore dichiara 100 giorni di prova e 10 anni di garanzia, un punto a favore per la cameretta di un ragazzo. Il grado di rigidità non è indicato e le recensioni sono divise tra chi lo trova giusto e chi troppo duro.</g:description>
@@ -8109,23 +8041,6 @@
       <g:price>99.00 EUR</g:price>
       <g:brand>Lenovo</g:brand>
       <g:mpn>B0GSH2S75J</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Monitor da scrivania</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0DM679R7F</g:id>
-      <g:title>Acer EK241YGbif</g:title>
-      <g:description>Monitor da 23,8 pollici Full HD con pannello IPS a 120 Hz, AdaptiveSync e attacco VESA, venduto da Amazon. È adatto a chi vuole un primo monitor o un secondo schermo economico per ufficio, studio e giochi leggeri. Ha un solo ingresso HDMI 1.4 più VGA e una luminosità di 250 nit, quindi resta un prodotto base.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/acer-ek241ygbif/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/618iMSLKgOL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71UyoPlJObL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/614mmhYk4eL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51djQlTtDDL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>79.90 EUR</g:price>
-      <g:brand>Acer</g:brand>
-      <g:mpn>B0DM679R7F</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Monitor da scrivania</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -8917,23 +8832,6 @@
       <g:price>118.49 EUR</g:price>
       <g:brand>Sony</g:brand>
       <g:mpn>B0DZ76B7XQ</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Casse bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0CX1XFLCV</g:id>
-      <g:title>Sony ULT Field 7</g:title>
-      <g:description>Cassa Bluetooth portatile di grandi dimensioni con doppi woofer, luci LED, protezione IP67 e 30 ore di autonomia dichiarate. È pensata per feste in giardino o in spiaggia e ha un ingresso per microfono o chitarra. Il peso di 6,3 kg e l&apos;ingombro la rendono poco adatta a chi si sposta a piedi.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/sony-ult-field-7/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61e6y2xIscL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71qyDsXVPwL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/717kE98dE2L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81I8rZt02vL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>306.72 EUR</g:price>
-      <g:brand>Sony</g:brand>
-      <g:mpn>B0CX1XFLCV</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Casse bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -10641,6 +10539,23 @@
       <g:price>149.99 EUR</g:price>
       <g:brand>FLEXISPOT</g:brand>
       <g:mpn>B084KW7N8C</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Scrivanie regolabili</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CQNV8WBS</g:id>
+      <g:title>ErGear telaio doppio motore 4 memorie</g:title>
+      <g:description>Telaio elettrico ErGear a doppio motore, portata 120 kg, altezza 72-120 cm, 4 memorie e compatibile con piani da 110 a 228 cm. Per chi ha già un piano, anche grande, e vuole reggere due monitor senza spendere molto. Il limite: niente piano incluso e scheda muta su rumore e anticollisione.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ergear-telaio-doppio-motore-4-memorie/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61kv3ffOJ4L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ImoK8gA+L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71583W9ZBDL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71hWKXVPVsL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.99 EUR</g:price>
+      <g:brand>ErGear</g:brand>
+      <g:mpn>B0CQNV8WBS</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Scrivanie regolabili</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -12439,6 +12354,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0FHK5JNQM</g:id>
+      <g:title>SONGMICS LSD130 100x60 marrone vintage con USB-C</g:title>
+      <g:description>Scrivania elettrica SONGMICS LSD130 100x60 in finitura marrone vintage. Regolazione 72-120 cm, 4 memorie, porta USB-C con ricarica rapida 20 W, motore silenzioso sotto i 48 dB e portata 70 kg. Adatta a home office piccoli o come postazione secondaria; il piano e in quattro pannelli separati, da tenere presente per l&apos;estetica.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/songmics-lsd130-100x60-vintage/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71CeHKgm9FL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71Tqqnw2gDL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71obIH9-mUL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81hskrD1qlL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>88.99 EUR</g:price>
+      <g:brand>SONGMICS</g:brand>
+      <g:mpn>B0FHK5JNQM</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Scrivanie regolabili</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B0BMG8XJ4W</g:id>
       <g:title>JUMMICO 120x60 bianca con memoria, USB e avviso pausa</g:title>
       <g:description>JUMMICO 120x60 bianca: sit-stand entry con corsa 73-118 cm, pannello 6 tasti e 4 memorie, USB integrata, passacavi e avviso pausa per sedentarieta. Buon rapporto qualita-prezzo sotto i 100 euro; il piano non e in pezzo unico e il costruttore non dichiara in modo pulito la portata massima.</g:description>
@@ -12896,23 +12828,6 @@
       <g:price>298.00 EUR</g:price>
       <g:brand>Marshall</g:brand>
       <g:mpn>B0FBHTGL16</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Casse bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B09GYPYYBQ</g:id>
-      <g:title>Marshall Stanmore III</g:title>
-      <g:description>La Stanmore III è una cassa Bluetooth da tenere fissa in casa: si collega alla presa, eroga 80 W e ha ingressi RCA e jack per giradischi o TV. Non ha batteria né protezione dall&apos;acqua. È una scelta d&apos;arredo oltre che audio.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/marshall-stanmore-iii/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/41SCO-fEVzL._AC_SL1000_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61ntJRHZf0L._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/610LXuwfGYL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/611GExYBVnL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>299.49 EUR</g:price>
-      <g:brand>Marshall</g:brand>
-      <g:mpn>B09GYPYYBQ</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Casse bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -14669,23 +14584,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B09KB7T1VL</g:id>
-      <g:title>Xiaomi Smart Air Purifier 4 Pro</g:title>
-      <g:description>Purificatore Xiaomi di taglia grande con CADR dichiarato di 500 m3/h, modalità notte a 33,7 dB e controllo tramite app Mi Home / Xiaomi Home. Classe HEPA e copertura in metri quadri non sono indicate esplicitamente sulla scheda Amazon: chi vuole numeri certificati per allergie deve chiedere la scheda tecnica al venditore. Pesa 6,8 kg e sta in soggiorno, non è pensato per essere spostato spesso.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/xiaomi-smart-air-purifier-4-pro/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61dOGleKk8L._AC_SL1000_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61c4WduJWxL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61ji9T5RW6L._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61-XPOxvbGL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>256.06 EUR</g:price>
-      <g:brand>Xiaomi</g:brand>
-      <g:mpn>B09KB7T1VL</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Purificatori d'aria</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0CX92GNCX</g:id>
       <g:title>Shark NeverChange MAX HP300</g:title>
       <g:description>Modello XL della gamma Shark NeverChange, dichiarato per ambienti fino a 130 m2 con un ricambio d&apos;aria all&apos;ora. Il filtro a 4 strati NeverChange è dato per 5 anni di durata (test su 28 m2 e 12 ore/giorno), tecnologia Auto IQ per regolazione automatica e app Shark Clean per controllo remoto. Peso 5,7 kg, dimensioni 33,5x33,5x57 cm. Prezzo alto ma niente cambi filtro per anni.</g:description>
@@ -14885,6 +14783,23 @@
       <g:price>178.00 EUR</g:price>
       <g:brand>iRobot</g:brand>
       <g:mpn>B0DV9TBKM1</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Robot aspirapolvere</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0FXX6XRQ6</g:id>
+      <g:title>Lefant M5 Pro</g:title>
+      <g:description>Il Lefant M5 Pro porta la formula rullo-lavante-omni a un prezzo inedito per il segmento: 23.000 Pa di aspirazione dichiarati, rullo continuamente autopulito con acqua calda a 75 gradi, base multifunzione con svuotamento dichiarato fino a 120 giorni e navigazione dToF. È un&apos;alternativa aggressiva a Ecovacs OZMO Roller e Roborock Curv per chi non vuole spendere oltre 400 euro.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/lefant-m5-pro/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/41QLpUFL46L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51T+1yPzfyL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/511wvgD5uJL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41MTLRJto0L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>399.96 EUR</g:price>
+      <g:brand>Lefant</g:brand>
+      <g:mpn>B0FXX6XRQ6</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Robot aspirapolvere</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -16632,6 +16547,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0886LBL8R</g:id>
+      <g:title>ASUS ProArt Display PA278QV</g:title>
+      <g:description>L&apos;ASUS ProArt PA278QV è il 27 pollici QHD IPS da acquistare se lavori con colori che devono essere giusti: calibrato in fabbrica a 100% sRGB con ΔE&lt;2, stand regolabile in altezza con pivot, DisplayPort e HDMI più hub USB. Si ferma a 75 Hz e non ha USB-C, quindi non è un monitor da gioco né il più comodo per chi lavora solo con portatile.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/asus-proart-pa278qv/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/81OIPIq7H-L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/711yG1adHVL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71s9Viw0yzL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/817IIm63TSL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>259.99 EUR</g:price>
+      <g:brand>ASUS</g:brand>
+      <g:mpn>B0886LBL8R</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Monitor da scrivania</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B09CGY99X5</g:id>
       <g:title>Dell S2722QC</g:title>
       <g:description>Il Dell S2722QC è un 27 pollici 4K IPS pensato per chi usa un portatile a casa: USB-C a 65 W per video, dati e ricarica con un unico cavo, 99% sRGB per foto e video dignitosi, HDR, casse integrate e stand completo con pivot. Si ferma a 60 Hz, quindi non è per il gaming veloce.</g:description>
@@ -16734,6 +16666,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0CSDJ5J3M</g:id>
+      <g:title>Shark NZ850UK Anti Hair Wrap</g:title>
+      <g:description>Shark NZ850UK è la variante importata dal mercato UK con tecnologia Anti Hair Wrap: la spazzola motorizzata si pulisce da sola dai capelli durante l&apos;aspirazione. Testina DuoClean con doppio rullo e luci LED, modalità Lift-Away portatile per divani e scale, guarnizione anallergica che trattiene il 99,9% di polveri. In confezione anche il kit auto.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/shark-nz850-anti-hair-wrap/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61TYEGXWguL._AC_SL1400_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71b+iM2p49L._AC_SL1400_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/717+E8e4+OL._AC_SL1400_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71sB-3FDWSL._AC_SL1400_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>288.85 EUR</g:price>
+      <g:brand>Shark</g:brand>
+      <g:mpn>B0CSDJ5J3M</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B0DGQTM383</g:id>
       <g:title>LG CordZero A9K Lite1C</g:title>
       <g:description>LG CordZero A9K Lite1C è la versione d&apos;ingresso della nuova linea Kompressor: comprime la polvere nel contenitore per aspirare più sporco prima di dover svuotare, maxi spazzola parquet con LED per vedere la polvere e connettività Wi-Fi con app ThinQ. Motore Smart Inverter da 220 W, filtro 5 strati lavabile, tubo telescopico regolabile. Autonomia dichiarata 60 min nella modalità meno aggressiva.</g:description>
@@ -16780,6 +16729,23 @@
       <g:price>209.59 EUR</g:price>
       <g:brand>Shark</g:brand>
       <g:mpn>B0FR5CS7GX</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F2227R1Y</g:id>
+      <g:title>Shark Detect Clean &amp; Empty</g:title>
+      <g:description>La Shark Detect Clean &amp; Empty punta tutto sulle quattro tecnologie Detect e sulla base autosvuotante da 2 litri che raccoglie lo sporco dopo ogni passata e lo trattiene fino a 45 giorni. La spazzola QuadClean con Anti Hair Wrap gestisce capelli, polvere e sporco grossolano. Fino a 60 minuti di autonomia dichiarati in modalità Eco.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/shark-detect-clean-empty-ix3651/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/513NvP+yBzL._AC_SL1400_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ZWX7FsA6L._AC_SL1400_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71pFrBvJVoL._AC_SL1400_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71LepBASt3L._AC_SL1400_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>289.99 EUR</g:price>
+      <g:brand>Shark</g:brand>
+      <g:mpn>B0F2227R1Y</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -17091,23 +17057,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B088CGMXG5</g:id>
-      <g:title>Oral-B iO 7 Nero Onice con 2 testine</g:title>
-      <g:description>Oral-B iO 7 nella finitura nero onice, in confezione con due testine. Mantiene i tratti forti della serie iO: tecnologia magnetica, display sul manico, sensore di pressione a tre colori, cinque modalità e Bluetooth. Variante utile per chi vuole subito una testina di scorta.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/oral-b-io-7-nero-onice-2-testine/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71Jcu7J4TiL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81xVPHKkgsL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71Put6vzjAL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81yLQ1Hc85L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>232.17 EUR</g:price>
-      <g:brand>Oral-B</g:brand>
-      <g:mpn>B088CGMXG5</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B088CL4RKZ</g:id>
       <g:title>Oral-B iO 8 con custodia da viaggio</g:title>
       <g:description>Oral-B iO 8 in confezione con due testine di ricambio e custodia da viaggio rigida. Scalino alto della gamma iO, con display sul manico, tecnologia magnetica silenziosa, sensore di pressione a tre colori e sei modalità di pulizia selezionabili. Pensato per chi usa lo spazzolino anche fuori casa.</g:description>
@@ -17359,23 +17308,6 @@
       <g:price>43.66 EUR</g:price>
       <g:brand>JBL</g:brand>
       <g:mpn>B0C665WWTD</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0D1VN2VB7</g:id>
-      <g:title>Marshall Major V</g:title>
-      <g:description>Cuffie on-ear Marshall di quinta generazione, con oltre 100 ore di autonomia dichiarate, ricarica rapida e wireless, peso di 186 g e design pieghevole. Buona scelta per chi vuole un paio di cuffie di marca da viaggio e uso quotidiano, con multipoint e cavo audio rimovibile per l&apos;uso cablato. Non hanno cancellazione attiva del rumore, non hanno certificazione IP e non dichiarano codec Hi-Res come LDAC.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/marshall-major-v/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/51K8eJaYsKL._AC_SL1000_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61pr6sHNaIL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61LNUDQaEeL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/616p97ZQAJL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>80.99 EUR</g:price>
-      <g:brand>Marshall</g:brand>
-      <g:mpn>B0D1VN2VB7</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -20240,23 +20172,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0FX4WBBJZ</g:id>
-      <g:title>AEG Ultimate 7000 GEN2</g:title>
-      <g:description>La AEG Ultimate 7000 GEN2 è il modello di punta della famiglia AEG a batteria: palmo leggerissimo da 1,35 kg, batteria intercambiabile e stazione multifunzione All-in-One che aspira automaticamente la polvere nel sacchetto, carica l&apos;apparecchio e lo ripone in modo ordinato. Modalità Auto che regola la potenza in base al pavimento, filtrazione HEPA a 6 livelli con filtro E12 lavabile, bocchetta AllFloor motorizzata con LED e spazzola Bed+ per materassi e tappezzeria. Premiata vincitrice del test ETM edizione 02/2026 con il 92,5%.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/aeg-ultimate-7000-gen2/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61xwXSW2G7L._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61yumi-m83L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51bnAJ8WrpL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51lPBq6aZVL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>414.39 EUR</g:price>
-      <g:brand>AEG</g:brand>
-      <g:mpn>B0FX4WBBJZ</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0C1PX36JB</g:id>
       <g:title>Dyson V12 Detect Slim+</g:title>
       <g:description>La Dyson V12 Detect Slim+ è la variante leggera del laser Dyson: motore Hyperdymium da 150 AW, 24% più leggera del V15 (circa 2,2 kg), batteria che Dyson dichiara fino a 60 minuti di autonomia in Eco, spazzola Fluffy Optic con laser verde che rende visibile la polvere più fine sui pavimenti duri e display LCD a bordo con sensore Piezo che conta e classifica le particelle raccolte. Si trasforma in aspirapolvere portatile per auto, scale e tappezzeria, con il kit di accessori antigroviglio e mini motorizzato per peli.</g:description>
@@ -20667,18 +20582,18 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0DWDXV18S</g:id>
-      <g:title>VASAGLE 160x140 angolare a L con 2 memorie, USB e prese AC</g:title>
-      <g:description>VASAGLE 160 x 140 è la rara regolabile ad L a 180 euro: motore singolo, escursione 72-120 cm e 2 posizioni di memoria. La forma angolare raddoppia la superficie di lavoro sfruttando l&apos;angolo libero, con stazione di ricarica integrata (2 prese AC + 2 porte USB), vassoio passacavi e ganci. Telaio in acciaio con portata 80 kg: adatta a dual monitor leggeri. La valutazione 4,6 su 304 recensioni la rende la L-shape regolabile più validata di Amazon.it. Restano come limiti il motore singolo su un piano così esteso e il rumore in dB non dichiarato.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/vasagle-160x140-angolare-l-usb-2-memorie/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71yNucOYYZL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/81NBz4zp0kL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71+HGaCZcfL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71rIpxPceBL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:id>B0DW8WJTFM</g:id>
+      <g:title>VASAGLE telaio solo con ruote, 3 memorie e larghezza regolabile</g:title>
+      <g:description>VASAGLE telaio-solo è la base economica da sposare con un piano già in casa: motore singolo con escursione 71-119 cm, 3 altezze memorizzabili dal pannello e portata 70 kg dichiarata. Barra trasversale regolabile 90-140 cm, telaio in acciaio bianco opaco, ruote bloccabili e piedini livellanti inclusi lo rendono flessibile sia per home office che per spostamenti frequenti. 640 recensioni a 4,7 lo rendono tra i telai regolabili più validati di Amazon.it; limiti il motore singolo e la portata ancora prudente a 70 kg.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/vasagle-telaio-solo-ruote-3-memorie/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61ehT+t7XaL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71jrqFhSfUL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81WCpzMFKZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71dPFrolv0L._AC_SL1500_.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>179.99 EUR</g:price>
+      <g:price>99.99 EUR</g:price>
       <g:brand>VASAGLE</g:brand>
-      <g:mpn>B0DWDXV18S</g:mpn>
+      <g:mpn>B0DW8WJTFM</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Scrivanie regolabili</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -21197,6 +21112,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0GYFKPLYG</g:id>
+      <g:title>DIABLO Professional Ergonomic Fabric 140</g:title>
+      <g:description>Variante della gamma Diablo pensata per ambienti ufficio: rivestimento in tessuto traspirante al posto dell&apos;ecopelle, schienale alto con lombare regolabile, braccioli 3D, meccanismo tilt con reclinazione a 140 gradi. Portata 150 kg, pistone classe 4. Stesso telaio della X-Horn ma più adatta a chi suda e non vuole l&apos;estetica racing marcata.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/diablo-pro-ergonomic-fabric-140/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61wb3ra1nGL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/811vaw6YsaL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61G4tBQ3F2L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61YbaWL+jkL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>209.99 EUR</g:price>
+      <g:brand>DIABLO</g:brand>
+      <g:mpn>B0GYFKPLYG</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Sedie ergonomiche</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B0F5HMDX33</g:id>
       <g:title>Efomao Executive PU Footrest 200kg</g:title>
       <g:description>Poltrona direzionale Efomao in ecopelle PU marrone con imbottitura spessa a cuscinoni, poggiapiedi estraibile, poggiatesta integrato, meccanismo reclinabile a 135 gradi. Portata dichiarata 200 kg, tra le più alte della fascia media. Non è una vera ergonomica da 8 ore, è una poltrona confortevole per corporature importanti e uso misto.</g:description>
@@ -21262,23 +21194,6 @@
       <g:mpn>B0B3RK4BB8</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Sedie ergonomiche</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0D5D294RR</g:id>
-      <g:title>Marshall Major V Brown</g:title>
-      <g:description>Major V è la quinta generazione dell&apos;on-ear più riconoscibile di Marshall: driver dinamici da 40 mm, Bluetooth 5.3, pulsante M personalizzabile per Spotify Tap o assistente vocale e un&apos;autonomia dichiarata di 100 ore che la rende la cuffia su archetto con più batteria della categoria. Nessun ANC, il che spiega il prezzo contenuto e il peso di soli 222 g. Supporta la ricarica wireless e piega l&apos;archetto per entrare nello zaino. Perfetta per chi vuole suono Marshall e autonomia a vita senza spendere i 180€ di un flagship over-ear.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/marshall-major-v-brown/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/81D5DvVfSRL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/911Jft0gKYL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/91XormwT-LL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/A1gP96LwaFL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>80.99 EUR</g:price>
-      <g:brand>Marshall</g:brand>
-      <g:mpn>B0D5D294RR</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
@@ -21379,6 +21294,23 @@
       <g:price>299.00 EUR</g:price>
       <g:brand>Technics</g:brand>
       <g:mpn>B0FC2795DT</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F2T9Z8HX</g:id>
+      <g:title>Huawei FreeBuds 6</g:title>
+      <g:description>FreeBuds 6 è l&apos;open-fit (senza gommini in-canale) Huawei con doppio driver True Sound e trasmissione lossless fino a 2,3 Mbps 48 kHz/24 bit via L2HC, più LDAC come fallback. Open-fit ANC riduce i rumori anche senza isolamento passivo del canale, soluzione raffinata per uffici e caffetterie. Stelo più piccolo del 12%, singolo auricolare 4,3 g, 36 ore totali con custodia, IP54, multipoint, ricarica wireless. Huawei Loss Care copre furto e perdita con sconto 50% sulla sostituzione per 1 anno.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/huawei-freebuds-6-white/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61kTARNEklL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71pzkMmv7GL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/613o3ymgCNL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/7161Oc27RJL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>109.00 EUR</g:price>
+      <g:brand>Huawei</g:brand>
+      <g:mpn>B0F2T9Z8HX</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -21813,23 +21745,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>B077ZC9SMW</g:id>
-      <g:title>Melitta Barista T Smart F83/0-102</g:title>
-      <g:description>La Melitta Barista T Smart ha una caratteristica che non si trova sulle De&apos;Longhi: due contenitori separati per i chicchi, cosi puoi tenere miscela espresso e miscela decaffeinato (o blend diversi) senza svuotare il serbatoio ogni volta. A questo si aggiungono 21 ricette memorizzate, caraffa latte con cappuccinatore automatico, display TFT, controllo via app Melitta Connect e otto profili utente. Macine in acciaio, serbatoio da 1,8L, costruzione tedesca. E il top di gamma Melitta per casa e piccoli uffici: pensata per chi condivide la macchina fra piu persone con gusti diversi.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/melitta-barista-t-smart-f83-0-102/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71KNrgZVlnL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71QJQjEYKRL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71GEg8sk0hL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/715AOKQge5L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>1049.99 EUR</g:price>
-      <g:brand>Melitta</g:brand>
-      <g:mpn>B077ZC9SMW</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Macchine da caffè</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B00WM7P7L6</g:id>
       <g:title>Krups EA817810</g:title>
       <g:description>Krups EA817810 e una macchina a chicchi full-automatica con macinacaffe integrato, serbatoio da 1,7L, funzione due tazze simultanee e lancia vapore manuale per cappuccino montato a mano. Design in metallo e plastica, display LCD con icone semplici e preparazione in meno di un minuto. E un modello Krups con qualche anno sulle spalle che continua a vendere perche la meccanica e provata e il prezzo in sconto scende sotto i 500 euro. Niente cappuccinatore automatico: schiuma a mano come su una Magnifica S, ma con costruzione piu solida e una lancia che riscalda bene.</g:description>
@@ -22080,6 +21995,23 @@
       <g:price>899.00 EUR</g:price>
       <g:brand>Sony</g:brand>
       <g:mpn>B0H9ZN67KQ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Obiettivi fotografici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F142NBWN</g:id>
+      <g:title>Sony FE 400-800mm F6.3-8 G OSS (SEL400800G)</g:title>
+      <g:description>Il Sony FE 400-800mm F6.3-8 G OSS (SEL400800G) è il più estremo degli zoom Sony dedicati a fauna selvatica, uccelli, aviazione e sport in condizioni di luce buona. Serie G con stabilizzazione ottica OSS, costruzione resistente a polvere e umidità, autofocus pensato per corpi con otturatore ad alta velocità come la A1 e la A9 III. Pesa 2,47 kg, quindi va usato spesso con monopiede o treppiede, e con i teleconverter 1,4x e 2x si arriva a focali ancora più spinte. Un&apos;ottica dedicata, non il primo tele da comprare.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/sony-fe-400-800-g-oss-sel400800g/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61adwUZJnAL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71OsMstrepL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71BhpIWIhcL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71I9+9KRrsL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>2499.00 EUR</g:price>
+      <g:brand>Sony</g:brand>
+      <g:mpn>B0F142NBWN</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Obiettivi fotografici</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -22792,6 +22724,23 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
+      <g:id>B0CDGHRV61</g:id>
+      <g:title>Logitech Brio 100 Full HD</g:title>
+      <g:description>Webcam Logitech Brio 100 Full HD 1080p per chi fa riunioni online dalla propria scrivania e vuole sostituire la pessima webcam integrata del notebook senza spendere oltre 35 euro. Correzione automatica della luce, campo visivo 58 gradi (giusto per inquadrarti frontalmente), microfono mono con riduzione rumore, copri-lente fisico integrato per rispettare le policy privacy. USB-A plug-and-play su PC e Mac, zero driver. Non è la cam da sala riunioni né da streaming professionale: è l&apos;upgrade ragionevole del quotidiano per professionisti che hanno 2-3 call al giorno con clienti e colleghi. Si ammortizza come bene strumentale, costa meno di una consulenza persa per &quot;non si vede nulla&quot;.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/logitech-brio-100-fhd/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61dTSa1TG3L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81MPxdMwVXL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81jGwarMBuL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61lobgq9IhL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>32.99 EUR</g:price>
+      <g:brand>Logitech</g:brand>
+      <g:mpn>B0CDGHRV61</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
       <g:id>B01LOOJBQY</g:id>
       <g:title>Seagate IronWolf 4TB NAS ST4000VN008</g:title>
       <g:description>Hard disk Seagate IronWolf 4TB ST4000VN008 pensato per NAS 24/7 di studi professionali e piccole attività che costruiscono il loro archivio su DiskStation, QNAP o Asustor. Tecnologia CMR (importante: non SMR), 5900 RPM, cache 64 MB, interfaccia SATA 6 Gb/s, workload rate di 180 TB/anno, sensori di vibrazione per NAS fino a 8 bay. Nel prezzo è incluso Rescue Data Recovery Services 3 anni: se il disco si rompe entro il triennio, Seagate recupera i dati in laboratorio senza costi aggiuntivi - un requisito di molte policy di continuità operativa e GDPR. In un RAID 1 o SHR su un NAS 4 bay con 2x4TB in mirror hai 4TB utili e la copia speculare automatica.</g:description>
@@ -23361,6 +23310,23 @@
       <g:price>39.99 EUR</g:price>
       <g:brand>Eufy</g:brand>
       <g:mpn>B086LBCQJL</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Sicurezza casa smart</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CG2TB6H9</g:id>
+      <g:title>Ring Pan-Tilt Indoor Camera</g:title>
+      <g:description>Telecamera motorizzata di Ring con copertura automatica della lente che si attiva quando sei in casa. Ruota 360 orizzontali e 169 verticali, copre praticamente tutto. Ha senso se già hai un videocitofono Ring o un sistema Alarm, perché tutto finisce nella stessa app. Serve però l&apos;abbonamento Ring Protect per rivedere le clip.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ring-pan-tilt-indoor/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/715UdYCFgEL._SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41yvogbcJ9L._SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ChtwwYzjL._SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71L2HsKja+L._SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>39.90 EUR</g:price>
+      <g:brand>Ring</g:brand>
+      <g:mpn>B0CG2TB6H9</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Sicurezza casa smart</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -24986,23 +24952,6 @@
       <g:identifier_exists>yes</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0GQVBH6XM</g:id>
-      <g:title>Dreame DD20 Deumidificatore 20L</g:title>
-      <g:description>Modello di punta Dreame da 20 L/giorno per ambienti fino a 40 m². Ha sensore di temperatura e umidità con regolazione automatica, modalità Laundry per asciugare i panni, scarico continuo con tubo da 1,5 m oltre al serbatoio da 2,5 L e isolamento acustico a 5 strati che scende a 35,7 dB. Il brand Dreame è il consumer di Xiaomi.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/dreame-dd20-20l-plasma/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/61rgATfr6ZL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71enfI6sw3L._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/61aJbf6sdhL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51CXhrAs6aL._AC_SL1000_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>189.00 EUR</g:price>
-      <g:brand>Dreame</g:brand>
-      <g:mpn>B0GQVBH6XM</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Deumidificatori</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0F7LNWKC3</g:id>
       <g:title>Kalopsia Deumidificatore 80L/Giorno con Pompa</g:title>
       <g:description>Deumidificatore pensato per ambienti grandi fino a 170 m²: capacità di 80 L/giorno, portata d&apos;aria di 400 m³/h e pompa integrata che spinge il condensato in altezza fino a 5 metri, utile per sollevarlo in un lavandino o scaricarlo fuori da una cantina. Serbatoio da 8 L, umidostato 30-80 percento e quattro ruote.</g:description>
@@ -25311,7 +25260,7 @@
     <item>
       <g:id>B0CL9XWV6M</g:id>
       <g:title>De&apos;Longhi La Specialista Arte Evo EC9255.T</g:title>
-      <g:description>Evoluzione della La Specialista Arte EC9155: una macchina espresso manuale con portafiltro, pensata per chi vuole lavorare da barista ma con il macinacaffè già integrato. Macine coniche in acciaio con 8 regolazioni, caldaia dedicata al vapore, controllo attivo della temperatura con tre profili (90, 94, 96 °C) e funzione Cold Brew per un caffè freddo estratto in modo lento in meno di cinque minuti. Lancia vapore My Latte Art per micro-schiuma manuale. In dotazione il kit da barista completo: tamper, livellatore e pichet. Variante Titanio, 1450 W, serbatoio 2 L. Larga 44 cm: va prevista nel piano cucina.</g:description>
+      <g:description>Evoluzione della La Specialista Arte EC9155: macchina espresso manuale con portafiltro per chi vuole lavorare da barista, ma con il macinacaffè già integrato. Macine coniche in acciaio con 8 regolazioni, caldaia dedicata al vapore, controllo attivo della temperatura con tre profili (90, 94 e 96 °C) e funzione Cold Brew per un caffè freddo pronto in pochi minuti. Nel kit trovi tamper, livellatore e pichet. Larga 44 cm: va prevista nel piano cucina.</g:description>
       <g:link>https://www.pickforme.it/prodotto/delonghi-la-specialista-arte-evo-ec9255t/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61E21xA4ldL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71VHWJjjbNL._AC_SL1500_.jpg</g:additional_image_link>
@@ -25321,23 +25270,6 @@
       <g:price>449.90 EUR</g:price>
       <g:brand>De&apos;Longhi</g:brand>
       <g:mpn>B0CL9XWV6M</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Macchine da caffè</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0HL7TYH6W</g:id>
-      <g:title>Airmsen 20 Bar con macinacaffè e touch</g:title>
-      <g:description>Alternativa economica alla De&apos;Longhi La Specialista Arte Evo: macchina espresso manuale con macinacaffè integrato (macine coniche regolabili su 10 livelli), pompa 20 bar, pre-infusione e display touch LED. Serbatoio 1,8 L, cassa in acciaio inox su tutti e quattro i lati, 1350 W. Dosaggio programmabile, modalità Cold Brew, pulizia automatica del circuito montalatte. Il marchio Airmsen è cinese e vende quasi solo su Amazon: pochi dati sul lungo periodo, ma 4,4 stelle sulle prime 72 recensioni sono un buon segnale. Scelta sensata per chi vuole il pacchetto macinino più touch senza salire a 400 €.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/airmsen-20-bar-espresso-macinacaffe/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/71RRfyuG8NL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71nQdYfCiaL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71FgQ+PqTYL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/71+aZFT9XWL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>208.99 EUR</g:price>
-      <g:brand>Airmsen</g:brand>
-      <g:mpn>B0HL7TYH6W</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Macchine da caffè</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -25474,23 +25406,6 @@
       <g:price>259.82 EUR</g:price>
       <g:brand>Bose</g:brand>
       <g:mpn>B0F7HVC62G</g:mpn>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Casse bluetooth</g:google_product_category>
-      <g:identifier_exists>no</g:identifier_exists>
-    </item>
-    <item>
-      <g:id>B0H5CPS4ZQ</g:id>
-      <g:title>Marshall Acton IV</g:title>
-      <g:description>Cassa Marshall da scaffale, non portatile, 80 W dichiarati, con tweeter migliorati per una scena sonora più ampia, bassi ottimizzati e volume dinamico che tiene il suono bilanciato anche a volume basso. Si collega in sincronia ad altre Marshall Auracast e porta il pulsante M personalizzabile.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/marshall-acton-iv/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/91LOFTgkCaL._AC_SL1500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/A1iJcCjb2KL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/91uP5XQNdUL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/91tIEH2rEZL._AC_SL1500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>288.00 EUR</g:price>
-      <g:brand>Marshall</g:brand>
-      <g:mpn>B0H5CPS4ZQ</g:mpn>
       <g:condition>new</g:condition>
       <g:google_product_category>Casse bluetooth</g:google_product_category>
       <g:identifier_exists>no</g:identifier_exists>
@@ -25964,7 +25879,7 @@
     <item>
       <g:id>B007RTTPC6</g:id>
       <g:title>hjh OFFICE PRO-TEC 300 tessuto schienale alto</g:title>
-      <g:description>Modello storico di hjh OFFICE, marchio GS certificato (standard di sicurezza tedesco): meccanismo syncro bloccabile in 3 posizioni, profondità sedile regolabile in 4 e braccioli regolabili. Non un&apos;ergonomia estrema, ma la sicurezza strutturale di una sedia pensata per ufficio vero.</g:description>
+      <g:description>Modello storico di hjh OFFICE con marchio GS, lo standard di sicurezza tedesco: meccanismo syncro bloccabile in tre posizioni, profondità del sedile regolabile in quattro e braccioli imbottiti regolabili. Non è un&apos;ergonomia estrema, ma la robustezza strutturale di una sedia pensata per ufficio vero, a un prezzo onesto.</g:description>
       <g:link>https://www.pickforme.it/prodotto/hjh-office-pro-tec-300-608500/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71lOo6aFSML._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71a9i80roVL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26237,7 +26152,7 @@
     <item>
       <g:id>B0D4C681HF</g:id>
       <g:title>Samsung ViewFinity S7 S32D702</g:title>
-      <g:description>Monitor da 32 pollici 4K (3840x2160) con HDR10 e funzioni PIP/PBP per lavorare con due sorgenti in contemporanea. 60 Hz e 5 ms di tempo di risposta: è un pannello pensato per produttivita, non per gaming competitivo. La diagonale piu la risoluzione 4K ti danno spazio per tre finestre affiancate senza perdere leggibilita. Sta sui 300 euro, prezzo onesto per la combinazione 32 pollici 4K Samsung.</g:description>
+      <g:description>Monitor da 32 pollici 4K reale (3840x2160) con HDR10 e funzioni PIP/PBP per lavorare con due sorgenti in contemporanea. 60 Hz e 5 ms: è un pannello pensato per produttività, non per gaming competitivo. La diagonale unita al 4K ti dà spazio per tre finestre affiancate senza perdere leggibilità. Sui 300 euro, prezzo onesto per la combinazione 32 pollici 4K Samsung.</g:description>
       <g:link>https://www.pickforme.it/prodotto/samsung-viewfinity-s7-s32d702-32-4k-ips-office/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/710mTaaqJFL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71+E+CTLi5L._AC_SL1500_.jpg</g:additional_image_link>
@@ -26306,7 +26221,7 @@
     <item>
       <g:id>B0DX1T4898</g:id>
       <g:title>Reolink Elite Floodlight 4K</g:title>
-      <g:description>Una telecamera esterna cablata pensata per presidiare l&apos;accesso principale. La doppia lente copre 180° senza rimontaggi strani, il faretto si accende sul movimento ed è luminoso davvero, e il WiFi 6 ti dà uno stream fluido pure se la rete è trafficata. Costa, ma risolve il punto critico della casa in un unico apparecchio.</g:description>
+      <g:description>Pensata per presidiare l&apos;ingresso principale: doppia lente che copre 180° senza giunzioni evidenti, faretti che fanno davvero da deterrente e Wi-Fi 6 che tiene bene anche con casa piena di dispositivi. Costa, ma risolve il punto critico della casa con un apparecchio solo. Serve una presa fissa: niente batteria.</g:description>
       <g:link>https://www.pickforme.it/prodotto/reolink-elite-floodlight/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61yUcY5tqhL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61-hvUqNLxL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26323,7 +26238,7 @@
     <item>
       <g:id>B0DCVM69PG</g:id>
       <g:title>Reolink Lumus Pro 4K</g:title>
-      <g:description>Formato compatto, risoluzione vera da 4K e connessione WiFi 6 che regge anche in giardino lontano dal router. L&apos;AI distingue persone, auto e animali e ti manda notifiche sensate. L&apos;archivio sta tutto sulla microSD, nessun canone mensile per riguardare le clip.</g:description>
+      <g:description>Formato compatto, 4K reale, Wi-Fi 6 che tiene bene in giardino lontano dal router. L&apos;AI distingue persone, auto e animali: le notifiche arrivano quando conta davvero. Niente canoni cloud, la microSD basta e avanza fino a 512 GB. Funziona meglio se hai una presa vicino: il cavo in dotazione è medio-corto.</g:description>
       <g:link>https://www.pickforme.it/prodotto/reolink-lumus-pro-4k/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61N6bmJIIYL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/712mKxeeojL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26340,7 +26255,7 @@
     <item>
       <g:id>B0F835G7MS</g:id>
       <g:title>Reolink E1 4MP interna</g:title>
-      <g:description>Formato classico da tavolo, sensore 4MP che va oltre il Full HD, rotazione pan 355° e auto-tracking per seguire chi si muove nella stanza. Funziona bene come baby monitor o per controllare una stanza da fuori. Niente canoni: metti la microSD e registri tutto in locale.</g:description>
+      <g:description>L&apos;E1 è la Reolink da scrivania: formato compatto, sensore 4MP sopra il Full HD, rotazione 355° e auto-tracking che segue chi si muove in stanza. Funziona bene come baby monitor o per controllare un anziano a distanza, con rilevamento del pianto del bambino. Niente canoni: metti una microSD e registri tutto in locale.</g:description>
       <g:link>https://www.pickforme.it/prodotto/reolink-e1-4mp-indoor/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71unbRC9kXL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61bAgYmSBkL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26357,7 +26272,7 @@
     <item>
       <g:id>B0FS7F3C1R</g:id>
       <g:title>eufy SoloCam E42 solare</g:title>
-      <g:description>Si installa dove vuoi, senza presa vicino: il pannello solare sopra la telecamera la tiene carica con poche ore di luce al giorno. La qualità 4K fa la differenza quando conta davvero, come leggere una targa o distinguere un volto in controluce. L&apos;AI filtra persone e veicoli e limita gli allarmi inutili.</g:description>
+      <g:description>La metti dove vuoi senza presa vicina: il pannello solare sopra la telecamera la tiene carica con poche ore di luce al giorno. La qualità 4K fa la differenza quando conta davvero, come leggere una targa o distinguere un volto in controluce. L&apos;AI filtra persone e veicoli e tiene sotto controllo i falsi allarmi, da affinare nei primi giorni con le aree di rilevamento.</g:description>
       <g:link>https://www.pickforme.it/prodotto/eufy-solocam-e42/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/51S87PDz-bL._AC_SL1200_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61RjeeKmjEL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26374,7 +26289,7 @@
     <item>
       <g:id>B0DK5FH9L8</g:id>
       <g:title>eufy Cam E30 solare</g:title>
-      <g:description>Punto panoramico sul giardino o sull&apos;ingresso coperto da una sola telecamera: ruota, si inclina e segue chi si muove. Il pannello solare è rimovibile, quindi la camera va dove ti serve davvero e il pannello dove prende sole. Buon compromesso tra copertura ampia, batteria autosostenuta e prezzo giusto.</g:description>
+      <g:description>Pensata per coprire giardino o cortile da un unico punto: rotazione 360°, inclinazione 70°, tracciamento automatico sui movimenti. Il pannello solare è rimovibile, quindi la telecamera va dove serve guardare e il pannello dove c&apos;è sole vero. Buon compromesso fra copertura ampia, batteria autosostenuta e prezzo giusto.</g:description>
       <g:link>https://www.pickforme.it/prodotto/eufy-cam-e30/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61hy6ClVFEL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71zBGe7LlrL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26391,7 +26306,7 @@
     <item>
       <g:id>B0F6CG2TX5</g:id>
       <g:title>Aqara G100 2K HomeKit</g:title>
-      <g:description>Se vivi in casa Apple, questa è la camera da presa più a buon prezzo che si integra davvero con HomeKit Secure Video, senza workaround. Protezione IP65 quindi va anche fuori, archiviazione su microSD o su NAS se vuoi tenere tutto in locale. Qualità 2K sufficiente per un uso quotidiano.</g:description>
+      <g:description>Pensata per chi vive in casa Apple: la G100 compare direttamente nell&apos;app Casa, lavora con HomeKit Secure Video e sta sotto i 50 euro. Certificata IP65, quindi la metti anche sotto gronda, con registrazione su microSD, su NAS via RTSP o su iCloud se hai il piano. Sulla configurazione serve pazienza: il reset è delicato e qualche abbinamento parte solo al secondo tentativo.</g:description>
       <g:link>https://www.pickforme.it/prodotto/aqara-g100-homekit/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61Ri4olx2kL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61R4ZOX2XyL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26408,7 +26323,7 @@
     <item>
       <g:id>B0D3814FFN</g:id>
       <g:title>Tapo C410 2K batteria</g:title>
-      <g:description>La telecamera a batteria più venduta su Amazon Italia nella categoria, e si capisce perché: autonomia reale lunga, immagine 2K pulita, faretto per la visione a colori notturna. L&apos;app Tapo è una delle più semplici in giro. Per chi inizia a mettere videosorveglianza senza voler stendere cavi, è il punto d&apos;ingresso più sicuro.</g:description>
+      <g:description>Prima telecamera a batteria sotto i 50 euro che non chiede compromessi veri: 2K di risoluzione, faretto integrato per vedere a colori di notte e IP65 per restare fuori tutto l&apos;anno. La batteria dura mesi se la tieni in modalità eventi, molto meno se guardi spesso le riprese. Niente abbonamenti: salvi tutto su microSD.</g:description>
       <g:link>https://www.pickforme.it/prodotto/tapo-c410-battery/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61WU6ni8URL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/81PdQD8XMaL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26425,7 +26340,7 @@
     <item>
       <g:id>B0CMCWXPFX</g:id>
       <g:title>Tapo C425 4MP batteria</g:title>
-      <g:description>Evoluzione della serie Tapo a batteria: batteria più grande, risoluzione 4MP vera e base magnetica che la rende immediata da installare e orientare. Il FOV ampio da 150° copre bene un vialetto o un angolo di casa. Per la fascia sotto i 70 euro è quanto di più completo si trova.</g:description>
+      <g:description>Il modello a batteria con la miglior autonomia del catalogo Tapo: fino a 300 giorni in uso regolare, con parecchi utenti che si assestano sui 200-250 giorni reali. 2K QHD con faretto per vedere a colori di notte, base magnetica per cambiarle posizione in pochi secondi, rilevamento AI distinto per persone, animali e veicoli. Resta fuori tutto l&apos;anno senza problemi.</g:description>
       <g:link>https://www.pickforme.it/prodotto/tapo-c425-battery/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71DbEXx1rFL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/7152-DmSNuL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26442,7 +26357,7 @@
     <item>
       <g:id>B0BLVZ2RSR</g:id>
       <g:title>Tapo C225 2K interna</g:title>
-      <g:description>Il dettaglio che la distingue dalle altre interne è questo: quando attivi la modalità privacy, l&apos;obiettivo si copre fisicamente, non con un comando software che puoi sempre dubitare. Per chi non si fida del tutto a tenere una camera accesa in salotto è un punto importante. Sensore 2K Starlight, rotazione 360° e rilevamento AI completano un pacchetto solido per interno.</g:description>
+      <g:description>Il dettaglio che la distingue è semplice: quando attivi la modalità privacy l&apos;obiettivo viene coperto meccanicamente, non con un comando software del quale puoi dubitare. Per chi è combattuto sul tenere una telecamera accesa in casa è un vantaggio reale. Attorno al tappo c&apos;è un corredo completo: sensore 2K Starlight, rotazione 360° e AI che distingue persone, animali, veicoli e suoni di allerta.</g:description>
       <g:link>https://www.pickforme.it/prodotto/tapo-c225-indoor/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/51g6XW3kK1L._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/81Sm3+NJNIL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26459,7 +26374,7 @@
     <item>
       <g:id>B0CMWQDD8W</g:id>
       <g:title>eufy S330 4G 4K solare</g:title>
-      <g:description>Pensata per chi deve sorvegliare un posto dove il router di casa non ce la fa: seconda casa, rustico, cantiere, baita. La SIM è inclusa e la telecamera sceglie da sola tra 4G e WiFi quando ci sono entrambi. Il solare e la batteria grande la rendono davvero autonoma, e la qualità 4K con pan/tilt tiene il passo con le migliori WiFi.</g:description>
+      <g:description>Pensata per i posti dove il router di casa non arriva: seconda casa, rustico, cantiere, baita. La SIM è inclusa e la telecamera sceglie da sola tra 4G e Wi-Fi, con priorità alla rete più stabile. Il pannello solare integrato e la batteria da 9400 mAh la rendono davvero autonoma. Qualità 4K con pan/tilt e faretto da 100 lumen: tiene il passo con le migliori Wi-Fi tradizionali.</g:description>
       <g:link>https://www.pickforme.it/prodotto/eufy-s330-4g/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61ufwFf8SaL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61GuZMyZ0GL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26476,7 +26391,7 @@
     <item>
       <g:id>B0H1YDZJQP</g:id>
       <g:title>Sennheiser Momentum 5</g:title>
-      <g:description>Le Momentum 5 alzano l&apos;asticella dove le Momentum 4 erano già forti: ANC più potente, codec lossless, driver che citano la serie HD da studio. La batteria sostituibile le fa durare anni, non mesi. Sono cuffie da tenere, non da sostituire al prossimo modello. La scelta per chi all&apos;ascolto in cuffia dedica tempo vero.</g:description>
+      <g:description>Le Momentum 5 fanno un passo avanti dove la 4 era già molto forte: ANC più potente sulle frequenze medie, codec lossless via aptX, driver da 42 mm ispirati alla serie HD da studio. Il dettaglio che pesa davvero è la batteria sostituibile: queste cuffie durano anni, non mesi. Un acquisto da tenere, non da rivendere al prossimo modello.</g:description>
       <g:link>https://www.pickforme.it/prodotto/sennheiser-momentum-5/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/41omNp35j3L._SL500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/51c0aK-dx6L._SL500_.jpg</g:additional_image_link>
@@ -26494,7 +26409,7 @@
     <item>
       <g:id>B0GSS4M55K</g:id>
       <g:title>Apple AirPods Max 2</g:title>
-      <g:description>Le AirPods Max 2 fanno esattamente quello che ci si aspetta: dentro l&apos;ecosistema Apple sono invincibili. Chip H2, audio adattivo, cancellazione del rumore raffinata, traduzione in tempo reale con Apple Intelligence. Fuori dall&apos;ecosistema invece pesano i limiti: niente codec hi-res, autonomia media, prezzo alto. Hanno senso se iPhone e Mac sono il tuo mondo quotidiano.</g:description>
+      <g:description>Le AirPods Max 2 fanno quello che ti aspetti dentro un mondo Apple: chip H2, audio adattivo, ANC 1,5 volte più efficace della prima generazione, traduzione in tempo reale con Apple Intelligence. Fuori dall&apos;ecosistema invece i limiti si vedono: niente codec ad alta risoluzione, autonomia media, prezzo Apple. Hanno senso se iPhone, iPad e Mac sono il tuo mondo quotidiano.</g:description>
       <g:link>https://www.pickforme.it/prodotto/apple-airpods-max-2/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/31VvSaRJmnL._SL500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/31m4h9JvHaL._SL500_.jpg</g:additional_image_link>
@@ -26512,7 +26427,7 @@
     <item>
       <g:id>B0D8LHH8CX</g:id>
       <g:title>Google Pixel Buds Pro 2 Hazel</g:title>
-      <g:description>I Pixel Buds Pro 2 sono la risposta Google agli AirPods Pro: chip dedicato (Tensor A1), ANC molto migliorato, integrazione totale con Android. Il rilevamento conversazioni mette in pausa la musica quando parli, lo stabilizzatore tiene fermi gli auricolari anche in palestra. Dentro il mondo Pixel e Android sono la scelta naturale, fuori restano auricolari solidi ma senza quel qualcosa in più.</g:description>
+      <g:description>Pensati per lavorare al meglio con Android, e in particolare con uno smartphone Pixel: setup immediato, Google Assistant integrato, rilevamento automatico delle conversazioni per mettere in pausa la musica. L&apos;ANC è due volte più efficace del modello precedente grazie al chip Tensor A1. Fuori dal mondo Pixel perdi qualche funzione, ma restano auricolari leggeri e confortevoli con un buon suono.</g:description>
       <g:link>https://www.pickforme.it/prodotto/google-pixel-buds-pro-2-hazel/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/314Vxae8DNL._SL500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/41OO-Mjt0PL._SL500_.jpg</g:additional_image_link>
@@ -26530,7 +26445,7 @@
     <item>
       <g:id>B0DFMYKX86</g:id>
       <g:title>Bowers Wilkins PX7 S2e</g:title>
-      <g:description>Bowers &amp; Wilkins è uno dei nomi storici dell&apos;Hi-Fi e sulle PX7 S2e porta il suo DNA: timbrica morbida, scenica, con dettaglio che ti fa riscoprire album che credevi di conoscere. L&apos;ANC c&apos;è ma non è il punto forte, il punto forte è come suonano quando ascolti davvero. A questo prezzo sono un&apos;alternativa concreta a Sony e Sennheiser per chi mette il suono prima di tutto.</g:description>
+      <g:description>Le PX7 S2e sono la porta d&apos;ingresso al mondo B&amp;W wireless: driver in biocellulosa da 40 mm, DSP a 24 bit e aptX Adaptive per sfruttare bene lo streaming Tidal o Qobuz. L&apos;ANC c&apos;è e fa il suo lavoro, ma non è il motivo per cui le scegli: le prendi per come suonano. Prezzo sotto i 200 euro, raro per una cuffia audiofila.</g:description>
       <g:link>https://www.pickforme.it/prodotto/bowers-wilkins-px7-s2e/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/31BtRoiAqSL._SL500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/418dk4ZoFXL._SL500_.jpg</g:additional_image_link>
@@ -26546,27 +26461,9 @@
       <g:identifier_exists>yes</g:identifier_exists>
     </item>
     <item>
-      <g:id>B0CB6HL96G</g:id>
-      <g:title>Jabra Elite 10</g:title>
-      <g:description>Jabra è da sempre un riferimento per le chiamate e con le Elite 10 porta anche l&apos;audio a un livello alto grazie a Dolby Atmos. Il ComfortFit li rende leggerissimi all&apos;orecchio, anche per chi non sopporta gli in-ear a lungo. Sono la scelta pulita per chi lavora in ufficio, fa molte call e vuole comunque buona qualità nell&apos;ascolto in pausa.</g:description>
-      <g:link>https://www.pickforme.it/prodotto/jabra-elite-10/</g:link>
-      <g:image_link>https://m.media-amazon.com/images/I/31DFTaL72xL._SL500_.jpg</g:image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/31C8esbvcKL._SL500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/51tiTN0C0UL._SL500_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://m.media-amazon.com/images/I/41heBDHJE2L._SL500_.jpg</g:additional_image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>196.77 EUR</g:price>
-      <g:brand>Jabra</g:brand>
-      <g:mpn>B0CB6HL96G</g:mpn>
-      <g:gtin>5707055060458</g:gtin>
-      <g:condition>new</g:condition>
-      <g:google_product_category>Cuffie e auricolari bluetooth</g:google_product_category>
-      <g:identifier_exists>yes</g:identifier_exists>
-    </item>
-    <item>
       <g:id>B0B349KKSV</g:id>
       <g:title>Bowers Wilkins Px8</g:title>
-      <g:description>Le Px8 sono l&apos;ammiraglia Bowers &amp; Wilkins e si vedono dalla prima occhiata: pelle Nappa, alluminio fuso, finiture che nelle wireless si vedono raramente. Dentro, i driver a cono di carbonio portano una chiarezza che le altre cuffie di questa fascia faticano a dare. Non sono le campionesse di ANC, sono le campionesse di ascolto puro. Per chi la cuffia la vede come un oggetto di gusto, prima ancora che come un accessorio.</g:description>
+      <g:description>Le PX8 sono le cuffie wireless di punta di Bowers &amp; Wilkins: cono dei driver in carbonio, pelle Nappa sui padiglioni e alluminio fuso sui bracci. Sono cuffie pensate prima per il suono e per l&apos;oggetto, poi per l&apos;ANC: a parità di prezzo Bose e Sony isolano meglio nei trasporti. Chi cerca timbrica da hi-fi in mobilità le trova difficili da battere.</g:description>
       <g:link>https://www.pickforme.it/prodotto/bowers-wilkins-px8/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/31OMX4d+bML._SL500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/41Cn1JJGICL._SL500_.jpg</g:additional_image_link>
@@ -26584,7 +26481,7 @@
     <item>
       <g:id>B0GLPHXR6N</g:id>
       <g:title>JBL Live 780NC</g:title>
-      <g:description>Le Live 780NC sono la risposta JBL a chi vuole over-ear ANC con autonomia enorme senza spendere da ammiraglia. Ottanta ore di batteria significano settimane di uso quotidiano, il Bluetooth 6.0 e il multipoint le rendono comode in mobilità, l&apos;app permette di mettere mano all&apos;EQ. Non sono raffinate come le più costose ma a 158 euro portano tutto l&apos;essenziale più qualche extra.</g:description>
+      <g:description>Le Live 780NC sono la risposta JBL per chi vuole over-ear con ANC e autonomia enorme senza arrivare in zona ammiraglia. Ottanta ore di batteria sono settimane di uso normale, il Bluetooth 6.0 con multipoint ti fa saltare tra telefono e computer senza inciampi, e l&apos;app ti lascia l&apos;EQ in mano. Non sono raffinate come Sennheiser o Sony top, ma a questo prezzo portano a casa tutto l&apos;essenziale.</g:description>
       <g:link>https://www.pickforme.it/prodotto/jbl-live-780nc/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/31RiwK-wgkL._SL500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/415+pJglezL._SL500_.jpg</g:additional_image_link>
@@ -26602,7 +26499,7 @@
     <item>
       <g:id>B0GZW1BYJF</g:id>
       <g:title>Nothing Ear (3a)</g:title>
-      <g:description>Nothing ha capito che il design conta quasi quanto il suono e le Ear (3a) ne sono la prova: trasparenti, iconiche, si riconoscono a distanza. Il bello è che non si fermano all&apos;estetica: driver da 12 mm, ANC fino a 45 dB, audio Hi-Res, Bluetooth 6.0. A ottanta euro sono probabilmente gli auricolari con il miglior rapporto stile-prezzo-sostanza oggi in circolazione.</g:description>
+      <g:description>Nothing ha capito che il design conta quasi quanto il suono e le Ear (3a) ne sono una prova: trasparenti, iconiche, si riconoscono da lontano. Il bello è che non si fermano all&apos;estetica: driver da 12 mm, ANC fino a 45 dB, Hi-Res, Bluetooth 6.0. A ottanta euro non è facile trovare un pacchetto così completo di stile e sostanza.</g:description>
       <g:link>https://www.pickforme.it/prodotto/nothing-ear-3a/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/41mYNxDS1HL._SL500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/41GPptKvGaL._SL500_.jpg</g:additional_image_link>
@@ -26620,7 +26517,7 @@
     <item>
       <g:id>B0BXLLX7NQ</g:id>
       <g:title>Sonos Era 100</g:title>
-      <g:description>Era 100 è lo Sonos da casa di punta sotto i 250 euro: due tweeter angolati per separazione stereo vera, midwoofer più grande del 25% rispetto al vecchio One, Wi-Fi e Bluetooth pronti insieme. Trueplay funziona anche da Android: la cassa si ritara ascoltandosi nella stanza. Alexa a bordo e tasto fisico per spegnere il mic. Sotto, un Sonos Era 100 in più lo rende una vera coppia stereo.</g:description>
+      <g:description>Era 100 è lo Sonos giusto per salotto, cucina o studio: due tweeter e midwoofer potenziato, stereo da un corpo solo, Trueplay anche da Android per tarare il suono sulla stanza. Dentro trovi Wi-Fi, AirPlay 2, Spotify Connect, Bluetooth e Alexa, con un interruttore fisico per spegnere il microfono. Non la porti via di casa: resta un apparecchio da presa.</g:description>
       <g:link>https://www.pickforme.it/prodotto/sonos-era-100/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/619SmYo+h6L._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71nIZYQUY-L._AC_SL1500_.jpg</g:additional_image_link>
@@ -26637,7 +26534,7 @@
     <item>
       <g:id>B0BXLJ936Z</g:id>
       <g:title>Sonos Era 300</g:title>
-      <g:description>Era 300 è lo Sonos pensato per il Dolby Atmos musicale: sei driver sparati su più direzioni, compreso un tweeter che spara in alto, per aprire la stanza come un vero sistema spaziale. Con Apple Music o Amazon Music Unlimited in Atmos la differenza si sente, e in coppia con un soundbar Sonos diventa una delle migliori soluzioni surround wireless. Sotto quel vincolo, resta un Sonos solido anche per lo streaming normale.</g:description>
+      <g:description>Era 300 è lo smart speaker Sonos pensato per il Dolby Atmos musicale: sei driver sparano a sinistra, a destra, in avanti e verso l&apos;alto, così la musica in Atmos si apre davvero sopra la testa. In coppia con una soundbar Sonos diventa una buona scorciatoia per un surround wireless. Il senso pieno esce con Apple Music o Amazon Music Unlimited in Atmos; per lo stereo tradizionale resta un ottimo Sonos, non un affare.</g:description>
       <g:link>https://www.pickforme.it/prodotto/sonos-era-300/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71Z9S5x0+WL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61+z26SQZGL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26654,7 +26551,7 @@
     <item>
       <g:id>B0B25H1NYH</g:id>
       <g:title>Marshall Emberton II</g:title>
-      <g:description>Emberton II è il cavallo di battaglia Marshall della fascia media: 30+ ore di batteria dichiarate, due driver Class D con suono True Stereophonic a 360 gradi, IP67 per acqua e polvere e corpo rivestito in silicone che regge urti e cadute. Stack Mode per appaiare più Emberton e fare festa. Niente microfono, niente app lampo come i rivali ma un suono pieno e un design che rimane icona da cinque anni.</g:description>
+      <g:description>Emberton II è la Marshall portatile media: dura oltre 30 ore con una ricarica, suona bene a 360 gradi grazie al True Stereophonic e regge pioggia e polvere con l&apos;IP67. Il formato è compatto ma pesa 700 grammi: te la porti in giardino, in piscina o in viaggio. Niente microfono per il vivavoce: è una cassa, non un auricolare.</g:description>
       <g:link>https://www.pickforme.it/prodotto/marshall-emberton-ii/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61n9iLQK34L._AC_SL1000_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/81oWzvge-3L._AC_SL1500_.jpg</g:additional_image_link>
@@ -26671,7 +26568,7 @@
     <item>
       <g:id>B0B2RL72ZQ</g:id>
       <g:title>Marshall Willen</g:title>
-      <g:description>Willen è la Marshall mignon: 310 grammi, cinghia e clip integrata, IP67 e un piccolo driver con radiatori passivi laterali. Volume ragionevole per ambienti piccoli o bagno, 15 ore di batteria e microfono integrato per rispondere al telefono. Si impila con un&apos;altra Willen o un&apos;Emberton per fare più corpo. Formato da appendere, non da piazza.</g:description>
+      <g:description>Willen è la più piccola delle Marshall: 310 grammi, cinghia e clip integrata per agganciarla dove vuoi. IP67, quindi sotto la doccia o in spiaggia non si tira indietro. Il suono è pulito e coerente per la taglia, ma la potenza resta quella di una tascabile: perfetta per uso singolo, non per riempire una stanza. In coppia con una seconda Willen o con un&apos;Emberton fa il salto.</g:description>
       <g:link>https://www.pickforme.it/prodotto/marshall-willen/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71gXnSa8ogL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71NQxqLn8mL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26773,7 +26670,7 @@
     <item>
       <g:id>B08YS21W3F</g:id>
       <g:title>Bang &amp; Olufsen Beosound Emerge</g:title>
-      <g:description>Beosound Emerge è la cassa da scaffale di Bang &amp; Olufsen: formato a libro verticale, alluminio e tessuto in finitura Gold Tone, tre vie con driver dedicati per acuti, medi e bassi. La piattaforma Mozart integra AirPlay 2, Chromecast, Spotify Connect e Bluetooth nello stesso corpo, con accoppiamento stereo o multiroom B&amp;O. Non è la cassa che mandi al mare, è quella che chiedi di vedere ai tuoi ospiti.</g:description>
+      <g:description>Beosound Emerge è lo speaker da scaffale di Bang &amp; Olufsen: formato a libro verticale in alluminio e tessuto, tre vie con driver dedicati per acuti, medi e bassi. Dentro c&apos;è la piattaforma Mozart che unisce AirPlay 2, Chromecast, Spotify Connect e Bluetooth nello stesso corpo, con coppia stereo o multiroom B&amp;O. Non è lo speaker da portare al mare: è quello che i tuoi ospiti ti chiedono subito dove l&apos;hai comprato.</g:description>
       <g:link>https://www.pickforme.it/prodotto/bang-olufsen-beosound-emerge/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/618-wjCXwlL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61256kPQx3L._AC_SL1500_.jpg</g:additional_image_link>
@@ -26790,7 +26687,7 @@
     <item>
       <g:id>B08CMQX13F</g:id>
       <g:title>Canon RF 100-500mm f/4.5-7.1 L IS USM</g:title>
-      <g:description>Tele zoom di punta del sistema Canon RF, 100-500mm con stabilizzatore da 5 stop e doppio motore Nano USM. 1530 g e 207 mm da chiuso lo rendono il piu portabile fra i supertele L: ci sta in uno zaino grande e al collo regge qualche ora. A 500mm f/7.1 serve luce o ISO alti, ma la qualita e la nitidezza giustificano il salto dal 100-400 f/5.6-8. Tropicalizzato, accetta i moltiplicatori 1.4x e 2x per arrivare a 700 o 1000mm. Pensato per fauna, sport, aviazione e viaggi dove il peso conta.</g:description>
+      <g:description>Il tele zoom di punta del sistema Canon RF: 100-500 mm con stabilizzatore da 5 stop e doppio motore Nano USM. 1530 grammi e 207 mm da chiuso lo rendono il più portabile fra i supertele L: ci sta in uno zaino grande e lo porti al collo per qualche ora. A 500 mm con f/7.1 serve luce o ISO alti, ma la nitidezza vale il salto dal 100-400 f/5.6-8. Tropicalizzato e compatibile con i moltiplicatori 1.4x e 2x.</g:description>
       <g:link>https://www.pickforme.it/prodotto/canon-rf-100-500-l-is-usm/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/71F07emjDNL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71hE4gsb30L._AC_SL1500_.jpg</g:additional_image_link>
@@ -26808,7 +26705,7 @@
     <item>
       <g:id>B0C8J5BH7B</g:id>
       <g:title>Nikon Nikkor Z 180-600mm f/5.6-6.3 VR</g:title>
-      <g:description>Zoom tele full-frame Nikon Z con escursione 180-600mm, pensato per fauna, uccelli, sport e aviazione quando serve arrivare lontano senza spendere come un 500/4. Costruzione a zoom interno: non si allunga zoomando, quindi il peso resta ben bilanciato. Stabilizzatore VR da 5 stop, 9 lamelle e motore silenzioso che lavora bene con i corpi Z8 e Z9. 2140 g: con un monopiede o uno zaino bello solido tiene l&apos;intera giornata.</g:description>
+      <g:description>Zoom tele full-frame Nikon Z con escursione 180-600 mm, pensato per fauna, uccelli, sport e aviazione quando serve arrivare lontano senza pagare 10.000 euro. La costruzione a zoom interno è il dettaglio che fa la differenza: non si allunga zoomando, quindi il bilanciamento resta stabile. Stabilizzatore VR da 5 stop e autofocus silenzioso che lavora bene con Z8 e Z9. 2140 grammi: con un monopiede o uno zaino solido fa la giornata.</g:description>
       <g:link>https://www.pickforme.it/prodotto/nikon-z-180-600-vr/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/81qAyO5xgsL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/61sPG4f4PfL._AC_SL1350_.jpg</g:additional_image_link>
@@ -26826,7 +26723,7 @@
     <item>
       <g:id>B09KLKHV6D</g:id>
       <g:title>Nikon Nikkor Z 24-120mm f/4 S</g:title>
-      <g:description>Zoom standard S-Line di Nikon Z con escursione 24-120mm e apertura costante f/4. Copre grandangolo, standard e tele medio senza cambiare obiettivo, con qualita da serie S e peso contenuto a 630 g. Niente VR nell&apos;ottica: si appoggia alla stabilizzazione del corpo Z6/Z7/Z8/Z9. Pensato come lente di default da montare per viaggi, reportage, matrimoni e lavoro misto foto+video. 9 lamelle per uno sfocato morbido e messa a fuoco rapida grazie al doppio motore STM.</g:description>
+      <g:description>Zoom standard S-Line di Nikon Z, da 24 a 120 mm con apertura f/4 costante. Copre grandangolo, standard e tele medio senza cambi d&apos;obiettivo, con la qualità della serie S e 630 grammi ben bilanciati sui corpi Z6, Z7 e Z8. Niente VR in ottica: si appoggia alla stabilizzazione sul sensore del corpo. È la lente che tieni montata di default per viaggi, reportage, matrimoni e lavoro misto foto-video.</g:description>
       <g:link>https://www.pickforme.it/prodotto/nikon-z-24-120-f4-s/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/61zScKbeUwL._AC_SL1000_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/917hUvzceGL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26878,7 +26775,7 @@
     <item>
       <g:id>B09D3BR36M</g:id>
       <g:title>Fujifilm Fujinon XF 33mm f/1.4 R LM WR</g:title>
-      <g:description>Fisso 33mm f/1.4 per Fujifilm X, equivalente ad un 50mm su APS-C. È la focale normale per eccellenza: resa naturale, utile per ritratto, strada, cibo e vita di tutti i giorni. Costruzione tropicalizzata WR, motore lineare rapido e silenzioso per autofocus pronto anche in video. 15 elementi in 10 gruppi con 2 asferiche e 3 ED, nitidissimo gia a tutta apertura. 360 g: compatto ma solido, bilanciato su corpi X-T5, X-H2, X-Pro3. Diaframma a 9 lamelle per sfocato morbido.</g:description>
+      <g:description>Fisso 33 mm f/1.4 per sistema Fujifilm X, equivalente a un 50 mm su APS-C. È la focale normale per eccellenza: resa naturale per ritratto, strada, cibo e vita di tutti i giorni. Tropicalizzato WR e con motore lineare rapido e silenzioso, l&apos;autofocus resta pronto anche in video. 15 elementi in 10 gruppi con 2 asferiche e 3 ED: nitido già a tutta apertura.</g:description>
       <g:link>https://www.pickforme.it/prodotto/fujifilm-xf-33-f14-r-lm-wr/</g:link>
       <g:image_link>https://m.media-amazon.com/images/I/712DR4ukGgL._AC_SL1500_.jpg</g:image_link>
       <g:additional_image_link>https://m.media-amazon.com/images/I/71P4K3rCNoL._AC_SL1500_.jpg</g:additional_image_link>
@@ -26926,6 +26823,470 @@
       <g:condition>new</g:condition>
       <g:google_product_category>Obiettivi fotografici</g:google_product_category>
       <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CCNXYWBS</g:id>
+      <g:title>Eaton 5E Gen2 700 USB DIN</g:title>
+      <g:description>Piccolo gruppo di continuità Eaton line-interactive da 700VA, pensato per proteggere la postazione di un professionista: 2 prese DIN, tempo tipico di autonomia 8-12 minuti a carico pieno, software di spegnimento ordinato di PC e NAS. Silenzioso, non ingombrante, Eaton è il nome di riferimento sui backup in Italia.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/eaton-5e-gen2-700-ud/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/91yrGvGrC-L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81xUWBiTLjL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81vFTLlS6VL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81ib+6e-V5L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>80.60 EUR</g:price>
+      <g:brand>Eaton</g:brand>
+      <g:mpn>B0CCNXYWBS</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CBZ11HVD</g:id>
+      <g:title>Synology DiskStation DS124</g:title>
+      <g:description>DiskStation Synology a un solo alloggiamento, l&apos;ingresso minimo al mondo NAS senza perdere l&apos;ecosistema DSM. Ti serve per avere una cartella condivisa sempre accesa fra più PC, un backup Time Machine o Windows ordinato, un archivio pratiche accessibile da remoto con QuickConnect. 1GB di RAM, Gigabit, senza disco incluso.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/synology-ds124-nas-1bay/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51ujHKPMUGL._AC_SL1280_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51ebgIZdT+L._AC_SL1280_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51LlzRD-W6L._AC_SL1280_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61nbyLAx4UL._AC_SL1280_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>168.99 EUR</g:price>
+      <g:brand>Synology</g:brand>
+      <g:mpn>B0CBZ11HVD</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CK2P3HR7</g:id>
+      <g:title>Brother HL-L2445DW</g:title>
+      <g:description>Stampante laser Brother a 32 pagine al minuto con duplex automatico e Wi-Fi, senza scanner integrato. Essenziale: la metti in uno studio, stampi fatture, contratti, documenti giuridici in bianco e nero, dimentichi il toner per migliaia di pagine. I toner compatibili costano poco, i driver Brother funzionano bene su Mac e Windows.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/brother-hl-l2445dw-laser/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61RV6F-uznL._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61-7c6kuv2L._AC_SL1246_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71T-KY753fL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61fxp0LaH9L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.00 EUR</g:price>
+      <g:brand>Brother</g:brand>
+      <g:mpn>B0CK2P3HR7</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B01EXDG2MO</g:id>
+      <g:title>TP-Link TL-SG108 Switch 8 porte</g:title>
+      <g:description>Switch Gigabit TP-Link plug and play da 8 porte, cassa in metallo, consumi contenuti. Si mette tra il router e i PC/stampante/NAS della scrivania e porta tutti su cavo stabile. Nessuna configurazione: lo attacchi e funziona. Dura una vita, decine di migliaia di valutazioni positive.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/tp-link-tl-sg108-switch/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/81q+REcK-oL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81tD1Uj1phL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/818vw81Um+L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71oVh-XEpUL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>22.00 EUR</g:price>
+      <g:brand>TP-Link</g:brand>
+      <g:mpn>B01EXDG2MO</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B08T6CKG5B</g:id>
+      <g:title>Ubiquiti UniFi U6 Lite Access Point</g:title>
+      <g:description>Access point UniFi dual band WiFi 6 a soffitto, alimentato PoE o con injector incluso: finalmente sostituisci il router ADSL con una copertura seria. Gestione da controller UniFi (anche gratuito su Mac/PC o cloud), supporta reti separate per studio, ospiti, telecamere. Lo compra chi non vuole più il wifi che balla a metà giornata.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/unifi-u6-lite-access-point/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/314Cn8d+ksL._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41E--omt01L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/215Rm9ozZiL._AC_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/21yEQdfz4rL._AC_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>159.99 EUR</g:price>
+      <g:brand>Ubiquiti</g:brand>
+      <g:mpn>B08T6CKG5B</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B07W7KMK4Y</g:id>
+      <g:title>Logitech MX Keys Mini (ITA QWERTY)</g:title>
+      <g:description>Logitech MX Keys Mini è la versione compatta della MX Keys S: tastiera a filo basso, tasti concavi, layout italiano QWERTY. Senza tastierino numerico recupera spazio per mouse e documenti. Retroilluminazione con sensore di prossimità, ricarica USB-C che tiene mesi, Bluetooth o Logi Bolt per switchare fra PC, Mac e iPad.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/logitech-mx-keys-mini-ita/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71lj3D23-OL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71gAtAECXYL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/716vI4TWLHL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71WqG3mrZ5L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>79.99 EUR</g:price>
+      <g:brand>Logitech</g:brand>
+      <g:mpn>B07W7KMK4Y</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B09TY127B8</g:id>
+      <g:title>Dell P2723QE 27&quot; 4K USB-C Hub</g:title>
+      <g:description>Dell P2723QE è il monitor da ufficio 4K che si compra una volta: 27&quot; IPS UHD 350 nit, 95% DCI-P3, hub USB-C con power delivery 90W, ethernet RJ45 passante, 4 porte USB-A. Il notebook arriva con un cavo e trova monitor, rete, periferiche, ricarica. Supporto ergonomico Dell completo e garanzia Premium Panel.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/dell-p2723qe-27-4k-usbc/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/612mDVMoGvL._AC_SL1280_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/415GxokrvlL._AC_SL1280_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41yvUc9cvCL._AC_SL1280_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41-v84U88+L._AC_SL1280_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>368.13 EUR</g:price>
+      <g:brand>Dell</g:brand>
+      <g:mpn>B09TY127B8</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B07W4DHLWV</g:id>
+      <g:title>Logitech MX Brio 4K</g:title>
+      <g:description>MX Brio è la nuova webcam di punta di Logitech per lavoro ibrido: sensore 4K, doppio microfono con cancellazione rumore, autofocus AI, Show Mode per inquadrare documenti sulla scrivania, otturatore fisico per privacy. Sta sul monitor o su treppiede, dialoga con Zoom, Teams, Meet senza driver. Finitura seria, cavo USB-C intrecciato.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/logitech-mx-brio-4k-webcam/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/611pW69e9RL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71xCQfvejqL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71F8JWb-ClL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81ptkEH3qOL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>193.53 EUR</g:price>
+      <g:brand>Logitech</g:brand>
+      <g:mpn>B07W4DHLWV</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0G2SG3NFT</g:id>
+      <g:title>Logitech MX Master 3S for Business</g:title>
+      <g:description>MX Master 3S è lo standard de facto per il professionista che passa 8 ore al giorno al PC: forma ergonomica per la mano, clic quasi silenziosi, rotella MagSpeed che scorre centinaia di righe in un secondo, sensore 8K DPI che va anche sul vetro. Due dispositivi in parallelo (Bluetooth + Bolt), autonomia 70 giorni, ricarica USB-C.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/logitech-mx-master-3s-mouse/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61C0EGFbtEL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81f-tgX7C9L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71-0F2ReUML._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81wTU+JA24L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>103.36 EUR</g:price>
+      <g:brand>Logitech</g:brand>
+      <g:mpn>B0G2SG3NFT</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B07Q8M2GFZ</g:id>
+      <g:title>Fellowes Powershred 100M Ibrido</g:title>
+      <g:description>Fellowes 100M è pensato per studi legali, notarili e commercialisti con documenti sensibili: taglio a micro frammento P-4, caricatore automatico da 100 fogli (chiudi e vai via), modalità manuale per singoli documenti, modalità riposo con risparmio energetico. Compliant GDPR per dati personali, cestino da 20 L.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/fellowes-100m-shredder-ibrido/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61W8ngx-toL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71UilZKSxlL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71baEqwpAkL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/619uiaYqU4L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>249.90 EUR</g:price>
+      <g:brand>Fellowes</g:brand>
+      <g:mpn>B07Q8M2GFZ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Ufficio e piccola attività</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GQVBWMN8</g:id>
+      <g:title>iRobot Roomba 115 Combo</g:title>
+      <g:description>È l&apos;iRobot per chi vuole la rassicurazione del marchio spendendo poco. Lidar ClearView che mappa bene anche al buio, aspirazione decente a 15.000 Pa, panno in microfibra pressato da SmartScrub per i segni più testardi. Zero dock complicato, zero manuali lunghi: si attacca, si configura e lavora. È un robot da appartamento piccolo o medio, non da villa.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/irobot-roomba-115-combo/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/31+oziQf1+L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51efmAa4KsL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41M0vszg86L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51s-VsU2OEL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>140.00 EUR</g:price>
+      <g:brand>iRobot</g:brand>
+      <g:mpn>B0GQVBWMN8</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Robot aspirapolvere</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GKZP4QTV</g:id>
+      <g:title>Ecovacs Deebot T90 Pro Omni Care Kit</g:title>
+      <g:description>È la proposta Ecovacs che punta sul mocio a rullo: invece di due panni rotanti c&apos;è un cilindro largo 27 cm che spinge sul pavimento e viene lavato in continuo. Aspirazione da 30.000 Pa, ruote adattive che superano scalini da 2,4 cm, dispensa automatica del detergente dalla stazione. La versione Care Kit arriva con spazzola di ricambio, filtri e soluzione detergente già dentro.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ecovacs-t90-pro-omni-care-kit/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/31XgENfqpuL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51ibEp21JBL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51vUhdGOvxL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41io4xSRGPL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>595.20 EUR</g:price>
+      <g:brand>Ecovacs</g:brand>
+      <g:mpn>B0GKZP4QTV</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Robot aspirapolvere</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0CDJ2WJSM</g:id>
+      <g:title>Samsung Jet 65 Pet VS15A60AGR5</g:title>
+      <g:description>Scopa Samsung della famiglia Jet 65 nella versione Pet: motore Digital Inverter da 150W, nove vortici Jet Cyclone e filtro a cinque strati che trattiene fino al 99,999% della polvere. Autonomia 40 minuti con batteria rimovibile al litio da 21,6V. In confezione sei accessori tra cui il Pet Tool per peli di animali. Un solo livello di potenza, soluzione lineare che punta tutto su batteria sostituibile e marchio Samsung.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/samsung-jet-65-pet/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/51S-OSmhODL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/31kmImBkvXL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41b8qtyDV3L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/4163OX+eA2L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>212.00 EUR</g:price>
+      <g:brand>Samsung</g:brand>
+      <g:mpn>B0CDJ2WJSM</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GJSLTZK3</g:id>
+      <g:title>Roborock F25 GT Gen2 Set</g:title>
+      <g:description>Roborock F25 GT Gen2 è un lavapavimenti cordless che aspira e lava insieme con 20.000 Pa di aspirazione e 450 passate al minuto. Design piatto a 180° con telaio da 12,5 cm per raggiungere sotto letti e mobili. Rullo JawScrapers anti-groviglio, autopulizia alta temperatura e asciugatura ad aria calda per limitare umidità e odori. Serbatoio polvere da 870 ml e autonomia 38 minuti in Eco. Pensata per chi vuole sostituire scopa e lavapavimenti con un unico apparecchio cordless.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/roborock-f25-gt-gen2/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61AVz1Oy8NL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51Pxvb8JYHL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51nI0lG61LL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/31KwV5evq6L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>309.00 EUR</g:price>
+      <g:brand>Roborock</g:brand>
+      <g:mpn>B0GJSLTZK3</g:mpn>
+      <g:gtin>0810125545177</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B09V7Z195Q</g:id>
+      <g:title>Bosch Unlimited 7 BBS711W</g:title>
+      <g:description>Bosch Unlimited 7 BBS711W è la scopa cordless con batteria 18V da 3.0 Ah intercambiabile e tubo flessibile che si piega a metà: pulisci sotto i mobili senza chinarti. Spazzola motorizzata con luci LED per individuare la polvere, filtro HEPA e fino a 100 m² con una ricarica. Motore Made in Germany coperto da garanzia 10 anni registrando il prodotto sul sito Bosch entro 60 giorni dall&apos;acquisto. Serbatoio contenuto da 0,3 litri e autonomia 40 minuti su un livello di potenza.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/bosch-unlimited-7-bbs711w/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/713iAWSORlL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/413bs-r7rkL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41vQ+b9cOsL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41mqEtM19uL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>193.90 EUR</g:price>
+      <g:brand>Bosch</g:brand>
+      <g:mpn>B09V7Z195Q</g:mpn>
+      <g:gtin>4242005306657</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0GTHYWF8P</g:id>
+      <g:title>Proscenic P20 One Pass</g:title>
+      <g:description>Scopa Proscenic P20 con motore brushless da 680W, pressione dichiarata 70.000 Pa e serbatoio polvere da 1,5 litri, ampio per la categoria. Tubo pieghevole a 180° per raggiungere sotto letti e mobili bassi, spazzola anti-groviglio e luce verde GreenEye per vedere la polvere fine. 3 livelli di potenza con autonomia dichiarata 70 minuti in Eco, filtro HEPA 6 stadi. Nel kit anche un piccolo serbatoio acqua da 230 ml con panno per una passata umida, utile in più ma non sostituisce una vera lava-aspira.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/proscenic-p20-onepass/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71QxvQvCasL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/416Bw64B9hL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/417usQomlZL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41zLanAqaiL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>184.31 EUR</g:price>
+      <g:brand>Proscenic</g:brand>
+      <g:mpn>B0GTHYWF8P</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DSLC3MVB</g:id>
+      <g:title>Ultenic U20</g:title>
+      <g:description>Ultenic U20 punta tutto sulla leggerezza: corpo 1,7 kg con serbatoio polvere da 1,5 litri, tra le meglio bilanciate della fascia sotto i 250 euro. Motore brushless 600W, aspirazione dichiarata 55.000 Pa e autonomia 60 minuti in modalità pavimenti. Design autoportante che sta in piedi da solo, spazzola anti-groviglio a V che gestisce peli e capelli fino a 45 mm, filtro HEPA H12 a 7 stadi lavabile e luce LED verde per la polvere fine. 3 livelli di potenza e 3 modalità.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/ultenic-u20-cordless/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71tE83Bs+OL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51eqFMy51eL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41qWKgF1Z4L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/41gRND09kpL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>241.91 EUR</g:price>
+      <g:brand>Ultenic</g:brand>
+      <g:mpn>B0DSLC3MVB</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Aspirapolvere senza filo</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0DTB7GSNW</g:id>
+      <g:title>Philips Sonicare 7100 nuova tecnologia (HX7421/08)</g:title>
+      <g:description>La nuova versione della 7100 di Philips, la fascia alta dei Sonicare sotto la DiamondClean. Pulizia sonica a 62.000 movimenti al minuto, 4 modalità tra cui Denti Sensibili e Gum Care, 3 livelli di intensità e sensore di pressione che lampeggia viola. L&apos;app Sonicare ti segue mentre spazzoli e ti dice dove stai dimenticando di passare. Confezione con 4 testine Premium Gum Care e custodia da viaggio ricaricabile via USB.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/philips-sonicare-7100-nuova/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/7142v5OV9HL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61C+1G1xCaL._AC_SL1080_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71sla4s5sRL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71ASvgEDBIL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.97 EUR</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>B0DTB7GSNW</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0G7KR88LP</g:id>
+      <g:title>Philips Sonicare 3100 bianco con custodia (HX4033/21)</g:title>
+      <g:description>Il modello d&apos;ingresso dei Sonicare di Philips, nella versione bianca con custodia da viaggio. 31.000 movimenti al minuto, sensore di pressione ottico che vibra se premi troppo, timer da 2 minuti e tre livelli di intensità. La funzione EasyStart alza gradualmente la potenza nelle prime 14 sessioni, pensata per chi arriva dallo spazzolino manuale. Niente app, niente modalità extra: solo la pulizia sonica Philips a un prezzo sotto i 40 euro.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/philips-sonicare-3100-bianco/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71n3ZQqo4JL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71xGDdgQ4JL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71W8Ggb7zAL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71aEQbPJ0GL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>39.95 EUR</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>B0G7KR88LP</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0F32BTZ44</g:id>
+      <g:title>GUM Sonic Ortho per apparecchio ortodontico</g:title>
+      <g:description>Lo spazzolino elettrico di GUM pensato per chi porta l&apos;apparecchio ortodontico fisso. La testina ha una forma che entra tra brackets e filo metallico, con setole morbide che non graffiano le gengive. Vibrazioni soniche delicate (12.500 movimenti al minuto), funziona a batteria AAA che dura fino a tre mesi: niente base di ricarica e niente cavi. Nella scatola trovi 2 testine di ricambio oltre a quella montata. Un prodotto da farmacia a prezzo contenuto, con un numero verde di assistenza italiano.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/gum-sonic-ortho/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/717w7g0EGTL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/91froX6QyiL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/714jOM2u9wL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/715R0aqhtCL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24.09 EUR</g:price>
+      <g:brand>GUM</g:brand>
+      <g:mpn>B0F32BTZ44</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0B8JZGKP3</g:id>
+      <g:title>GUM Sonic Sensitive per gengive sensibili</g:title>
+      <g:description>Lo spazzolino elettrico di GUM pensato per chi ha gengive sensibili o che sanguinano. Setole ultra morbide a doppio livello con punta sottile, vibrazioni soniche leggere che muovono le setole lateralmente senza strofinare lo smalto. Nei test del produttore rimuove fino all&apos;88% di placca in più rispetto a uno spazzolino manuale sensibile. Funziona con una batteria AAA, dura fino a 3 mesi, senza cavi e senza base di ricarica. Nella scatola 2 testine di ricambio oltre a quella montata.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/gum-sonic-sensitive/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71326qf2jFL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61-lIrw+EFL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51x6Bt6omBL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/51h7tk6h+1L._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>26.37 EUR</g:price>
+      <g:brand>GUM</g:brand>
+      <g:mpn>B0B8JZGKP3</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0C6MDD8V6</g:id>
+      <g:title>Oral-B Pro Kids Spiderman per bambini 3+</g:title>
+      <g:description>Lo spazzolino elettrico ricaricabile di Oral-B per bambini dai 3 anni in su, nella versione Marvel Spiderman. Testina rotonda piccola con setole extra morbide, 2 modalità di pulizia (Quotidiana e Delicata) e manico decorato con adesivi intercambiabili. Si abbina all&apos;app gratuita Disney Magic Timer: fa partire un video e scopre un&apos;immagine mentre il bambino si lava i denti, così arriva più facilmente ai 2 minuti consigliati dal dentista. Bestseller numero 1 Amazon nella categoria spazzolini elettrici per bambini.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/oral-b-pro-kids-spiderman/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/81+D-bgAjLL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81SV6MmR4jL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/911q8qGcDVL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/91T36epyshL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>23.03 EUR</g:price>
+      <g:brand>Oral-B</g:brand>
+      <g:mpn>B0C6MDD8V6</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Spazzolini elettrici</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B07SHGX7H7</g:id>
+      <g:title>Xiaomi Mi Air Purifier 2H</g:title>
+      <g:description>Mi Air Purifier 2H è il purificatore storico Xiaomi: HEPA a 3 stadi che trattiene il 99,97% di polvere, polline e peli di animali, CADR dichiarato 260 m3/h e copertura fino a 31 m2. Si comanda da app Mi Home o tramite Alexa e Google Assistant, con modalità notte dedicata. Niente sensore qualità aria integrato: il motore si regola a mano o da timer.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/xiaomi-mi-air-purifier-2h/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/61t9wWkKh0L._AC_SL1000_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/517C893nYUL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71SroEIFhRL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61h33+Ja9DL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>109.00 EUR</g:price>
+      <g:brand>Xiaomi</g:brand>
+      <g:mpn>B07SHGX7H7</g:mpn>
+      <g:gtin>6934177709005</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0BL898WJZ</g:id>
+      <g:title>Philips Air Performer 3in1 AMF870</g:title>
+      <g:description>Air Performer 3in1 AMF870 è la torre Philips che fa tre cose insieme: purificatore HEPA NanoProtect con CADR 270 m3/h su 70 m2, ventilatore senza pale per l&apos;estate e termoventilatore ceramico PTC che scalda in meno di 3 secondi. Scende a 19 dB in sleep, consuma circa 40 W in modalità purificazione, si comanda da app Philips Air+ o Alexa.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/philips-air-performer-3in1-amf870/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71mk3cRsy3L._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71bPDYpWUCL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61kYlyX9oPL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61vK7nMBWrL._AC_SL1000_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>349.99 EUR</g:price>
+      <g:brand>Philips</g:brand>
+      <g:mpn>B0BL898WJZ</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H87384DT</g:id>
+      <g:title>DREO 539AS Pet Smart (HAP009AS)</g:title>
+      <g:description>DREO 539AS è il purificatore smart pensato per chi vive con cani o gatti: filtrazione HEPA H13 a 3 stadi al 99,97%, CADR 247 m3/h fino a 50 m2 con due ricambi d&apos;aria l&apos;ora, prefiltro dedicato ai peli e carbone attivo quadruplicato per gli odori. Ha sensore PM2.5 con display AQI, app, Alexa e Google Home, modalità sleep a 18 dB. Accessori pet-safe: cavo anti-morso, antiribaltamento, blocco di sicurezza.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/dreo-539as-hap009as/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/81edIfZsIfL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81yHzf2ubgL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/811Ooy+oOgL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81xmDKKX0lL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.99 EUR</g:price>
+      <g:brand>DREO</g:brand>
+      <g:mpn>B0H87384DT</g:mpn>
+      <g:gtin>0850084149474</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B0H699TJC3</g:id>
+      <g:title>DREO 338 (HAP008)</g:title>
+      <g:description>DREO 338 (DR-HAP008) è la versione base senza Wi-Fi del 338S: HEPA H13 a 3 stadi al 99,97%, prefiltro per peli e grandi particelle, carbone attivo per odori e VOC. Il sensore PM2.5 ad alta precisione alimenta la modalità automatica e un indicatore RGB che va dal blu al rosso in base alla qualità dell&apos;aria. Modalità sleep a 18 dB, diffusore di profumo integrato, certificato AHAM, CARB, ETL ed Energy Star.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/dreo-338-hap008/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71LIEYk8rgL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71YHGAFODxL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81fjopHL1gL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/81q9bONrkGL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>86.10 EUR</g:price>
+      <g:brand>DREO</g:brand>
+      <g:mpn>B0H699TJC3</g:mpn>
+      <g:gtin>0810225959423</g:gtin>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>yes</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>B08PFWHSXM</g:id>
+      <g:title>Samsung Air Purifier AX34R3020WW</g:title>
+      <g:description>Samsung Air Purifier AX34R3020WW è il purificatore di marchio nelle stanze fino a 34 m2 dichiarati: sistema multistrato con filtro HEPA al 99,97%, filtro deodorante per gas e odori, tre uscite d&apos;aria frontali e superiori. La modalità automatica legge l&apos;inquinamento ambientale e regola la ventola da sola, la modalità notte abbassa rumore e intensità. Sicurezza bambini sui comandi, due anni di disponibilità pezzi di ricambio UE.</g:description>
+      <g:link>https://www.pickforme.it/prodotto/samsung-ax34r3020ww/</g:link>
+      <g:image_link>https://m.media-amazon.com/images/I/71kH7qbHBaL._AC_SL1500_.jpg</g:image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71w+METXBUL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/71J0NAQo7VL._AC_SL1500_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://m.media-amazon.com/images/I/61NvSefCdlL._AC_SL1230_.jpg</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>185.00 EUR</g:price>
+      <g:brand>Samsung</g:brand>
+      <g:mpn>B08PFWHSXM</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Purificatori d'aria</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
     </item>
   </channel>
 </rss>
