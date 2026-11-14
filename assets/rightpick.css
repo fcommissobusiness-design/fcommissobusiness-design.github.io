@@ -611,6 +611,7 @@ section{padding:34px 0}section.tight{padding:18px 0}
 
 /* ---- carrello "i tuoi prodotti" ---- */
 .cartfab{position:fixed;right:18px;bottom:18px;z-index:70;height:52px;padding:0 18px;border-radius:99px;background:var(--grad);color:#fff;box-shadow:0 10px 26px -8px rgba(248,90,48,.7);display:flex;align-items:center;gap:9px;cursor:pointer;font-weight:700}
+.cartfab[hidden],.cartpanel[hidden]{display:none}
 .cartfab-n{background:#fff;color:var(--orange-deep);border-radius:99px;min-width:22px;height:22px;display:grid;place-items:center;font-size:12.5px;padding:0 6px}
 .cartfab.pulse{animation:cartpulse .6s ease}
 @keyframes cartpulse{0%,100%{transform:scale(1)}40%{transform:scale(1.12)}}
