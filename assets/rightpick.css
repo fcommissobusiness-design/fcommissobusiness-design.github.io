@@ -542,6 +542,21 @@ section{padding:34px 0}section.tight{padding:18px 0}
 .ctile-b{display:flex;flex-direction:column;gap:2px}
 .ctile-b b{font-size:13.5px;font-weight:700;line-height:1.2}
 .ctile-n{font-size:11.5px;color:var(--muted)}
+.bfgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(258px,1fr));gap:14px;margin-bottom:10px}
+.bfcard{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:var(--r);padding:14px;background:#fff;transition:.14s}
+.bfcard:hover{border-color:var(--orange);box-shadow:var(--shadow)}
+.bfcard-h{display:flex;gap:12px;align-items:center;text-decoration:none;color:inherit}
+.bfcard-m{width:64px;height:64px;flex:none;background:var(--soft);border-radius:var(--r-s);display:grid;place-items:center;padding:8px}
+.bfcard-m img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;mix-blend-mode:multiply}
+.bfcard-t{display:flex;flex-direction:column;gap:2px}
+.bfcard-t b{font-size:14px;line-height:1.2}
+.bfcard-n{font-size:11.5px;color:var(--muted)}
+.bfcard-picks{display:flex;flex-direction:column;gap:1px;margin:12px 0 4px;border-top:1px solid var(--line);padding-top:10px}
+.bfpick{display:flex;justify-content:space-between;gap:10px;align-items:baseline;text-decoration:none;color:var(--ink-2);font-size:12.5px;padding:4px 6px;border-radius:8px;transition:.12s}
+.bfpick:hover{background:var(--soft);color:var(--orange-deep)}
+.bfpick-n{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bfpick-p{font-weight:700;flex:none;color:var(--ink)}
+.bfcard-all{margin-top:auto;font-size:12.5px;font-weight:700;color:var(--orange-deep);text-decoration:none;padding-top:8px}
 
 /* ---- blocco editoriale answer-first delle guide ---- */
 .answer{border:1px solid var(--line);border-left:4px solid var(--orange);border-radius:var(--r);background:var(--orange-soft);padding:16px 18px;margin:16px 0 4px}

@@ -29,6 +29,27 @@
     });
   })();
 
+  /* --- tracciamento clic sui link affiliati di brand (rete Awin, es. Imou):
+     ogni clic su un deep-link awin1.com manda un evento GA4 "brand_click" con
+     il prodotto (clickref) e la posizione (clickref2 = pdp/card/home...). Serve
+     a confrontare la resa dei link brand rispetto ad Amazon. Delegato sul
+     document, cosi' copre schede, griglie e home senza agganci per-elemento. --- */
+  (function () {
+    document.addEventListener('click', function (e) {
+      const a = e.target.closest('a[href*="awin1.com"]');
+      if (!a) return;
+      try {
+        const u = new URL(a.href);
+        if (window.gtag) gtag('event', 'brand_click', {
+          brand: 'imou',
+          product_id: u.searchParams.get('clickref') || '',
+          source: u.searchParams.get('clickref2') || '',
+          location: location.pathname
+        });
+      } catch (x) { }
+    }, true);
+  })();
+
   /* --- filtri a fisarmonica su mobile: ogni sezione (.sblock) si apre/chiude
      col titolo, cosi' non allungano la pagina. Sopra i 900px restano aperti. --- */
   (function () {
